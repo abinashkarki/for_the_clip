@@ -1,0 +1,44 @@
+{
+  "id": "phrase_clean",
+  "name": "Phrase clean",
+  "font": {
+    "family": "Inter",
+    "file": "Inter-SemiBold.ttf",
+    "size": 56
+  },
+  "case": "none",
+  "grouping": {
+    "max_words": 7,
+    "max_chars": 38,
+    "max_lines": 2,
+    "break_on_pause": 0.5
+  },
+  "position": {
+    "y": 0.78,
+    "max_width": 0.84
+  },
+  "colors": {
+    "text": "#FFFFFF",
+    "active": "#FFFFFF",
+    "emphasis": "#FFD84A",
+    "stroke": "#000000",
+    "box": "#0F141CCC",
+    "active_box": null
+  },
+  "stroke_width": 0,
+  "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 0,
+    "color": "#00000000"
+  },
+  "active_word": {
+    "style": "none",
+    "scale": 1.0
+  },
+  "animation": {
+    "in": "fade",
+    "duration_ms": 120
+  },
+  "line_height": 1.25
+}

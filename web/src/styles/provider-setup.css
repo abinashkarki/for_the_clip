@@ -1,0 +1,10 @@
+.provider-setup .section-head { flex-wrap: wrap; gap: 12px; }
+.provider-setup-steps { display: grid; gap: 22px; padding-left: 24px; margin: 18px 0; }
+.provider-setup-steps h3 { font-size: 14px; margin: 0 0 8px; }
+.provider-setup-steps p { margin: 8px 0 12px; overflow-wrap: anywhere; }
+.provider-setup-key { display: grid; gap: 8px; }
+.provider-setup-key input { flex: 1 1 200px; min-width: 0; }
+.provider-setup .btn-row { flex-wrap: wrap; }
+.provider-setup-choice { display: block; margin-bottom: 8px; }
+.provider-setup select { width: 100%; max-width: 480px; }
+.provider-setup-notes { display: block; padding-left: 32px; overflow-wrap: anywhere; }

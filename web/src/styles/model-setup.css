@@ -1,0 +1,7 @@
+.model-setup-list { grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); }
+.model-setup-title { flex-wrap: wrap; }
+.model-setup-terms { display: flex; gap: 9px; align-items: flex-start; font-size: 13px; }
+.model-setup-terms input { flex: none; margin-top: 3px; accent-color: var(--accent); }
+.model-setup-progress { display: flex; flex-direction: column; gap: 6px; }
+.model-setup-message { overflow-wrap: anywhere; }
+.model-setup-error { flex-wrap: wrap; justify-content: space-between; }

@@ -1,0 +1,44 @@
+{
+  "id": "impact_one",
+  "name": "Impact one",
+  "font": {
+    "family": "Anton",
+    "file": "Anton-Regular.ttf",
+    "size": 150
+  },
+  "case": "upper",
+  "grouping": {
+    "max_words": 1,
+    "max_chars": 16,
+    "max_lines": 1,
+    "break_on_pause": 0.3
+  },
+  "position": {
+    "y": 0.58,
+    "max_width": 0.9
+  },
+  "colors": {
+    "text": "#FFFFFF",
+    "active": "#FFE600",
+    "emphasis": "#3CF2FF",
+    "stroke": "#000000",
+    "box": null,
+    "active_box": null
+  },
+  "stroke_width": 14,
+  "shadow": {
+    "dx": 0,
+    "dy": 10,
+    "blur": 0,
+    "color": "#000000AA"
+  },
+  "active_word": {
+    "style": "scale",
+    "scale": 1.15
+  },
+  "animation": {
+    "in": "pop",
+    "duration_ms": 110
+  },
+  "line_height": 1.0
+}

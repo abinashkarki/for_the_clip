@@ -1,0 +1,481 @@
+{
+  "release": {
+    "path": "/tmp/pbs-libpython3.12.dylib",
+    "file_sha256": "a115e63928ec36e0d2788f21bac4dbc5aeeb6367e0a9d5f31a96cb8ac699a5c8",
+    "sections": {
+      "__TEXT,__text": {
+        "size": 8878188,
+        "sha256": "679cc4d08eff245aff8c025c770cf011afe6090dc71f7a9c3186e84879edeee0"
+      },
+      "__TEXT,__stubs": {
+        "size": 8184,
+        "sha256": "2ef0f3b158da95b9c71e34c6000ff63ad9dfde6f9716488d32354582eb968dff"
+      },
+      "__TEXT,__stub_helper": {
+        "size": 8208,
+        "sha256": "f6e2b1e4b30976b1743beffbd3feb90f18468702fcce4a8f32b7542870c607b1"
+      },
+      "__TEXT,__cstring": {
+        "size": 595323,
+        "sha256": "462198b4af658c5b54e4ee983cd49fd2fd97306ff9a5dbb6285de3386c9c4413"
+      },
+      "__TEXT,__const": {
+        "size": 3583489,
+        "sha256": "19e99af9164d7c78681062af71fcccc3f4a23368717d649a0ff6022fa5f5c076"
+      },
+      "__TEXT,__literals": {
+        "size": 5016,
+        "sha256": "6a9440d4cc1d6a70d1e00b11cc330ec92dcb8f83126110084a40e80aca014aea"
+      },
+      "__TEXT,__unwind_info": {
+        "size": 70172,
+        "sha256": "75bdbd265d2bb49fa60d9a1c506f0a7f26cf68ec7b69e050deb4a2f73ed58cc8"
+      },
+      "__TEXT,__eh_frame": {
+        "size": 1704,
+        "sha256": "a98c22c86cf9a7edfb4883bf88066aad838556ae71168944dc77981ffd4d7e08"
+      },
+      "__DATA_CONST,__got": {
+        "size": 608,
+        "sha256": "4beb641f77c3df2749a5dffc0a23f4270dc4b94e1e940287fc3ebfa05b720662"
+      },
+      "__DATA_CONST,__const": {
+        "size": 1129656,
+        "sha256": "50597be8fefd1ea7b8a3f080d9f32bcde303113d27b03f4956f499688a9eab58"
+      },
+      "__DATA_CONST,__mod_init_func": {
+        "size": 8,
+        "sha256": "7d657e13013d0e41d393014325cdf477b8e984a60b1966fd6a5a71e5e47dd82c"
+      },
+      "__DATA,__la_symbol_ptr": {
+        "size": 5456,
+        "sha256": "5de81d8e69fd35fd221fb408795812242a427cc92f2c72fa34c7d6ad1ab05ec0"
+      },
+      "__DATA,__data": {
+        "size": 1139728,
+        "sha256": "d582f25863996529906014bd127b457644af44ce4865c920385df3534e6e1258"
+      },
+      "__DATA,__thread_vars": {
+        "size": 48,
+        "sha256": "53d43e48ec48583c187f9a9957ed1000cf0d9169e33ebbd34ac1b494303f2c99"
+      },
+      "__DATA,PyRuntime": {
+        "size": 458744,
+        "sha256": "0c548cdc300443765b159826d03eeab6775e6fcdc0e5becc9de9a5de9b9e9c45"
+      }
+    },
+    "commands": [
+      {
+        "cmd": "0x19",
+        "size": 712
+      },
+      {
+        "cmd": "0x19",
+        "size": 312
+      },
+      {
+        "cmd": "0x19",
+        "size": 632
+      },
+      {
+        "cmd": "0x19",
+        "size": 72
+      },
+      {
+        "cmd": "0x80000022",
+        "size": 48
+      },
+      {
+        "cmd": "0x2",
+        "size": 24
+      },
+      {
+        "cmd": "0xb",
+        "size": 80
+      },
+      {
+        "cmd": "0xd",
+        "size": 64,
+        "name": "/install/lib/libpython3.12.dylib"
+      },
+      {
+        "cmd": "0x1b",
+        "size": 24,
+        "uuid": "4c4c440c55553144a176328edb09b857"
+      },
+      {
+        "cmd": "0x32",
+        "size": 32
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libSystem.B.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libncurses.5.4.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libpanel.5.4.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 104,
+        "name": "/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation"
+      },
+      {
+        "cmd": "0xc",
+        "size": 112,
+        "name": "/System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration"
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libedit.3.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 48,
+        "name": "/usr/lib/libz.1.dylib"
+      },
+      {
+        "cmd": "0x26",
+        "size": 16
+      },
+      {
+        "cmd": "0x29",
+        "size": 16
+      },
+      {
+        "cmd": "0x1d",
+        "size": 16,
+        "dataoff": 17897424,
+        "datasize": 139968
+      }
+    ]
+  },
+  "toolchain": {
+    "path": "output/macos-spike/toolchains/cpython-3.12.12-macos-aarch64-none/lib/libpython3.12.dylib",
+    "file_sha256": "6215c1eb8243bb42db26492035c45c1bdf05c01d2874a911eb7ed776af24b5f4",
+    "sections": {
+      "__TEXT,__text": {
+        "size": 8878188,
+        "sha256": "679cc4d08eff245aff8c025c770cf011afe6090dc71f7a9c3186e84879edeee0"
+      },
+      "__TEXT,__stubs": {
+        "size": 8184,
+        "sha256": "2ef0f3b158da95b9c71e34c6000ff63ad9dfde6f9716488d32354582eb968dff"
+      },
+      "__TEXT,__stub_helper": {
+        "size": 8208,
+        "sha256": "f6e2b1e4b30976b1743beffbd3feb90f18468702fcce4a8f32b7542870c607b1"
+      },
+      "__TEXT,__cstring": {
+        "size": 595323,
+        "sha256": "462198b4af658c5b54e4ee983cd49fd2fd97306ff9a5dbb6285de3386c9c4413"
+      },
+      "__TEXT,__const": {
+        "size": 3583489,
+        "sha256": "19e99af9164d7c78681062af71fcccc3f4a23368717d649a0ff6022fa5f5c076"
+      },
+      "__TEXT,__literals": {
+        "size": 5016,
+        "sha256": "6a9440d4cc1d6a70d1e00b11cc330ec92dcb8f83126110084a40e80aca014aea"
+      },
+      "__TEXT,__unwind_info": {
+        "size": 70172,
+        "sha256": "75bdbd265d2bb49fa60d9a1c506f0a7f26cf68ec7b69e050deb4a2f73ed58cc8"
+      },
+      "__TEXT,__eh_frame": {
+        "size": 1704,
+        "sha256": "a98c22c86cf9a7edfb4883bf88066aad838556ae71168944dc77981ffd4d7e08"
+      },
+      "__DATA_CONST,__got": {
+        "size": 608,
+        "sha256": "4beb641f77c3df2749a5dffc0a23f4270dc4b94e1e940287fc3ebfa05b720662"
+      },
+      "__DATA_CONST,__const": {
+        "size": 1129656,
+        "sha256": "50597be8fefd1ea7b8a3f080d9f32bcde303113d27b03f4956f499688a9eab58"
+      },
+      "__DATA_CONST,__mod_init_func": {
+        "size": 8,
+        "sha256": "7d657e13013d0e41d393014325cdf477b8e984a60b1966fd6a5a71e5e47dd82c"
+      },
+      "__DATA,__la_symbol_ptr": {
+        "size": 5456,
+        "sha256": "5de81d8e69fd35fd221fb408795812242a427cc92f2c72fa34c7d6ad1ab05ec0"
+      },
+      "__DATA,__data": {
+        "size": 1139728,
+        "sha256": "d582f25863996529906014bd127b457644af44ce4865c920385df3534e6e1258"
+      },
+      "__DATA,__thread_vars": {
+        "size": 48,
+        "sha256": "53d43e48ec48583c187f9a9957ed1000cf0d9169e33ebbd34ac1b494303f2c99"
+      },
+      "__DATA,PyRuntime": {
+        "size": 458744,
+        "sha256": "0c548cdc300443765b159826d03eeab6775e6fcdc0e5becc9de9a5de9b9e9c45"
+      }
+    },
+    "commands": [
+      {
+        "cmd": "0x19",
+        "size": 712
+      },
+      {
+        "cmd": "0x19",
+        "size": 312
+      },
+      {
+        "cmd": "0x19",
+        "size": 632
+      },
+      {
+        "cmd": "0x19",
+        "size": 72
+      },
+      {
+        "cmd": "0x80000022",
+        "size": 48
+      },
+      {
+        "cmd": "0x2",
+        "size": 24
+      },
+      {
+        "cmd": "0xb",
+        "size": 80
+      },
+      {
+        "cmd": "0xd",
+        "size": 144,
+        "name": "/Users/hi/projects/clippie/output/macos-spike/toolchains/cpython-3.12.12-macos-aarch64-none/lib/libpython3.12.dylib"
+      },
+      {
+        "cmd": "0x1b",
+        "size": 24,
+        "uuid": "4c4c440c55553144a176328edb09b857"
+      },
+      {
+        "cmd": "0x32",
+        "size": 32
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libSystem.B.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libncurses.5.4.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libpanel.5.4.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 104,
+        "name": "/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation"
+      },
+      {
+        "cmd": "0xc",
+        "size": 112,
+        "name": "/System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration"
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libedit.3.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 48,
+        "name": "/usr/lib/libz.1.dylib"
+      },
+      {
+        "cmd": "0x26",
+        "size": 16
+      },
+      {
+        "cmd": "0x29",
+        "size": 16
+      },
+      {
+        "cmd": "0x1d",
+        "size": 16,
+        "dataoff": 17897424,
+        "datasize": 139968
+      }
+    ]
+  },
+  "app": {
+    "path": "output/macos-spike/Clippie.app/Contents/Resources/python/lib/libpython3.12.dylib",
+    "file_sha256": "369cf7a1b387a4e8865a1f4dc193acc7ffe0c62b327269ddc3b4714dacdd81eb",
+    "sections": {
+      "__TEXT,__text": {
+        "size": 8878188,
+        "sha256": "679cc4d08eff245aff8c025c770cf011afe6090dc71f7a9c3186e84879edeee0"
+      },
+      "__TEXT,__stubs": {
+        "size": 8184,
+        "sha256": "2ef0f3b158da95b9c71e34c6000ff63ad9dfde6f9716488d32354582eb968dff"
+      },
+      "__TEXT,__stub_helper": {
+        "size": 8208,
+        "sha256": "f6e2b1e4b30976b1743beffbd3feb90f18468702fcce4a8f32b7542870c607b1"
+      },
+      "__TEXT,__cstring": {
+        "size": 595323,
+        "sha256": "462198b4af658c5b54e4ee983cd49fd2fd97306ff9a5dbb6285de3386c9c4413"
+      },
+      "__TEXT,__const": {
+        "size": 3583489,
+        "sha256": "19e99af9164d7c78681062af71fcccc3f4a23368717d649a0ff6022fa5f5c076"
+      },
+      "__TEXT,__literals": {
+        "size": 5016,
+        "sha256": "6a9440d4cc1d6a70d1e00b11cc330ec92dcb8f83126110084a40e80aca014aea"
+      },
+      "__TEXT,__unwind_info": {
+        "size": 70172,
+        "sha256": "75bdbd265d2bb49fa60d9a1c506f0a7f26cf68ec7b69e050deb4a2f73ed58cc8"
+      },
+      "__TEXT,__eh_frame": {
+        "size": 1704,
+        "sha256": "a98c22c86cf9a7edfb4883bf88066aad838556ae71168944dc77981ffd4d7e08"
+      },
+      "__DATA_CONST,__got": {
+        "size": 608,
+        "sha256": "4beb641f77c3df2749a5dffc0a23f4270dc4b94e1e940287fc3ebfa05b720662"
+      },
+      "__DATA_CONST,__const": {
+        "size": 1129656,
+        "sha256": "50597be8fefd1ea7b8a3f080d9f32bcde303113d27b03f4956f499688a9eab58"
+      },
+      "__DATA_CONST,__mod_init_func": {
+        "size": 8,
+        "sha256": "7d657e13013d0e41d393014325cdf477b8e984a60b1966fd6a5a71e5e47dd82c"
+      },
+      "__DATA,__la_symbol_ptr": {
+        "size": 5456,
+        "sha256": "5de81d8e69fd35fd221fb408795812242a427cc92f2c72fa34c7d6ad1ab05ec0"
+      },
+      "__DATA,__data": {
+        "size": 1139728,
+        "sha256": "d582f25863996529906014bd127b457644af44ce4865c920385df3534e6e1258"
+      },
+      "__DATA,__thread_vars": {
+        "size": 48,
+        "sha256": "53d43e48ec48583c187f9a9957ed1000cf0d9169e33ebbd34ac1b494303f2c99"
+      },
+      "__DATA,PyRuntime": {
+        "size": 458744,
+        "sha256": "0c548cdc300443765b159826d03eeab6775e6fcdc0e5becc9de9a5de9b9e9c45"
+      }
+    },
+    "commands": [
+      {
+        "cmd": "0x19",
+        "size": 712
+      },
+      {
+        "cmd": "0x19",
+        "size": 312
+      },
+      {
+        "cmd": "0x19",
+        "size": 632
+      },
+      {
+        "cmd": "0x19",
+        "size": 72
+      },
+      {
+        "cmd": "0x80000022",
+        "size": 48
+      },
+      {
+        "cmd": "0x2",
+        "size": 24
+      },
+      {
+        "cmd": "0xb",
+        "size": 80
+      },
+      {
+        "cmd": "0xd",
+        "size": 56,
+        "name": "@rpath/libpython3.12.dylib"
+      },
+      {
+        "cmd": "0x1b",
+        "size": 24,
+        "uuid": "4c4c440c55553144a176328edb09b857"
+      },
+      {
+        "cmd": "0x32",
+        "size": 32
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libSystem.B.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libncurses.5.4.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libpanel.5.4.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 104,
+        "name": "/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation"
+      },
+      {
+        "cmd": "0xc",
+        "size": 112,
+        "name": "/System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration"
+      },
+      {
+        "cmd": "0xc",
+        "size": 56,
+        "name": "/usr/lib/libedit.3.dylib"
+      },
+      {
+        "cmd": "0xc",
+        "size": 48,
+        "name": "/usr/lib/libz.1.dylib"
+      },
+      {
+        "cmd": "0x26",
+        "size": 16
+      },
+      {
+        "cmd": "0x29",
+        "size": 16
+      },
+      {
+        "cmd": "0x1d",
+        "size": 16,
+        "dataoff": 17897424,
+        "datasize": 53376
+      }
+    ]
+  },
+  "all_section_payloads_identical": true,
+  "qualification": "Section payload hashes exclude Mach-O headers, load commands, signature and unsectioned data; identical section hashes do not prove complete binary identity."
+}

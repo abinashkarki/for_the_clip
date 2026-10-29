@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+output/
+.playwright-cli/
+.pytest_cache/
+
+__pycache__/
+*.egg-info/
+web/node_modules/
+.DS_Store
+
+# Local configuration, media and generated project work
+.env.*
+!.env.example
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.sqlite
+*.sqlite3
+*.db

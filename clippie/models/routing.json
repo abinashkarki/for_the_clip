@@ -1,0 +1,12 @@
+{
+  "defaults": {
+    "map": {"provider": "gemini", "model": "gemini-3.8-flash"},
+    "discover": {"provider": "gemini", "model": "gemini-3.8-flash"},
+    "plan": {"provider": "gemini", "model": "gemini-3.8-flash"},
+    "review": {"provider": "gemini", "model": "gemini-3.8-flash"},
+    "repair": {"provider": "gemini", "model": "gemini-3.8-flash"},
+    "recommend": {"provider": "gemini", "model": "gemini-3.8-flash"},
+    "other": {"provider": "gemini", "model": "gemini-3.8-flash"}
+  },
+  "fallbacks": {}
+}

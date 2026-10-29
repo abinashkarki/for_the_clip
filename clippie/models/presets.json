@@ -1,0 +1,223 @@
+{
+  "as_of": "2026-10-24",
+  "presets": [
+    {
+      "id": "gemini_free",
+      "name": "Free \u00b7 Gemini",
+      "description": "Google AI Studio free tier. Flash-Lite maps the transcript; Gemini 3.5 Flash discovers and reviews (3.8 Flash was overloaded with 503s in testing on 24 Oct 2026). Free-tier prompts may be used by Google outside the EU, UK and Switzerland.",
+      "stages": {
+        "map": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.8-flash-lite",
+            "gemini-3.5-flash-lite",
+            "gemini-2.5-flash-lite",
+            "gemini-3.8-flash"
+          ]
+        },
+        "discover": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.5-flash",
+            "gemini-3.7-flash",
+            "gemini-3.8-flash"
+          ]
+        },
+        "plan": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.5-flash",
+            "gemini-3.7-flash",
+            "gemini-3.8-flash"
+          ]
+        },
+        "review": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.5-flash",
+            "gemini-3.7-flash",
+            "gemini-3.8-flash"
+          ]
+        },
+        "repair": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.5-flash",
+            "gemini-3.7-flash",
+            "gemini-3.8-flash"
+          ]
+        },
+        "recommend": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.8-flash-lite",
+            "gemini-3.8-flash"
+          ]
+        },
+        "other": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.5-flash",
+            "gemini-3.7-flash",
+            "gemini-3.8-flash"
+          ]
+        }
+      }
+    },
+    {
+      "id": "nvidia_free",
+      "name": "Free \u00b7 NVIDIA NIM",
+      "description": "build.nvidia.com developer key. Generous daily limits. Prompts are logged by NVIDIA; use public test videos.",
+      "stages": {
+        "map": {
+          "provider": "nvidia",
+          "models": [
+            "nvidia/nemotron-3-super-120b-a12b",
+            "openai/gpt-oss-120b"
+          ]
+        },
+        "discover": {
+          "provider": "nvidia",
+          "models": [
+            "nvidia/nemotron-3-super-120b-a12b",
+            "openai/gpt-oss-120b"
+          ]
+        },
+        "plan": {
+          "provider": "nvidia",
+          "models": [
+            "nvidia/nemotron-3-super-120b-a12b",
+            "openai/gpt-oss-120b"
+          ]
+        },
+        "review": {
+          "provider": "nvidia",
+          "models": [
+            "openai/gpt-oss-120b",
+            "nvidia/nemotron-3-super-120b-a12b"
+          ]
+        },
+        "repair": {
+          "provider": "nvidia",
+          "models": [
+            "openai/gpt-oss-120b",
+            "nvidia/nemotron-3-super-120b-a12b"
+          ]
+        },
+        "recommend": {
+          "provider": "nvidia",
+          "models": [
+            "openai/gpt-oss-120b"
+          ]
+        },
+        "other": {
+          "provider": "nvidia",
+          "models": [
+            "openai/gpt-oss-120b"
+          ]
+        }
+      }
+    },
+    {
+      "id": "openrouter_free",
+      "name": "Free \u00b7 OpenRouter",
+      "description": "OpenRouter ':free' models: 50 requests a day, 1,000 after a one-time $10 top-up. Turn off training-allowed providers in OpenRouter's privacy settings if needed.",
+      "stages": {
+        "map": {
+          "provider": "openrouter",
+          "models": [
+            "google/gemma-4-31b-it:free",
+            "nvidia/nemotron-3-super-120b-a12b:free"
+          ]
+        },
+        "discover": {
+          "provider": "openrouter",
+          "models": [
+            "google/gemma-4-31b-it:free",
+            "nvidia/nemotron-3-super-120b-a12b:free"
+          ]
+        },
+        "plan": {
+          "provider": "openrouter",
+          "models": [
+            "google/gemma-4-31b-it:free"
+          ]
+        },
+        "review": {
+          "provider": "openrouter",
+          "models": [
+            "nvidia/nemotron-3-super-120b-a12b:free",
+            "google/gemma-4-31b-it:free"
+          ]
+        },
+        "repair": {
+          "provider": "openrouter",
+          "models": [
+            "google/gemma-4-31b-it:free"
+          ]
+        },
+        "recommend": {
+          "provider": "openrouter",
+          "models": [
+            "google/gemma-4-31b-it:free"
+          ]
+        },
+        "other": {
+          "provider": "openrouter",
+          "models": [
+            "google/gemma-4-31b-it:free"
+          ]
+        }
+      }
+    },
+    {
+      "id": "default",
+      "name": "Default \u00b7 Gemini Flash",
+      "description": "Paid Gemini Flash for every stage.",
+      "stages": {
+        "map": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.8-flash"
+          ]
+        },
+        "discover": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.8-flash"
+          ]
+        },
+        "plan": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.8-flash"
+          ]
+        },
+        "review": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.8-flash"
+          ]
+        },
+        "repair": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.8-flash"
+          ]
+        },
+        "recommend": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.8-flash"
+          ]
+        },
+        "other": {
+          "provider": "gemini",
+          "models": [
+            "gemini-3.8-flash"
+          ]
+        }
+      }
+    }
+  ]
+}

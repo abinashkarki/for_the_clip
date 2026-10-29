@@ -1,0 +1,74 @@
+[
+  {
+    "path": "lib/itcl4.2.4/libitcl4.2.4.dylib",
+    "release_sha256": "2f62088c0e82f2eff79f7e2480f731cb13edfe0ae259f72e93d963433766d012",
+    "toolchain_sha256": "0d12fc9c5780028af53abb26d28f21f95ec951ed443cdc4d3c0c6a3ded5570db",
+    "toolchain_matches": false,
+    "bundle_sha256": "4a5b2cec576486860ce7540a4ea872b072ddc994612ca617f0e5da1296e54291",
+    "bundle_matches": false
+  },
+  {
+    "path": "lib/libpython3.12.dylib",
+    "release_sha256": "6335e708fc9d8465fb4b21146c45b78c54d47b15bdd05c683d0a902455c50a7a",
+    "toolchain_sha256": "6215c1eb8243bb42db26492035c45c1bdf05c01d2874a911eb7ed776af24b5f4",
+    "toolchain_matches": false,
+    "bundle_sha256": "369cf7a1b387a4e8865a1f4dc193acc7ffe0c62b327269ddc3b4714dacdd81eb",
+    "bundle_matches": false
+  },
+  {
+    "path": "lib/libtcl8.6.dylib",
+    "release_sha256": "53e70bc29439bf20f30527a31893aafa59eb58b1500825f6f2f89e86c273efde",
+    "toolchain_sha256": "3821563004ea52075455e92929217baeedf5aeb21007c79f7c62cd9ff542f5df",
+    "toolchain_matches": false,
+    "bundle_sha256": "422a87d97b2088a9f790c60374f70ae750ab4b78a33d05ecb8770dab56808ec4",
+    "bundle_matches": false
+  },
+  {
+    "path": "lib/libtk8.6.dylib",
+    "release_sha256": "e7fb211da3584e83e3aa583f511790ee85ad3cbb2c41419689174f81b22bac18",
+    "toolchain_sha256": "78e4c2e121cf0ad68a23b1ee46e0f9608ce01fea877e582288071db1c9a96497",
+    "toolchain_matches": false,
+    "bundle_sha256": "bef2f5db45321f7dd21b59736ff46dc3ae91ef667e1623520aad0cbab162fab1",
+    "bundle_matches": false
+  },
+  {
+    "path": "lib/python3.12/LICENSE.txt",
+    "release_sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf",
+    "toolchain_sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf",
+    "toolchain_matches": true,
+    "bundle_sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf",
+    "bundle_matches": true
+  },
+  {
+    "path": "lib/python3.12/lib-dynload/_tkinter.cpython-312-darwin.so",
+    "release_sha256": "23fa637ffef9300beaeda1669095481b613eeacece47cbfeb8480126977ce42b",
+    "toolchain_sha256": "7cf77f4669ad5feb8c7b18e6613fb4c12f6bc371355a2613fcc894aa42d030f2",
+    "toolchain_matches": false,
+    "bundle_sha256": "ad4247e395cf17565423445faf2b07aa132bdfecad74bce9df243f8d52e911e1",
+    "bundle_matches": false
+  },
+  {
+    "path": "lib/tcl8.6/init.tcl",
+    "release_sha256": "374e8e83d501dc0283d4b6cae60d96b46141048e5a57d1500dd379f966879f98",
+    "toolchain_sha256": "374e8e83d501dc0283d4b6cae60d96b46141048e5a57d1500dd379f966879f98",
+    "toolchain_matches": true,
+    "bundle_sha256": "374e8e83d501dc0283d4b6cae60d96b46141048e5a57d1500dd379f966879f98",
+    "bundle_matches": true
+  },
+  {
+    "path": "lib/thread2.8.9/libthread2.8.9.dylib",
+    "release_sha256": "2804dd55ab448104b79cd1f0f793eab3105b537d3846516589e03933f49f76ab",
+    "toolchain_sha256": "a2c521035bf5f5c97c929f422e0d7280b04ffbab99d32df095f01bfe2991d152",
+    "toolchain_matches": false,
+    "bundle_sha256": "6ff9123a432c0826908791125e361faf6ad208a91ca8bead91dd34bb42cd5f0b",
+    "bundle_matches": false
+  },
+  {
+    "path": "lib/tk8.6/tk.tcl",
+    "release_sha256": "779ce7099675d1fcdaa8a53df58cf5b2da6d5f03cdbf7a8c318860bd01a6e46f",
+    "toolchain_sha256": "779ce7099675d1fcdaa8a53df58cf5b2da6d5f03cdbf7a8c318860bd01a6e46f",
+    "toolchain_matches": true,
+    "bundle_sha256": "779ce7099675d1fcdaa8a53df58cf5b2da6d5f03cdbf7a8c318860bd01a6e46f",
+    "bundle_matches": true
+  }
+]

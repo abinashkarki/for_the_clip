@@ -1,0 +1,44 @@
+{
+  "id": "color_word",
+  "name": "Color word",
+  "font": {
+    "family": "Inter",
+    "file": "Inter-SemiBold.ttf",
+    "size": 70
+  },
+  "case": "none",
+  "grouping": {
+    "max_words": 4,
+    "max_chars": 24,
+    "max_lines": 2,
+    "break_on_pause": 0.4
+  },
+  "position": {
+    "y": 0.7,
+    "max_width": 0.86
+  },
+  "colors": {
+    "text": "#FFFFFF",
+    "active": "#D8F66F",
+    "emphasis": "#FFB020",
+    "stroke": "#000000",
+    "box": null,
+    "active_box": null
+  },
+  "stroke_width": 7,
+  "shadow": {
+    "dx": 0,
+    "dy": 5,
+    "blur": 0,
+    "color": "#00000088"
+  },
+  "active_word": {
+    "style": "color",
+    "scale": 1.0
+  },
+  "animation": {
+    "in": "fade",
+    "duration_ms": 90
+  },
+  "line_height": 1.1
+}

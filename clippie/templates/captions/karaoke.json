@@ -1,0 +1,44 @@
+{
+  "id": "karaoke",
+  "name": "Karaoke",
+  "font": {
+    "family": "Poppins",
+    "file": "Poppins-Bold.ttf",
+    "size": 76
+  },
+  "case": "upper",
+  "grouping": {
+    "max_words": 5,
+    "max_chars": 30,
+    "max_lines": 2,
+    "break_on_pause": 0.4
+  },
+  "position": {
+    "y": 0.68,
+    "max_width": 0.88
+  },
+  "colors": {
+    "text": "#FFFFFF",
+    "active": "#32F58A",
+    "emphasis": "#FF4FA3",
+    "stroke": "#000000",
+    "box": null,
+    "active_box": null
+  },
+  "stroke_width": 10,
+  "shadow": {
+    "dx": 0,
+    "dy": 7,
+    "blur": 0,
+    "color": "#00000099"
+  },
+  "active_word": {
+    "style": "color",
+    "scale": 1.0
+  },
+  "animation": {
+    "in": "none",
+    "duration_ms": 0
+  },
+  "line_height": 1.12
+}

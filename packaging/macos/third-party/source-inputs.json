@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "max_total_bytes": 524288000,
+  "downloads": [
+    {
+      "id": "ffmpeg-8.0.1",
+      "url": "https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz",
+      "sha256": "05ee0b03119b45c0bdb4df654b96802e909e0a752f72e4fe3794f487229e5a41",
+      "filename": "ffmpeg-8.0.1.tar.xz"
+    },
+    {
+      "id": "ffmpeg-first-dts-patch",
+      "url": "https://gitlab.archlinux.org/archlinux/packaging/packages/ffmpeg/-/raw/5670ccd86d3b816f49ebc18cab878125eca2f81f/add-av_stream_get_first_dts-for-chromium.patch",
+      "sha256": "57e26caced5a1382cb639235f9555fc50e45e7bf8333f7c9ae3d49b3241d3f77",
+      "filename": "ffmpeg-first-dts.patch"
+    },
+    {
+      "id": "ffmpeg-svt-patch",
+      "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/patch/a5d4c398b411a00ac09d8fe3b66117222323844c",
+      "sha256": "1dbbc1a4cf9834b3902236abc27fefe982da03a14bcaa89fb90c7c8bd10a1664",
+      "filename": "ffmpeg-svt.patch"
+    },
+    {
+      "id": "x265-4.1",
+      "url": "https://bitbucket.org/multicoreware/x265_git/downloads/x265_4.1.tar.gz",
+      "sha256": "a31699c6a89806b74b0151e5e6a7df65de4b49050482fe5ebf8a4379d7af8f29",
+      "filename": "x265-4.1.tar.gz"
+    },
+    {
+      "id": "dav1d-1.5.3",
+      "url": "https://code.videolan.org/videolan/dav1d/-/archive/1.5.3/dav1d-1.5.3.tar.bz2",
+      "sha256": "e099f53253f6c247580c554d53a13f1040638f2066edc3c740e4c2f15174ce22",
+      "filename": "dav1d-1.5.3.tar.bz2",
+      "mirrors": []
+    },
+    {
+      "id": "lame-3.100",
+      "url": "https://downloads.sourceforge.net/project/lame/lame/3.100/lame-3.100.tar.gz",
+      "sha256": "ddfe36cab873794038ae2c1210557ad34857a4b6bdc515785d1da9e175b1da1e",
+      "filename": "lame-3.100.tar.gz",
+      "mirrors": [
+        "https://sourceforge.net/projects/lame/files/lame/3.100/lame-3.100.tar.gz/download"
+      ]
+    },
+    {
+      "id": "libvpx-1.15.2",
+      "url": "https://github.com/webmproject/libvpx/archive/refs/tags/v1.15.2.tar.gz",
+      "sha256": "26fcd3db88045dee380e581862a6ef106f49b74b6396ee95c2993a260b4636aa",
+      "filename": "libvpx-1.15.2.tar.gz",
+      "mirrors": [
+        "https://codeload.github.com/webmproject/libvpx/tar.gz/refs/tags/v1.15.2"
+      ]
+    },
+    {
+      "id": "openssl-3.6.1",
+      "url": "https://github.com/openssl/openssl/releases/download/openssl-3.6.1/openssl-3.6.1.tar.gz",
+      "sha256": "b1bfedcd5b289ff22aee87c9d600f515767ebf45f77168cb6d64f231f518a82e",
+      "filename": "openssl-3.6.1.tar.gz",
+      "mirrors": []
+    },
+    {
+      "id": "opus-1.6.1",
+      "url": "https://ftp.osuosl.org/pub/xiph/releases/opus/opus-1.6.1.tar.gz",
+      "sha256": "6ffcb593207be92584df15b32466ed64bbec99109f007c82205f0194572411a1",
+      "filename": "opus-1.6.1.tar.gz",
+      "mirrors": []
+    },
+    {
+      "id": "svt-av1-4.0.1",
+      "url": "https://gitlab.com/AOMediaCodec/SVT-AV1/-/archive/v4.0.1/SVT-AV1-v4.0.1.tar.bz2",
+      "sha256": "df2a2dd51512717e8c3637072750a3899c3a69d684accccace33c1c467f7e852",
+      "filename": "svt-av1-4.0.1.tar.bz2",
+      "mirrors": []
+    }
+  ],
+  "x264": {
+    "url": "https://code.videolan.org/videolan/x264.git",
+    "revision": "b35605ace3ddf7c1a5d67a2eb553f034aef41d55"
+  },
+  "ffmpeg_formula_sha256": "1d332afb712946c34d98c417e6bb7b25dfab805b37fc3ec65d805b415bd1d024",
+  "ffmpeg_receipt_sha256": "5d4af08422634e0c7c8aa47d5aa23d369fc0f2d687cf4a501b7051771d9215ff",
+  "ffmpeg_sbom_sha256": "997b653d842a3bea29716247a9b6de059b8f7dc8e3bf6e6cea23a0d80d464f37"
+}

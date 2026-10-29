@@ -1,0 +1,33 @@
+{
+  "id": "hook_box",
+  "name": "Hook box",
+  "font": {
+    "family": "Montserrat",
+    "file": "Montserrat-ExtraBold.ttf"
+  },
+  "size": 60,
+  "case": "none",
+  "colors": {
+    "text": "#111111",
+    "box": "#FFFFFF",
+    "stroke": "#000000"
+  },
+  "stroke_width": 0,
+  "shadow": {
+    "dx": 0,
+    "dy": 8,
+    "blur": 18,
+    "color": "#00000066"
+  },
+  "position": {
+    "y": 0.16
+  },
+  "max_width": 0.86,
+  "padding": 30,
+  "radius": 26,
+  "line_height": 1.18,
+  "animation": {
+    "in": "pop",
+    "duration_ms": 160
+  }
+}

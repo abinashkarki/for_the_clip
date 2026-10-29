@@ -1,0 +1,6475 @@
+{
+ "format": "clippie.caption_golden/1",
+ "template": {
+  "id": "minimal_lower",
+  "name": "Minimal lower",
+  "font": {
+   "family": "Inter",
+   "file": "Inter-Medium.ttf",
+   "size": 46,
+   "metrics": {
+    "ascent": 0.97,
+    "descent": 0.24
+   }
+  },
+  "case": "lower",
+  "grouping": {
+   "max_words": 6,
+   "max_chars": 34,
+   "max_lines": 2,
+   "break_on_pause": 0.5
+  },
+  "position": {
+   "y": 0.85,
+   "max_width": 0.84
+  },
+  "colors": {
+   "text": "#FFFFFF",
+   "active": "#FFFFFF",
+   "emphasis": "#FFD84A",
+   "stroke": "#000000",
+   "box": null,
+   "active_box": null
+  },
+  "stroke_width": 0.0,
+  "shadow": {
+   "dx": 0,
+   "dy": 2,
+   "blur": 8,
+   "color": "#000000CC"
+  },
+  "active_word": {
+   "style": "none",
+   "scale": 1.0
+  },
+  "animation": {
+   "in": "fade",
+   "duration_ms": 150
+  },
+  "line_height": 1.3
+ },
+ "boundaries": [
+  0.0,
+  7.38
+ ],
+ "words": [
+  {
+   "key": "src:0",
+   "text": "So",
+   "start": 0.4,
+   "end": 0.64,
+   "source_id": "src",
+   "word_id": 0,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:1",
+   "text": "honestly",
+   "start": 0.7,
+   "end": 0.97,
+   "source_id": "src",
+   "word_id": 1,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:2",
+   "text": "the",
+   "start": 1.03,
+   "end": 1.3,
+   "source_id": "src",
+   "word_id": 2,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:3",
+   "text": "biggest",
+   "start": 1.36,
+   "end": 1.6,
+   "source_id": "src",
+   "word_id": 3,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:4",
+   "text": "mistake",
+   "start": 1.66,
+   "end": 1.9,
+   "source_id": "src",
+   "word_id": 4,
+   "emphasis": true,
+   "hidden": false
+  },
+  {
+   "key": "src:5",
+   "text": "people",
+   "start": 1.96,
+   "end": 2.17,
+   "source_id": "src",
+   "word_id": 5,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:6",
+   "text": "make",
+   "start": 2.23,
+   "end": 2.53,
+   "source_id": "src",
+   "word_id": 6,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:7",
+   "text": "with",
+   "start": 2.59,
+   "end": 2.89,
+   "source_id": "src",
+   "word_id": 7,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:8",
+   "text": "AI",
+   "start": 2.95,
+   "end": 3.19,
+   "source_id": "src",
+   "word_id": 8,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:9",
+   "text": "tutors",
+   "start": 3.25,
+   "end": 3.46,
+   "source_id": "src",
+   "word_id": 9,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:10",
+   "text": "is",
+   "start": 3.52,
+   "end": 3.76,
+   "source_id": "src",
+   "word_id": 10,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:11",
+   "text": "trusting",
+   "start": 3.82,
+   "end": 4.09,
+   "source_id": "src",
+   "word_id": 11,
+   "emphasis": false,
+   "hidden": true
+  },
+  {
+   "key": "src:12",
+   "text": "them",
+   "start": 4.15,
+   "end": 4.45,
+   "source_id": "src",
+   "word_id": 12,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:13",
+   "text": "blindly.",
+   "start": 4.51,
+   "end": 4.78,
+   "source_id": "src",
+   "word_id": 13,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:14",
+   "text": "Wait",
+   "start": 5.4,
+   "end": 5.7,
+   "source_id": "src",
+   "word_id": 14,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:15",
+   "text": "that",
+   "start": 5.76,
+   "end": 6.06,
+   "source_id": "src",
+   "word_id": 15,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:16",
+   "text": "is",
+   "start": 6.12,
+   "end": 6.36,
+   "source_id": "src",
+   "word_id": 16,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:17",
+   "text": "not",
+   "start": 6.42,
+   "end": 6.69,
+   "source_id": "src",
+   "word_id": 17,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:18",
+   "text": "what",
+   "start": 6.75,
+   "end": 7.05,
+   "source_id": "src",
+   "word_id": 18,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:19",
+   "text": "I",
+   "start": 7.11,
+   "end": 7.32,
+   "source_id": "src",
+   "word_id": 19,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:20",
+   "text": "expected",
+   "start": 7.38,
+   "end": 7.65,
+   "source_id": "src",
+   "word_id": 20,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:21",
+   "text": "at",
+   "start": 7.71,
+   "end": 7.95,
+   "source_id": "src",
+   "word_id": 21,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:22",
+   "text": "all",
+   "start": 8.01,
+   "end": 8.28,
+   "source_id": "src",
+   "word_id": 22,
+   "emphasis": true,
+   "hidden": false
+  },
+  {
+   "key": "src:23",
+   "text": "but",
+   "start": 8.34,
+   "end": 8.61,
+   "source_id": "src",
+   "word_id": 23,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:24",
+   "text": "here",
+   "start": 8.67,
+   "end": 8.97,
+   "source_id": "src",
+   "word_id": 24,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:25",
+   "text": "is",
+   "start": 9.03,
+   "end": 9.27,
+   "source_id": "src",
+   "word_id": 25,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:26",
+   "text": "the",
+   "start": 9.33,
+   "end": 9.6,
+   "source_id": "src",
+   "word_id": 26,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:27",
+   "text": "surprising",
+   "start": 9.66,
+   "end": 9.84,
+   "source_id": "src",
+   "word_id": 27,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:28",
+   "text": "part",
+   "start": 9.9,
+   "end": 10.2,
+   "source_id": "src",
+   "word_id": 28,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:29",
+   "text": "international",
+   "start": 10.26,
+   "end": 10.53,
+   "source_id": "src",
+   "word_id": 29,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:30",
+   "text": "collaboration",
+   "start": 10.59,
+   "end": 10.86,
+   "source_id": "src",
+   "word_id": 30,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:31",
+   "text": "changes",
+   "start": 10.92,
+   "end": 11.16,
+   "source_id": "src",
+   "word_id": 31,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:32",
+   "text": "everything",
+   "start": 11.22,
+   "end": 11.4,
+   "source_id": "src",
+   "word_id": 32,
+   "emphasis": false,
+   "hidden": false
+  }
+ ],
+ "measure": {
+  "engine": "Pillow BASIC layout getlength(text) at float size px, per word; space = getlength(' ')",
+  "font_file": "Inter-Medium.ttf",
+  "space_widths": {
+   "46.0": 12.0,
+   "30.7": 8.0
+  }
+ },
+ "runs": [
+  {
+   "canvas": {
+    "width": 1080,
+    "height": 1920
+   },
+   "pages": [
+    {
+     "index": 0,
+     "start": 0.4,
+     "visible_end": 2.23,
+     "font_size": 46.0,
+     "keys": [
+      "src:0",
+      "src:1",
+      "src:2",
+      "src:3",
+      "src:4",
+      "src:5"
+     ],
+     "lines": [
+      "so honestly the biggest mistake people"
+     ]
+    },
+    {
+     "index": 1,
+     "start": 2.23,
+     "visible_end": 4.51,
+     "font_size": 46.0,
+     "keys": [
+      "src:6",
+      "src:7",
+      "src:8",
+      "src:9",
+      "src:10",
+      "src:12"
+     ],
+     "lines": [
+      "make with ai tutors is them"
+     ]
+    },
+    {
+     "index": 2,
+     "start": 4.51,
+     "visible_end": 5.38,
+     "font_size": 46.0,
+     "keys": [
+      "src:13"
+     ],
+     "lines": [
+      "blindly."
+     ]
+    },
+    {
+     "index": 3,
+     "start": 5.4,
+     "visible_end": 7.38,
+     "font_size": 46.0,
+     "keys": [
+      "src:14",
+      "src:15",
+      "src:16",
+      "src:17",
+      "src:18",
+      "src:19"
+     ],
+     "lines": [
+      "wait that is not what i"
+     ]
+    },
+    {
+     "index": 4,
+     "start": 7.38,
+     "visible_end": 9.33,
+     "font_size": 46.0,
+     "keys": [
+      "src:20",
+      "src:21",
+      "src:22",
+      "src:23",
+      "src:24",
+      "src:25"
+     ],
+     "lines": [
+      "expected at all but here is"
+     ]
+    },
+    {
+     "index": 5,
+     "start": 9.33,
+     "visible_end": 10.59,
+     "font_size": 46.0,
+     "keys": [
+      "src:26",
+      "src:27",
+      "src:28",
+      "src:29"
+     ],
+     "lines": [
+      "the surprising part international"
+     ]
+    },
+    {
+     "index": 6,
+     "start": 10.59,
+     "visible_end": 12.0,
+     "font_size": 46.0,
+     "keys": [
+      "src:30",
+      "src:31",
+      "src:32"
+     ],
+     "lines": [
+      "collaboration changes everything"
+     ]
+    }
+   ],
+   "cases": [
+    {
+     "t": 0.1,
+     "layout": {
+      "t": 0.1,
+      "template_id": "minimal_lower",
+      "page": null
+     }
+    },
+    {
+     "t": 0.41,
+     "layout": {
+      "t": 0.41,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "so honestly the biggest mistake people",
+         "x": 114.0,
+         "y": 1602.1,
+         "w": 852.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "so",
+           "x": 114.0,
+           "w": 52.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "honestly",
+           "x": 178.0,
+           "w": 186.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "the",
+           "x": 376.0,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:3",
+           "text": "biggest",
+           "x": 458.0,
+           "w": 164.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:4",
+           "text": "mistake",
+           "x": 634.0,
+           "w": 172.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:5",
+           "text": "people",
+           "x": 818.0,
+           "w": 148.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 114.0,
+        "y": 1602.1,
+        "w": 852.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        },
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        },
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 0.47,
+     "layout": {
+      "t": 0.47,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "so honestly the biggest mistake people",
+         "x": 114.0,
+         "y": 1602.1,
+         "w": 852.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "so",
+           "x": 114.0,
+           "w": 52.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "honestly",
+           "x": 178.0,
+           "w": 186.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "the",
+           "x": 376.0,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:3",
+           "text": "biggest",
+           "x": 458.0,
+           "w": 164.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:4",
+           "text": "mistake",
+           "x": 634.0,
+           "w": 172.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:5",
+           "text": "people",
+           "x": 818.0,
+           "w": 148.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 114.0,
+        "y": 1602.1,
+        "w": 852.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        },
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        },
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 1.97,
+     "layout": {
+      "t": 1.97,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "so honestly the biggest mistake people",
+         "x": 114.0,
+         "y": 1602.1,
+         "w": 852.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "so",
+           "x": 114.0,
+           "w": 52.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "honestly",
+           "x": 178.0,
+           "w": 186.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "the",
+           "x": 376.0,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:3",
+           "text": "biggest",
+           "x": 458.0,
+           "w": 164.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:4",
+           "text": "mistake",
+           "x": 634.0,
+           "w": 172.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:5",
+           "text": "people",
+           "x": 818.0,
+           "w": 148.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 114.0,
+        "y": 1602.1,
+        "w": 852.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        },
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        },
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 2.22,
+     "layout": {
+      "t": 2.22,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "so honestly the biggest mistake people",
+         "x": 114.0,
+         "y": 1602.1,
+         "w": 852.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "so",
+           "x": 114.0,
+           "w": 52.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "honestly",
+           "x": 178.0,
+           "w": 186.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "the",
+           "x": 376.0,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:3",
+           "text": "biggest",
+           "x": 458.0,
+           "w": 164.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:4",
+           "text": "mistake",
+           "x": 634.0,
+           "w": 172.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:5",
+           "text": "people",
+           "x": 818.0,
+           "w": 148.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 114.0,
+        "y": 1602.1,
+        "w": 852.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        },
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        },
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 2.24,
+     "layout": {
+      "t": 2.24,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "make with ai tutors is them",
+         "x": 247.0,
+         "y": 1602.1,
+         "w": 586.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "make",
+           "x": 247.0,
+           "w": 119.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:7",
+           "text": "with",
+           "x": 378.0,
+           "w": 93.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:8",
+           "text": "ai",
+           "x": 483.0,
+           "w": 38.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:9",
+           "text": "tutors",
+           "x": 533.0,
+           "w": 128.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:10",
+           "text": "is",
+           "x": 673.0,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:12",
+           "text": "them",
+           "x": 722.0,
+           "w": 111.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 247.0,
+        "y": 1602.1,
+        "w": 586.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        },
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        },
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        }
+       ],
+       "index": 1,
+       "start": 2.23,
+       "last_end": 4.45,
+       "visible_end": 4.51,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 2.3,
+     "layout": {
+      "t": 2.3,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "make with ai tutors is them",
+         "x": 247.0,
+         "y": 1602.1,
+         "w": 586.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "make",
+           "x": 247.0,
+           "w": 119.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:7",
+           "text": "with",
+           "x": 378.0,
+           "w": 93.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:8",
+           "text": "ai",
+           "x": 483.0,
+           "w": 38.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:9",
+           "text": "tutors",
+           "x": 533.0,
+           "w": 128.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:10",
+           "text": "is",
+           "x": 673.0,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:12",
+           "text": "them",
+           "x": 722.0,
+           "w": 111.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 247.0,
+        "y": 1602.1,
+        "w": 586.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        },
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        },
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        }
+       ],
+       "index": 1,
+       "start": 2.23,
+       "last_end": 4.45,
+       "visible_end": 4.51,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 4.16,
+     "layout": {
+      "t": 4.16,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "make with ai tutors is them",
+         "x": 247.0,
+         "y": 1602.1,
+         "w": 586.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "make",
+           "x": 247.0,
+           "w": 119.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:7",
+           "text": "with",
+           "x": 378.0,
+           "w": 93.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:8",
+           "text": "ai",
+           "x": 483.0,
+           "w": 38.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:9",
+           "text": "tutors",
+           "x": 533.0,
+           "w": 128.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:10",
+           "text": "is",
+           "x": 673.0,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:12",
+           "text": "them",
+           "x": 722.0,
+           "w": 111.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 247.0,
+        "y": 1602.1,
+        "w": 586.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        },
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        },
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        }
+       ],
+       "index": 1,
+       "start": 2.23,
+       "last_end": 4.45,
+       "visible_end": 4.51,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 4.5,
+     "layout": {
+      "t": 4.5,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "make with ai tutors is them",
+         "x": 247.0,
+         "y": 1602.1,
+         "w": 586.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "make",
+           "x": 247.0,
+           "w": 119.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:7",
+           "text": "with",
+           "x": 378.0,
+           "w": 93.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:8",
+           "text": "ai",
+           "x": 483.0,
+           "w": 38.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:9",
+           "text": "tutors",
+           "x": 533.0,
+           "w": 128.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:10",
+           "text": "is",
+           "x": 673.0,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:12",
+           "text": "them",
+           "x": 722.0,
+           "w": 111.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 247.0,
+        "y": 1602.1,
+        "w": 586.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        },
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        },
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        }
+       ],
+       "index": 1,
+       "start": 2.23,
+       "last_end": 4.45,
+       "visible_end": 4.51,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 4.52,
+     "layout": {
+      "t": 4.52,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "blindly.",
+         "x": 461.0,
+         "y": 1602.1,
+         "w": 158.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:13",
+           "text": "blindly.",
+           "x": 461.0,
+           "w": 158.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 461.0,
+        "y": 1602.1,
+        "w": 158.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 2,
+       "start": 4.51,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 4.58,
+     "layout": {
+      "t": 4.58,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "blindly.",
+         "x": 461.0,
+         "y": 1602.1,
+         "w": 158.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:13",
+           "text": "blindly.",
+           "x": 461.0,
+           "w": 158.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 461.0,
+        "y": 1602.1,
+        "w": 158.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 2,
+       "start": 4.51,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 5.37,
+     "layout": {
+      "t": 5.37,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "blindly.",
+         "x": 461.0,
+         "y": 1602.1,
+         "w": 158.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:13",
+           "text": "blindly.",
+           "x": 461.0,
+           "w": 158.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 461.0,
+        "y": 1602.1,
+        "w": 158.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 2,
+       "start": 4.51,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 5.41,
+     "layout": {
+      "t": 5.41,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "wait that is not what i",
+         "x": 308.5,
+         "y": 1602.1,
+         "w": 463.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "wait",
+           "x": 308.5,
+           "w": 92.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "that",
+           "x": 412.5,
+           "w": 85.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "is",
+           "x": 509.5,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:17",
+           "text": "not",
+           "x": 558.5,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:18",
+           "text": "what",
+           "x": 640.5,
+           "w": 107.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:19",
+           "text": "i",
+           "x": 759.5,
+           "w": 12.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 308.5,
+        "y": 1602.1,
+        "w": 463.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        },
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 3,
+       "start": 5.4,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 5.47,
+     "layout": {
+      "t": 5.47,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "wait that is not what i",
+         "x": 308.5,
+         "y": 1602.1,
+         "w": 463.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "wait",
+           "x": 308.5,
+           "w": 92.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "that",
+           "x": 412.5,
+           "w": 85.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "is",
+           "x": 509.5,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:17",
+           "text": "not",
+           "x": 558.5,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:18",
+           "text": "what",
+           "x": 640.5,
+           "w": 107.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:19",
+           "text": "i",
+           "x": 759.5,
+           "w": 12.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 308.5,
+        "y": 1602.1,
+        "w": 463.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        },
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 3,
+       "start": 5.4,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 7.12,
+     "layout": {
+      "t": 7.12,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "wait that is not what i",
+         "x": 308.5,
+         "y": 1602.1,
+         "w": 463.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "wait",
+           "x": 308.5,
+           "w": 92.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "that",
+           "x": 412.5,
+           "w": 85.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "is",
+           "x": 509.5,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:17",
+           "text": "not",
+           "x": 558.5,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:18",
+           "text": "what",
+           "x": 640.5,
+           "w": 107.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:19",
+           "text": "i",
+           "x": 759.5,
+           "w": 12.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 308.5,
+        "y": 1602.1,
+        "w": 463.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        },
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 3,
+       "start": 5.4,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 7.37,
+     "layout": {
+      "t": 7.37,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "wait that is not what i",
+         "x": 308.5,
+         "y": 1602.1,
+         "w": 463.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "wait",
+           "x": 308.5,
+           "w": 92.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "that",
+           "x": 412.5,
+           "w": 85.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "is",
+           "x": 509.5,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:17",
+           "text": "not",
+           "x": 558.5,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:18",
+           "text": "what",
+           "x": 640.5,
+           "w": 107.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:19",
+           "text": "i",
+           "x": 759.5,
+           "w": 12.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 308.5,
+        "y": 1602.1,
+        "w": 463.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        },
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 3,
+       "start": 5.4,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 7.39,
+     "layout": {
+      "t": 7.39,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "expected at all but here is",
+         "x": 259.5,
+         "y": 1602.1,
+         "w": 561.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:20",
+           "text": "expected",
+           "x": 259.5,
+           "w": 205.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:21",
+           "text": "at",
+           "x": 476.5,
+           "w": 42.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:22",
+           "text": "all",
+           "x": 530.5,
+           "w": 48.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:23",
+           "text": "but",
+           "x": 590.5,
+           "w": 71.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:24",
+           "text": "here",
+           "x": 673.5,
+           "w": 98.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:25",
+           "text": "is",
+           "x": 783.5,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 259.5,
+        "y": 1602.1,
+        "w": 561.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:20",
+         "start": 7.38,
+         "end": 7.65
+        },
+        {
+         "key": "src:21",
+         "start": 7.71,
+         "end": 7.95
+        },
+        {
+         "key": "src:22",
+         "start": 8.01,
+         "end": 8.28
+        },
+        {
+         "key": "src:23",
+         "start": 8.34,
+         "end": 8.61
+        },
+        {
+         "key": "src:24",
+         "start": 8.67,
+         "end": 8.97
+        },
+        {
+         "key": "src:25",
+         "start": 9.03,
+         "end": 9.27
+        }
+       ],
+       "index": 4,
+       "start": 7.38,
+       "last_end": 9.27,
+       "visible_end": 9.33,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 7.45,
+     "layout": {
+      "t": 7.45,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "expected at all but here is",
+         "x": 259.5,
+         "y": 1602.1,
+         "w": 561.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:20",
+           "text": "expected",
+           "x": 259.5,
+           "w": 205.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:21",
+           "text": "at",
+           "x": 476.5,
+           "w": 42.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:22",
+           "text": "all",
+           "x": 530.5,
+           "w": 48.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:23",
+           "text": "but",
+           "x": 590.5,
+           "w": 71.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:24",
+           "text": "here",
+           "x": 673.5,
+           "w": 98.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:25",
+           "text": "is",
+           "x": 783.5,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 259.5,
+        "y": 1602.1,
+        "w": 561.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:20",
+         "start": 7.38,
+         "end": 7.65
+        },
+        {
+         "key": "src:21",
+         "start": 7.71,
+         "end": 7.95
+        },
+        {
+         "key": "src:22",
+         "start": 8.01,
+         "end": 8.28
+        },
+        {
+         "key": "src:23",
+         "start": 8.34,
+         "end": 8.61
+        },
+        {
+         "key": "src:24",
+         "start": 8.67,
+         "end": 8.97
+        },
+        {
+         "key": "src:25",
+         "start": 9.03,
+         "end": 9.27
+        }
+       ],
+       "index": 4,
+       "start": 7.38,
+       "last_end": 9.27,
+       "visible_end": 9.33,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 9.04,
+     "layout": {
+      "t": 9.04,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "expected at all but here is",
+         "x": 259.5,
+         "y": 1602.1,
+         "w": 561.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:20",
+           "text": "expected",
+           "x": 259.5,
+           "w": 205.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:21",
+           "text": "at",
+           "x": 476.5,
+           "w": 42.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:22",
+           "text": "all",
+           "x": 530.5,
+           "w": 48.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:23",
+           "text": "but",
+           "x": 590.5,
+           "w": 71.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:24",
+           "text": "here",
+           "x": 673.5,
+           "w": 98.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:25",
+           "text": "is",
+           "x": 783.5,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 259.5,
+        "y": 1602.1,
+        "w": 561.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:20",
+         "start": 7.38,
+         "end": 7.65
+        },
+        {
+         "key": "src:21",
+         "start": 7.71,
+         "end": 7.95
+        },
+        {
+         "key": "src:22",
+         "start": 8.01,
+         "end": 8.28
+        },
+        {
+         "key": "src:23",
+         "start": 8.34,
+         "end": 8.61
+        },
+        {
+         "key": "src:24",
+         "start": 8.67,
+         "end": 8.97
+        },
+        {
+         "key": "src:25",
+         "start": 9.03,
+         "end": 9.27
+        }
+       ],
+       "index": 4,
+       "start": 7.38,
+       "last_end": 9.27,
+       "visible_end": 9.33,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 9.32,
+     "layout": {
+      "t": 9.32,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "expected at all but here is",
+         "x": 259.5,
+         "y": 1602.1,
+         "w": 561.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:20",
+           "text": "expected",
+           "x": 259.5,
+           "w": 205.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:21",
+           "text": "at",
+           "x": 476.5,
+           "w": 42.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:22",
+           "text": "all",
+           "x": 530.5,
+           "w": 48.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:23",
+           "text": "but",
+           "x": 590.5,
+           "w": 71.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:24",
+           "text": "here",
+           "x": 673.5,
+           "w": 98.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:25",
+           "text": "is",
+           "x": 783.5,
+           "w": 37.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 259.5,
+        "y": 1602.1,
+        "w": 561.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:20",
+         "start": 7.38,
+         "end": 7.65
+        },
+        {
+         "key": "src:21",
+         "start": 7.71,
+         "end": 7.95
+        },
+        {
+         "key": "src:22",
+         "start": 8.01,
+         "end": 8.28
+        },
+        {
+         "key": "src:23",
+         "start": 8.34,
+         "end": 8.61
+        },
+        {
+         "key": "src:24",
+         "start": 8.67,
+         "end": 8.97
+        },
+        {
+         "key": "src:25",
+         "start": 9.03,
+         "end": 9.27
+        }
+       ],
+       "index": 4,
+       "start": 7.38,
+       "last_end": 9.27,
+       "visible_end": 9.33,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 9.34,
+     "layout": {
+      "t": 9.34,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "the surprising part international",
+         "x": 199.0,
+         "y": 1602.1,
+         "w": 682.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:26",
+           "text": "the",
+           "x": 199.0,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:27",
+           "text": "surprising",
+           "x": 281.0,
+           "w": 218.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:28",
+           "text": "part",
+           "x": 511.0,
+           "w": 87.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:29",
+           "text": "international",
+           "x": 610.0,
+           "w": 271.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 199.0,
+        "y": 1602.1,
+        "w": 682.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:26",
+         "start": 9.33,
+         "end": 9.6
+        },
+        {
+         "key": "src:27",
+         "start": 9.66,
+         "end": 9.84
+        },
+        {
+         "key": "src:28",
+         "start": 9.9,
+         "end": 10.2
+        },
+        {
+         "key": "src:29",
+         "start": 10.26,
+         "end": 10.53
+        }
+       ],
+       "index": 5,
+       "start": 9.33,
+       "last_end": 10.53,
+       "visible_end": 10.59,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 9.4,
+     "layout": {
+      "t": 9.4,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "the surprising part international",
+         "x": 199.0,
+         "y": 1602.1,
+         "w": 682.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:26",
+           "text": "the",
+           "x": 199.0,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:27",
+           "text": "surprising",
+           "x": 281.0,
+           "w": 218.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:28",
+           "text": "part",
+           "x": 511.0,
+           "w": 87.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:29",
+           "text": "international",
+           "x": 610.0,
+           "w": 271.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 199.0,
+        "y": 1602.1,
+        "w": 682.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:26",
+         "start": 9.33,
+         "end": 9.6
+        },
+        {
+         "key": "src:27",
+         "start": 9.66,
+         "end": 9.84
+        },
+        {
+         "key": "src:28",
+         "start": 9.9,
+         "end": 10.2
+        },
+        {
+         "key": "src:29",
+         "start": 10.26,
+         "end": 10.53
+        }
+       ],
+       "index": 5,
+       "start": 9.33,
+       "last_end": 10.53,
+       "visible_end": 10.59,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 10.27,
+     "layout": {
+      "t": 10.27,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "the surprising part international",
+         "x": 199.0,
+         "y": 1602.1,
+         "w": 682.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:26",
+           "text": "the",
+           "x": 199.0,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:27",
+           "text": "surprising",
+           "x": 281.0,
+           "w": 218.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:28",
+           "text": "part",
+           "x": 511.0,
+           "w": 87.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:29",
+           "text": "international",
+           "x": 610.0,
+           "w": 271.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 199.0,
+        "y": 1602.1,
+        "w": 682.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:26",
+         "start": 9.33,
+         "end": 9.6
+        },
+        {
+         "key": "src:27",
+         "start": 9.66,
+         "end": 9.84
+        },
+        {
+         "key": "src:28",
+         "start": 9.9,
+         "end": 10.2
+        },
+        {
+         "key": "src:29",
+         "start": 10.26,
+         "end": 10.53
+        }
+       ],
+       "index": 5,
+       "start": 9.33,
+       "last_end": 10.53,
+       "visible_end": 10.59,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 10.58,
+     "layout": {
+      "t": 10.58,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "the surprising part international",
+         "x": 199.0,
+         "y": 1602.1,
+         "w": 682.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:26",
+           "text": "the",
+           "x": 199.0,
+           "w": 70.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:27",
+           "text": "surprising",
+           "x": 281.0,
+           "w": 218.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:28",
+           "text": "part",
+           "x": 511.0,
+           "w": 87.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:29",
+           "text": "international",
+           "x": 610.0,
+           "w": 271.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 199.0,
+        "y": 1602.1,
+        "w": 682.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:26",
+         "start": 9.33,
+         "end": 9.6
+        },
+        {
+         "key": "src:27",
+         "start": 9.66,
+         "end": 9.84
+        },
+        {
+         "key": "src:28",
+         "start": 9.9,
+         "end": 10.2
+        },
+        {
+         "key": "src:29",
+         "start": 10.26,
+         "end": 10.53
+        }
+       ],
+       "index": 5,
+       "start": 9.33,
+       "last_end": 10.53,
+       "visible_end": 10.59,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 10.6,
+     "layout": {
+      "t": 10.6,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "collaboration changes everything",
+         "x": 178.0,
+         "y": 1602.1,
+         "w": 724.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:30",
+           "text": "collaboration",
+           "x": 178.0,
+           "w": 281.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:31",
+           "text": "changes",
+           "x": 471.0,
+           "w": 186.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:32",
+           "text": "everything",
+           "x": 669.0,
+           "w": 233.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 178.0,
+        "y": 1602.1,
+        "w": 724.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:30",
+         "start": 10.59,
+         "end": 10.86
+        },
+        {
+         "key": "src:31",
+         "start": 10.92,
+         "end": 11.16
+        },
+        {
+         "key": "src:32",
+         "start": 11.22,
+         "end": 11.4
+        }
+       ],
+       "index": 6,
+       "start": 10.59,
+       "last_end": 11.4,
+       "visible_end": 12.0,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 10.66,
+     "layout": {
+      "t": 10.66,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "collaboration changes everything",
+         "x": 178.0,
+         "y": 1602.1,
+         "w": 724.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:30",
+           "text": "collaboration",
+           "x": 178.0,
+           "w": 281.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:31",
+           "text": "changes",
+           "x": 471.0,
+           "w": 186.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:32",
+           "text": "everything",
+           "x": 669.0,
+           "w": 233.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 178.0,
+        "y": 1602.1,
+        "w": 724.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:30",
+         "start": 10.59,
+         "end": 10.86
+        },
+        {
+         "key": "src:31",
+         "start": 10.92,
+         "end": 11.16
+        },
+        {
+         "key": "src:32",
+         "start": 11.22,
+         "end": 11.4
+        }
+       ],
+       "index": 6,
+       "start": 10.59,
+       "last_end": 11.4,
+       "visible_end": 12.0,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 11.23,
+     "layout": {
+      "t": 11.23,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "collaboration changes everything",
+         "x": 178.0,
+         "y": 1602.1,
+         "w": 724.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:30",
+           "text": "collaboration",
+           "x": 178.0,
+           "w": 281.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:31",
+           "text": "changes",
+           "x": 471.0,
+           "w": 186.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:32",
+           "text": "everything",
+           "x": 669.0,
+           "w": 233.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 178.0,
+        "y": 1602.1,
+        "w": 724.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:30",
+         "start": 10.59,
+         "end": 10.86
+        },
+        {
+         "key": "src:31",
+         "start": 10.92,
+         "end": 11.16
+        },
+        {
+         "key": "src:32",
+         "start": 11.22,
+         "end": 11.4
+        }
+       ],
+       "index": 6,
+       "start": 10.59,
+       "last_end": 11.4,
+       "visible_end": 12.0,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 11.99,
+     "layout": {
+      "t": 11.99,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 46.0,
+       "line_height_px": 59.8,
+       "lines": [
+        {
+         "text": "collaboration changes everything",
+         "x": 178.0,
+         "y": 1602.1,
+         "w": 724.0,
+         "baseline": 1648.73,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:30",
+           "text": "collaboration",
+           "x": 178.0,
+           "w": 281.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:31",
+           "text": "changes",
+           "x": 471.0,
+           "w": 186.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:32",
+           "text": "everything",
+           "x": 669.0,
+           "w": 233.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 178.0,
+        "y": 1602.1,
+        "w": 724.0,
+        "h": 59.8
+       },
+       "words": [
+        {
+         "key": "src:30",
+         "start": 10.59,
+         "end": 10.86
+        },
+        {
+         "key": "src:31",
+         "start": 10.92,
+         "end": 11.16
+        },
+        {
+         "key": "src:32",
+         "start": 11.22,
+         "end": 11.4
+        }
+       ],
+       "index": 6,
+       "start": 10.59,
+       "last_end": 11.4,
+       "visible_end": 12.0,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 12.05,
+     "layout": {
+      "t": 12.05,
+      "template_id": "minimal_lower",
+      "page": null
+     }
+    }
+   ]
+  },
+  {
+   "canvas": {
+    "width": 720,
+    "height": 1280
+   },
+   "pages": [
+    {
+     "index": 0,
+     "start": 0.4,
+     "visible_end": 2.23,
+     "font_size": 30.67,
+     "keys": [
+      "src:0",
+      "src:1",
+      "src:2",
+      "src:3",
+      "src:4",
+      "src:5"
+     ],
+     "lines": [
+      "so honestly the biggest mistake people"
+     ]
+    },
+    {
+     "index": 1,
+     "start": 2.23,
+     "visible_end": 4.51,
+     "font_size": 30.67,
+     "keys": [
+      "src:6",
+      "src:7",
+      "src:8",
+      "src:9",
+      "src:10",
+      "src:12"
+     ],
+     "lines": [
+      "make with ai tutors is them"
+     ]
+    },
+    {
+     "index": 2,
+     "start": 4.51,
+     "visible_end": 5.38,
+     "font_size": 30.67,
+     "keys": [
+      "src:13"
+     ],
+     "lines": [
+      "blindly."
+     ]
+    },
+    {
+     "index": 3,
+     "start": 5.4,
+     "visible_end": 7.38,
+     "font_size": 30.67,
+     "keys": [
+      "src:14",
+      "src:15",
+      "src:16",
+      "src:17",
+      "src:18",
+      "src:19"
+     ],
+     "lines": [
+      "wait that is not what i"
+     ]
+    },
+    {
+     "index": 4,
+     "start": 7.38,
+     "visible_end": 9.33,
+     "font_size": 30.67,
+     "keys": [
+      "src:20",
+      "src:21",
+      "src:22",
+      "src:23",
+      "src:24",
+      "src:25"
+     ],
+     "lines": [
+      "expected at all but here is"
+     ]
+    },
+    {
+     "index": 5,
+     "start": 9.33,
+     "visible_end": 10.59,
+     "font_size": 30.67,
+     "keys": [
+      "src:26",
+      "src:27",
+      "src:28",
+      "src:29"
+     ],
+     "lines": [
+      "the surprising part international"
+     ]
+    },
+    {
+     "index": 6,
+     "start": 10.59,
+     "visible_end": 12.0,
+     "font_size": 30.67,
+     "keys": [
+      "src:30",
+      "src:31",
+      "src:32"
+     ],
+     "lines": [
+      "collaboration changes everything"
+     ]
+    }
+   ],
+   "cases": [
+    {
+     "t": 0.1,
+     "layout": {
+      "t": 0.1,
+      "template_id": "minimal_lower",
+      "page": null
+     }
+    },
+    {
+     "t": 0.41,
+     "layout": {
+      "t": 0.41,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "so honestly the biggest mistake people",
+         "x": 75.0,
+         "y": 1068.07,
+         "w": 570.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "so",
+           "x": 75.0,
+           "w": 34.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "honestly",
+           "x": 117.0,
+           "w": 125.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "the",
+           "x": 250.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:3",
+           "text": "biggest",
+           "x": 305.0,
+           "w": 110.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:4",
+           "text": "mistake",
+           "x": 423.0,
+           "w": 114.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:5",
+           "text": "people",
+           "x": 545.0,
+           "w": 100.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 75.0,
+        "y": 1068.07,
+        "w": 570.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        },
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        },
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 0.47,
+     "layout": {
+      "t": 0.47,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "so honestly the biggest mistake people",
+         "x": 75.0,
+         "y": 1068.07,
+         "w": 570.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "so",
+           "x": 75.0,
+           "w": 34.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "honestly",
+           "x": 117.0,
+           "w": 125.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "the",
+           "x": 250.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:3",
+           "text": "biggest",
+           "x": 305.0,
+           "w": 110.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:4",
+           "text": "mistake",
+           "x": 423.0,
+           "w": 114.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:5",
+           "text": "people",
+           "x": 545.0,
+           "w": 100.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 75.0,
+        "y": 1068.07,
+        "w": 570.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        },
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        },
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 1.97,
+     "layout": {
+      "t": 1.97,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "so honestly the biggest mistake people",
+         "x": 75.0,
+         "y": 1068.07,
+         "w": 570.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "so",
+           "x": 75.0,
+           "w": 34.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "honestly",
+           "x": 117.0,
+           "w": 125.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "the",
+           "x": 250.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:3",
+           "text": "biggest",
+           "x": 305.0,
+           "w": 110.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:4",
+           "text": "mistake",
+           "x": 423.0,
+           "w": 114.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:5",
+           "text": "people",
+           "x": 545.0,
+           "w": 100.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 75.0,
+        "y": 1068.07,
+        "w": 570.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        },
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        },
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 2.22,
+     "layout": {
+      "t": 2.22,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "so honestly the biggest mistake people",
+         "x": 75.0,
+         "y": 1068.07,
+         "w": 570.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "so",
+           "x": 75.0,
+           "w": 34.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "honestly",
+           "x": 117.0,
+           "w": 125.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "the",
+           "x": 250.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:3",
+           "text": "biggest",
+           "x": 305.0,
+           "w": 110.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:4",
+           "text": "mistake",
+           "x": 423.0,
+           "w": 114.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:5",
+           "text": "people",
+           "x": 545.0,
+           "w": 100.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 75.0,
+        "y": 1068.07,
+        "w": 570.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        },
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        },
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 2.24,
+     "layout": {
+      "t": 2.24,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "make with ai tutors is them",
+         "x": 165.0,
+         "y": 1068.07,
+         "w": 390.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "make",
+           "x": 165.0,
+           "w": 79.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:7",
+           "text": "with",
+           "x": 252.0,
+           "w": 62.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:8",
+           "text": "ai",
+           "x": 322.0,
+           "w": 25.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:9",
+           "text": "tutors",
+           "x": 355.0,
+           "w": 86.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:10",
+           "text": "is",
+           "x": 449.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:12",
+           "text": "them",
+           "x": 481.0,
+           "w": 74.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 165.0,
+        "y": 1068.07,
+        "w": 390.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        },
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        },
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        }
+       ],
+       "index": 1,
+       "start": 2.23,
+       "last_end": 4.45,
+       "visible_end": 4.51,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 2.3,
+     "layout": {
+      "t": 2.3,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "make with ai tutors is them",
+         "x": 165.0,
+         "y": 1068.07,
+         "w": 390.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "make",
+           "x": 165.0,
+           "w": 79.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:7",
+           "text": "with",
+           "x": 252.0,
+           "w": 62.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:8",
+           "text": "ai",
+           "x": 322.0,
+           "w": 25.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:9",
+           "text": "tutors",
+           "x": 355.0,
+           "w": 86.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:10",
+           "text": "is",
+           "x": 449.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:12",
+           "text": "them",
+           "x": 481.0,
+           "w": 74.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 165.0,
+        "y": 1068.07,
+        "w": 390.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        },
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        },
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        }
+       ],
+       "index": 1,
+       "start": 2.23,
+       "last_end": 4.45,
+       "visible_end": 4.51,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 4.16,
+     "layout": {
+      "t": 4.16,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "make with ai tutors is them",
+         "x": 165.0,
+         "y": 1068.07,
+         "w": 390.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "make",
+           "x": 165.0,
+           "w": 79.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:7",
+           "text": "with",
+           "x": 252.0,
+           "w": 62.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:8",
+           "text": "ai",
+           "x": 322.0,
+           "w": 25.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:9",
+           "text": "tutors",
+           "x": 355.0,
+           "w": 86.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:10",
+           "text": "is",
+           "x": 449.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:12",
+           "text": "them",
+           "x": 481.0,
+           "w": 74.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 165.0,
+        "y": 1068.07,
+        "w": 390.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        },
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        },
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        }
+       ],
+       "index": 1,
+       "start": 2.23,
+       "last_end": 4.45,
+       "visible_end": 4.51,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 4.5,
+     "layout": {
+      "t": 4.5,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "make with ai tutors is them",
+         "x": 165.0,
+         "y": 1068.07,
+         "w": 390.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "make",
+           "x": 165.0,
+           "w": 79.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:7",
+           "text": "with",
+           "x": 252.0,
+           "w": 62.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:8",
+           "text": "ai",
+           "x": 322.0,
+           "w": 25.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:9",
+           "text": "tutors",
+           "x": 355.0,
+           "w": 86.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:10",
+           "text": "is",
+           "x": 449.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:12",
+           "text": "them",
+           "x": 481.0,
+           "w": 74.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 165.0,
+        "y": 1068.07,
+        "w": 390.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        },
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        },
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        }
+       ],
+       "index": 1,
+       "start": 2.23,
+       "last_end": 4.45,
+       "visible_end": 4.51,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 4.52,
+     "layout": {
+      "t": 4.52,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "blindly.",
+         "x": 307.0,
+         "y": 1068.07,
+         "w": 106.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:13",
+           "text": "blindly.",
+           "x": 307.0,
+           "w": 106.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 307.0,
+        "y": 1068.07,
+        "w": 106.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 2,
+       "start": 4.51,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 4.58,
+     "layout": {
+      "t": 4.58,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "blindly.",
+         "x": 307.0,
+         "y": 1068.07,
+         "w": 106.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:13",
+           "text": "blindly.",
+           "x": 307.0,
+           "w": 106.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 307.0,
+        "y": 1068.07,
+        "w": 106.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 2,
+       "start": 4.51,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 5.37,
+     "layout": {
+      "t": 5.37,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "blindly.",
+         "x": 307.0,
+         "y": 1068.07,
+         "w": 106.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:13",
+           "text": "blindly.",
+           "x": 307.0,
+           "w": 106.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 307.0,
+        "y": 1068.07,
+        "w": 106.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 2,
+       "start": 4.51,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 5.41,
+     "layout": {
+      "t": 5.41,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "wait that is not what i",
+         "x": 206.0,
+         "y": 1068.07,
+         "w": 308.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "wait",
+           "x": 206.0,
+           "w": 61.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "that",
+           "x": 275.0,
+           "w": 57.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "is",
+           "x": 340.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:17",
+           "text": "not",
+           "x": 372.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:18",
+           "text": "what",
+           "x": 427.0,
+           "w": 71.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:19",
+           "text": "i",
+           "x": 506.0,
+           "w": 8.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 206.0,
+        "y": 1068.07,
+        "w": 308.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        },
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 3,
+       "start": 5.4,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 5.47,
+     "layout": {
+      "t": 5.47,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "wait that is not what i",
+         "x": 206.0,
+         "y": 1068.07,
+         "w": 308.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "wait",
+           "x": 206.0,
+           "w": 61.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "that",
+           "x": 275.0,
+           "w": 57.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "is",
+           "x": 340.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:17",
+           "text": "not",
+           "x": 372.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:18",
+           "text": "what",
+           "x": 427.0,
+           "w": 71.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:19",
+           "text": "i",
+           "x": 506.0,
+           "w": 8.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 206.0,
+        "y": 1068.07,
+        "w": 308.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        },
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 3,
+       "start": 5.4,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 7.12,
+     "layout": {
+      "t": 7.12,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "wait that is not what i",
+         "x": 206.0,
+         "y": 1068.07,
+         "w": 308.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "wait",
+           "x": 206.0,
+           "w": 61.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "that",
+           "x": 275.0,
+           "w": 57.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "is",
+           "x": 340.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:17",
+           "text": "not",
+           "x": 372.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:18",
+           "text": "what",
+           "x": 427.0,
+           "w": 71.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:19",
+           "text": "i",
+           "x": 506.0,
+           "w": 8.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 206.0,
+        "y": 1068.07,
+        "w": 308.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        },
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 3,
+       "start": 5.4,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 7.37,
+     "layout": {
+      "t": 7.37,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "wait that is not what i",
+         "x": 206.0,
+         "y": 1068.07,
+         "w": 308.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "wait",
+           "x": 206.0,
+           "w": 61.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "that",
+           "x": 275.0,
+           "w": 57.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "is",
+           "x": 340.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:17",
+           "text": "not",
+           "x": 372.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:18",
+           "text": "what",
+           "x": 427.0,
+           "w": 71.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:19",
+           "text": "i",
+           "x": 506.0,
+           "w": 8.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 206.0,
+        "y": 1068.07,
+        "w": 308.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        },
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 3,
+       "start": 5.4,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 7.39,
+     "layout": {
+      "t": 7.39,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "expected at all but here is",
+         "x": 172.0,
+         "y": 1068.07,
+         "w": 376.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:20",
+           "text": "expected",
+           "x": 172.0,
+           "w": 137.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:21",
+           "text": "at",
+           "x": 317.0,
+           "w": 28.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:22",
+           "text": "all",
+           "x": 353.0,
+           "w": 33.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:23",
+           "text": "but",
+           "x": 394.0,
+           "w": 48.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:24",
+           "text": "here",
+           "x": 450.0,
+           "w": 66.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:25",
+           "text": "is",
+           "x": 524.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 172.0,
+        "y": 1068.07,
+        "w": 376.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:20",
+         "start": 7.38,
+         "end": 7.65
+        },
+        {
+         "key": "src:21",
+         "start": 7.71,
+         "end": 7.95
+        },
+        {
+         "key": "src:22",
+         "start": 8.01,
+         "end": 8.28
+        },
+        {
+         "key": "src:23",
+         "start": 8.34,
+         "end": 8.61
+        },
+        {
+         "key": "src:24",
+         "start": 8.67,
+         "end": 8.97
+        },
+        {
+         "key": "src:25",
+         "start": 9.03,
+         "end": 9.27
+        }
+       ],
+       "index": 4,
+       "start": 7.38,
+       "last_end": 9.27,
+       "visible_end": 9.33,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 7.45,
+     "layout": {
+      "t": 7.45,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "expected at all but here is",
+         "x": 172.0,
+         "y": 1068.07,
+         "w": 376.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:20",
+           "text": "expected",
+           "x": 172.0,
+           "w": 137.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:21",
+           "text": "at",
+           "x": 317.0,
+           "w": 28.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:22",
+           "text": "all",
+           "x": 353.0,
+           "w": 33.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:23",
+           "text": "but",
+           "x": 394.0,
+           "w": 48.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:24",
+           "text": "here",
+           "x": 450.0,
+           "w": 66.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:25",
+           "text": "is",
+           "x": 524.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 172.0,
+        "y": 1068.07,
+        "w": 376.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:20",
+         "start": 7.38,
+         "end": 7.65
+        },
+        {
+         "key": "src:21",
+         "start": 7.71,
+         "end": 7.95
+        },
+        {
+         "key": "src:22",
+         "start": 8.01,
+         "end": 8.28
+        },
+        {
+         "key": "src:23",
+         "start": 8.34,
+         "end": 8.61
+        },
+        {
+         "key": "src:24",
+         "start": 8.67,
+         "end": 8.97
+        },
+        {
+         "key": "src:25",
+         "start": 9.03,
+         "end": 9.27
+        }
+       ],
+       "index": 4,
+       "start": 7.38,
+       "last_end": 9.27,
+       "visible_end": 9.33,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 9.04,
+     "layout": {
+      "t": 9.04,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "expected at all but here is",
+         "x": 172.0,
+         "y": 1068.07,
+         "w": 376.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:20",
+           "text": "expected",
+           "x": 172.0,
+           "w": 137.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:21",
+           "text": "at",
+           "x": 317.0,
+           "w": 28.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:22",
+           "text": "all",
+           "x": 353.0,
+           "w": 33.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:23",
+           "text": "but",
+           "x": 394.0,
+           "w": 48.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:24",
+           "text": "here",
+           "x": 450.0,
+           "w": 66.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:25",
+           "text": "is",
+           "x": 524.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 172.0,
+        "y": 1068.07,
+        "w": 376.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:20",
+         "start": 7.38,
+         "end": 7.65
+        },
+        {
+         "key": "src:21",
+         "start": 7.71,
+         "end": 7.95
+        },
+        {
+         "key": "src:22",
+         "start": 8.01,
+         "end": 8.28
+        },
+        {
+         "key": "src:23",
+         "start": 8.34,
+         "end": 8.61
+        },
+        {
+         "key": "src:24",
+         "start": 8.67,
+         "end": 8.97
+        },
+        {
+         "key": "src:25",
+         "start": 9.03,
+         "end": 9.27
+        }
+       ],
+       "index": 4,
+       "start": 7.38,
+       "last_end": 9.27,
+       "visible_end": 9.33,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 9.32,
+     "layout": {
+      "t": 9.32,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "expected at all but here is",
+         "x": 172.0,
+         "y": 1068.07,
+         "w": 376.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:20",
+           "text": "expected",
+           "x": 172.0,
+           "w": 137.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:21",
+           "text": "at",
+           "x": 317.0,
+           "w": 28.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:22",
+           "text": "all",
+           "x": 353.0,
+           "w": 33.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:23",
+           "text": "but",
+           "x": 394.0,
+           "w": 48.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 4,
+           "key": "src:24",
+           "text": "here",
+           "x": 450.0,
+           "w": 66.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 5,
+           "key": "src:25",
+           "text": "is",
+           "x": 524.0,
+           "w": 24.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 172.0,
+        "y": 1068.07,
+        "w": 376.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:20",
+         "start": 7.38,
+         "end": 7.65
+        },
+        {
+         "key": "src:21",
+         "start": 7.71,
+         "end": 7.95
+        },
+        {
+         "key": "src:22",
+         "start": 8.01,
+         "end": 8.28
+        },
+        {
+         "key": "src:23",
+         "start": 8.34,
+         "end": 8.61
+        },
+        {
+         "key": "src:24",
+         "start": 8.67,
+         "end": 8.97
+        },
+        {
+         "key": "src:25",
+         "start": 9.03,
+         "end": 9.27
+        }
+       ],
+       "index": 4,
+       "start": 7.38,
+       "last_end": 9.27,
+       "visible_end": 9.33,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 9.34,
+     "layout": {
+      "t": 9.34,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "the surprising part international",
+         "x": 131.0,
+         "y": 1068.07,
+         "w": 458.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:26",
+           "text": "the",
+           "x": 131.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:27",
+           "text": "surprising",
+           "x": 186.0,
+           "w": 146.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:28",
+           "text": "part",
+           "x": 340.0,
+           "w": 59.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:29",
+           "text": "international",
+           "x": 407.0,
+           "w": 182.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 131.0,
+        "y": 1068.07,
+        "w": 458.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:26",
+         "start": 9.33,
+         "end": 9.6
+        },
+        {
+         "key": "src:27",
+         "start": 9.66,
+         "end": 9.84
+        },
+        {
+         "key": "src:28",
+         "start": 9.9,
+         "end": 10.2
+        },
+        {
+         "key": "src:29",
+         "start": 10.26,
+         "end": 10.53
+        }
+       ],
+       "index": 5,
+       "start": 9.33,
+       "last_end": 10.53,
+       "visible_end": 10.59,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 9.4,
+     "layout": {
+      "t": 9.4,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "the surprising part international",
+         "x": 131.0,
+         "y": 1068.07,
+         "w": 458.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:26",
+           "text": "the",
+           "x": 131.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:27",
+           "text": "surprising",
+           "x": 186.0,
+           "w": 146.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:28",
+           "text": "part",
+           "x": 340.0,
+           "w": 59.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:29",
+           "text": "international",
+           "x": 407.0,
+           "w": 182.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 131.0,
+        "y": 1068.07,
+        "w": 458.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:26",
+         "start": 9.33,
+         "end": 9.6
+        },
+        {
+         "key": "src:27",
+         "start": 9.66,
+         "end": 9.84
+        },
+        {
+         "key": "src:28",
+         "start": 9.9,
+         "end": 10.2
+        },
+        {
+         "key": "src:29",
+         "start": 10.26,
+         "end": 10.53
+        }
+       ],
+       "index": 5,
+       "start": 9.33,
+       "last_end": 10.53,
+       "visible_end": 10.59,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 10.27,
+     "layout": {
+      "t": 10.27,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "the surprising part international",
+         "x": 131.0,
+         "y": 1068.07,
+         "w": 458.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:26",
+           "text": "the",
+           "x": 131.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:27",
+           "text": "surprising",
+           "x": 186.0,
+           "w": 146.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:28",
+           "text": "part",
+           "x": 340.0,
+           "w": 59.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:29",
+           "text": "international",
+           "x": 407.0,
+           "w": 182.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 131.0,
+        "y": 1068.07,
+        "w": 458.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:26",
+         "start": 9.33,
+         "end": 9.6
+        },
+        {
+         "key": "src:27",
+         "start": 9.66,
+         "end": 9.84
+        },
+        {
+         "key": "src:28",
+         "start": 9.9,
+         "end": 10.2
+        },
+        {
+         "key": "src:29",
+         "start": 10.26,
+         "end": 10.53
+        }
+       ],
+       "index": 5,
+       "start": 9.33,
+       "last_end": 10.53,
+       "visible_end": 10.59,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 10.58,
+     "layout": {
+      "t": 10.58,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "the surprising part international",
+         "x": 131.0,
+         "y": 1068.07,
+         "w": 458.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:26",
+           "text": "the",
+           "x": 131.0,
+           "w": 47.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:27",
+           "text": "surprising",
+           "x": 186.0,
+           "w": 146.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:28",
+           "text": "part",
+           "x": 340.0,
+           "w": 59.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 3,
+           "key": "src:29",
+           "text": "international",
+           "x": 407.0,
+           "w": 182.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 131.0,
+        "y": 1068.07,
+        "w": 458.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:26",
+         "start": 9.33,
+         "end": 9.6
+        },
+        {
+         "key": "src:27",
+         "start": 9.66,
+         "end": 9.84
+        },
+        {
+         "key": "src:28",
+         "start": 9.9,
+         "end": 10.2
+        },
+        {
+         "key": "src:29",
+         "start": 10.26,
+         "end": 10.53
+        }
+       ],
+       "index": 5,
+       "start": 9.33,
+       "last_end": 10.53,
+       "visible_end": 10.59,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 10.6,
+     "layout": {
+      "t": 10.6,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "collaboration changes everything",
+         "x": 117.0,
+         "y": 1068.07,
+         "w": 486.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:30",
+           "text": "collaboration",
+           "x": 117.0,
+           "w": 189.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:31",
+           "text": "changes",
+           "x": 314.0,
+           "w": 123.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:32",
+           "text": "everything",
+           "x": 445.0,
+           "w": 158.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 117.0,
+        "y": 1068.07,
+        "w": 486.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:30",
+         "start": 10.59,
+         "end": 10.86
+        },
+        {
+         "key": "src:31",
+         "start": 10.92,
+         "end": 11.16
+        },
+        {
+         "key": "src:32",
+         "start": 11.22,
+         "end": 11.4
+        }
+       ],
+       "index": 6,
+       "start": 10.59,
+       "last_end": 11.4,
+       "visible_end": 12.0,
+       "active": -1,
+       "progress": 0.07,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 10.66,
+     "layout": {
+      "t": 10.66,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "collaboration changes everything",
+         "x": 117.0,
+         "y": 1068.07,
+         "w": 486.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:30",
+           "text": "collaboration",
+           "x": 117.0,
+           "w": 189.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:31",
+           "text": "changes",
+           "x": 314.0,
+           "w": 123.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:32",
+           "text": "everything",
+           "x": 445.0,
+           "w": 158.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 117.0,
+        "y": 1068.07,
+        "w": 486.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:30",
+         "start": 10.59,
+         "end": 10.86
+        },
+        {
+         "key": "src:31",
+         "start": 10.92,
+         "end": 11.16
+        },
+        {
+         "key": "src:32",
+         "start": 11.22,
+         "end": 11.4
+        }
+       ],
+       "index": 6,
+       "start": 10.59,
+       "last_end": 11.4,
+       "visible_end": 12.0,
+       "active": -1,
+       "progress": 0.47,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 11.23,
+     "layout": {
+      "t": 11.23,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "collaboration changes everything",
+         "x": 117.0,
+         "y": 1068.07,
+         "w": 486.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:30",
+           "text": "collaboration",
+           "x": 117.0,
+           "w": 189.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:31",
+           "text": "changes",
+           "x": 314.0,
+           "w": 123.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:32",
+           "text": "everything",
+           "x": 445.0,
+           "w": 158.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 117.0,
+        "y": 1068.07,
+        "w": 486.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:30",
+         "start": 10.59,
+         "end": 10.86
+        },
+        {
+         "key": "src:31",
+         "start": 10.92,
+         "end": 11.16
+        },
+        {
+         "key": "src:32",
+         "start": 11.22,
+         "end": 11.4
+        }
+       ],
+       "index": 6,
+       "start": 10.59,
+       "last_end": 11.4,
+       "visible_end": 12.0,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 11.99,
+     "layout": {
+      "t": 11.99,
+      "template_id": "minimal_lower",
+      "page": {
+       "font_size": 30.67,
+       "line_height_px": 39.87,
+       "lines": [
+        {
+         "text": "collaboration changes everything",
+         "x": 117.0,
+         "y": 1068.07,
+         "w": 486.0,
+         "baseline": 1099.16,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:30",
+           "text": "collaboration",
+           "x": 117.0,
+           "w": 189.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:31",
+           "text": "changes",
+           "x": 314.0,
+           "w": 123.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:32",
+           "text": "everything",
+           "x": 445.0,
+           "w": 158.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 117.0,
+        "y": 1068.07,
+        "w": 486.0,
+        "h": 39.87
+       },
+       "words": [
+        {
+         "key": "src:30",
+         "start": 10.59,
+         "end": 10.86
+        },
+        {
+         "key": "src:31",
+         "start": 10.92,
+         "end": 11.16
+        },
+        {
+         "key": "src:32",
+         "start": 11.22,
+         "end": 11.4
+        }
+       ],
+       "index": 6,
+       "start": 10.59,
+       "last_end": 11.4,
+       "visible_end": 12.0,
+       "active": -1,
+       "progress": 1.0,
+       "animation": "fade"
+      }
+     }
+    },
+    {
+     "t": 12.05,
+     "layout": {
+      "t": 12.05,
+      "template_id": "minimal_lower",
+      "page": null
+     }
+    }
+   ]
+  }
+ ]
+}

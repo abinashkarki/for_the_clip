@@ -1,0 +1,44 @@
+{
+  "id": "bold_pop",
+  "name": "Bold pop",
+  "font": {
+    "family": "Montserrat",
+    "file": "Montserrat-ExtraBold.ttf",
+    "size": 84
+  },
+  "case": "upper",
+  "grouping": {
+    "max_words": 3,
+    "max_chars": 18,
+    "max_lines": 2,
+    "break_on_pause": 0.35
+  },
+  "position": {
+    "y": 0.7,
+    "max_width": 0.86
+  },
+  "colors": {
+    "text": "#FFFFFF",
+    "active": "#FFE600",
+    "emphasis": "#3CF2FF",
+    "stroke": "#000000",
+    "box": null,
+    "active_box": null
+  },
+  "stroke_width": 11,
+  "shadow": {
+    "dx": 0,
+    "dy": 8,
+    "blur": 0,
+    "color": "#00000099"
+  },
+  "active_word": {
+    "style": "color",
+    "scale": 1.0
+  },
+  "animation": {
+    "in": "pop",
+    "duration_ms": 120
+  },
+  "line_height": 1.04
+}

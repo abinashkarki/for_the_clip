@@ -1,0 +1,44 @@
+{
+  "id": "podcast_box",
+  "name": "Podcast box",
+  "font": {
+    "family": "Poppins",
+    "file": "Poppins-SemiBold.ttf",
+    "size": 54
+  },
+  "case": "none",
+  "grouping": {
+    "max_words": 6,
+    "max_chars": 36,
+    "max_lines": 2,
+    "break_on_pause": 0.5
+  },
+  "position": {
+    "y": 0.8,
+    "max_width": 0.82
+  },
+  "colors": {
+    "text": "#FFFFFF",
+    "active": "#FFD84A",
+    "emphasis": "#7DF9FF",
+    "stroke": "#000000",
+    "box": "#0B0F14B8",
+    "active_box": null
+  },
+  "stroke_width": 0,
+  "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 0,
+    "color": "#00000000"
+  },
+  "active_word": {
+    "style": "color",
+    "scale": 1.0
+  },
+  "animation": {
+    "in": "fade",
+    "duration_ms": 120
+  },
+  "line_height": 1.3
+}

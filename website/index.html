@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>fortheclip: the best minute of your recording, found</title>
+<meta name="description" content="fortheclip turns long interviews, podcasts and talks into short, captioned, vertical clips on your Mac. Private alpha for invited testers on Apple silicon.">
+<meta name="theme-color" content="#ffe14a">
+<link rel="canonical" href="https://clippie-beta-2534550.duckdns.org/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="fortheclip">
+<meta property="og:title" content="Your best minute is buried in hour two. fortheclip finds it.">
+<meta property="og:description" content="Long recording in, captioned vertical clips out, on your own Mac. Private alpha for invited testers.">
+<meta property="og:url" content="https://clippie-beta-2534550.duckdns.org/">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="assets/anton-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/hanken-grotesk-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/ftc.css">
+<script>
+/* Runs before first paint so the motion layout never flashes. Static if JS is off or motion is reduced. */
+(function(d){var r=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;if(r)return;var q=location.search.indexOf('driver=js')>-1;var n=!q&&window.CSS&&CSS.supports&&CSS.supports('animation-timeline: view()')&&CSS.supports('animation-range: contain 0% contain 100%')&&CSS.registerProperty;d.className+=' motion '+(n?'native':'fallback');})(document.documentElement);
+</script>
+<script src="assets/ftc.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<!-- Shared drawings: a waveform and abstract speaker silhouettes. No footage, no people photos. -->
+<svg class="sprite" aria-hidden="true" focusable="false">
+  <defs>
+    <radialGradient id="g-lamp" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffb35c" stop-opacity=".55"/><stop offset="1" stop-color="#ffb35c" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g-cool" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#7f8cff" stop-opacity=".35"/><stop offset="1" stop-color="#7f8cff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="g-wall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="var(--wall-a,#2b2238)"/><stop offset="1" stop-color="var(--wall-b,#1a1522)"/></linearGradient>
+  </defs>
+  <symbol id="wave" viewBox="0 0 1200 60" preserveAspectRatio="none"><path d="M2.5 25.0V35.0M7.5 24.4V35.6M12.5 21.3V38.7M17.5 28.3V31.7M22.5 28.3V31.7M27.5 28.6V31.4M32.5 12.0V48.0M37.5 17.9V42.1M42.5 8.4V51.6M47.5 14.6V45.4M52.5 18.7V41.3M57.5 15.3V44.7M62.5 17.5V42.5M67.5 8.3V51.7M72.5 11.6V48.4M77.5 14.7V45.3M82.5 19.0V41.0M87.5 28.2V31.8M92.5 15.8V44.2M97.5 14.8V45.2M102.5 18.7V41.3M107.5 15.6V44.4M112.5 17.8V42.2M117.5 16.3V43.7M122.5 21.8V38.2M127.5 23.6V36.4M132.5 20.2V39.8M137.5 22.5V37.5M142.5 28.8V31.2M147.5 22.4V37.6M152.5 23.6V36.4M157.5 21.8V38.2M162.5 22.5V37.5M167.5 19.7V40.3M172.5 21.5V38.5M177.5 28.7V31.3M182.5 20.5V39.5M187.5 23.9V36.1M192.5 21.2V38.8M197.5 28.8V31.2M202.5 23.7V36.3M207.5 28.3V31.7M212.5 21.9V38.1M217.5 16.4V43.6M222.5 19.4V40.6M227.5 15.2V44.8M232.5 15.0V45.0M237.5 18.9V41.1M242.5 14.6V45.4M247.5 21.3V38.7M252.5 20.7V39.3M257.5 18.8V41.2M262.5 21.2V38.8M267.5 28.6V31.4M272.5 20.2V39.8M277.5 20.3V39.7M282.5 21.9V38.1M287.5 25.1V34.9M292.5 19.7V40.3M297.5 18.1V41.9M302.5 19.9V40.1M307.5 16.6V43.4M312.5 28.7V31.3M317.5 19.2V40.8M322.5 19.7V40.3M327.5 28.2V31.8M332.5 14.3V45.7M337.5 26.5V33.5M342.5 16.2V43.8M347.5 13.0V47.0M352.5 16.1V43.9M357.5 3.1V56.9M362.5 10.8V49.2M367.5 16.6V43.4M372.5 14.6V45.4M377.5 16.6V43.4M382.5 26.5V33.5M387.5 18.0V42.0M392.5 20.2V39.8M397.5 10.7V49.3M402.5 15.1V44.9M407.5 19.5V40.5M412.5 17.4V42.6M417.5 18.9V41.1M422.5 23.8V36.2M427.5 20.3V39.7M432.5 19.9V40.1M437.5 19.0V41.0M442.5 19.6V40.4M447.5 22.9V37.1M452.5 28.5V31.5M457.5 15.8V44.2M462.5 17.7V42.3M467.5 12.1V47.9M472.5 18.2V41.8M477.5 19.6V40.4M482.5 19.9V40.1M487.5 13.4V46.6M492.5 17.8V42.2M497.5 15.4V44.6M502.5 17.3V42.7M507.5 16.9V43.1M512.5 20.0V40.0M517.5 18.4V41.6M522.5 19.1V40.9M527.5 22.3V37.7M532.5 19.6V40.4M537.5 24.5V35.5M542.5 24.9V35.1M547.5 21.4V38.6M552.5 21.1V38.9M557.5 22.0V38.0M562.5 22.6V37.4M567.5 25.7V34.3M572.5 22.0V38.0M577.5 19.9V40.1M582.5 19.5V40.5M587.5 23.1V36.9M592.5 22.0V38.0M597.5 19.0V41.0M602.5 19.6V40.4M607.5 14.3V45.7M612.5 17.6V42.4M617.5 12.3V47.7M622.5 11.1V48.9M627.5 14.6V45.4M632.5 20.1V39.9M637.5 17.8V42.2M642.5 27.0V33.0M647.5 13.7V46.3M652.5 12.6V47.4M657.5 13.2V46.8M662.5 10.2V49.8M667.5 13.5V46.5M672.5 17.4V42.6M677.5 15.5V44.5M682.5 13.8V46.2M687.5 18.1V41.9M692.5 18.6V41.4M697.5 18.5V41.5M702.5 21.0V39.0M707.5 20.2V39.8M712.5 20.1V39.9M717.5 22.5V37.5M722.5 16.0V44.0M727.5 21.4V38.6M732.5 17.5V42.5M737.5 18.5V41.5M742.5 12.7V47.3M747.5 8.9V51.1M752.5 10.2V49.8M757.5 17.2V42.8M762.5 5.6V54.4M767.5 5.5V54.5M772.5 11.8V48.2M777.5 7.1V52.9M782.5 12.9V47.1M787.5 14.6V45.4M792.5 15.3V44.7M797.5 19.6V40.4M802.5 15.1V44.9M807.5 28.1V31.9M812.5 16.1V43.9M817.5 27.4V32.6M822.5 14.0V46.0M827.5 21.1V38.9M832.5 28.2V31.8M837.5 23.6V36.4M842.5 19.4V40.6M847.5 24.0V36.0M852.5 20.7V39.3M857.5 21.2V38.8M862.5 24.6V35.4M867.5 22.1V37.9M872.5 18.6V41.4M877.5 19.5V40.5M882.5 19.2V40.8M887.5 28.4V31.6M892.5 23.0V37.0M897.5 19.9V40.1M902.5 24.8V35.2M907.5 24.4V35.6M912.5 24.4V35.6M917.5 29.0V31.0M922.5 22.6V37.4M927.5 22.2V37.8M932.5 22.7V37.3M937.5 23.6V36.4M942.5 23.4V36.6M947.5 19.0V41.0M952.5 19.5V40.5M957.5 22.5V37.5M962.5 20.0V40.0M967.5 17.2V42.8M972.5 20.2V39.8M977.5 17.4V42.6M982.5 19.3V40.7M987.5 21.5V38.5M992.5 23.9V36.1M997.5 29.0V31.0M1002.5 19.3V40.7M1007.5 22.4V37.6M1012.5 15.8V44.2M1017.5 15.9V44.1M1022.5 19.0V41.0M1027.5 15.7V44.3M1032.5 14.9V45.1M1037.5 7.5V52.5M1042.5 11.9V48.1M1047.5 5.4V54.6M1052.5 13.3V46.7M1057.5 27.4V32.6M1062.5 10.7V49.3M1067.5 10.6V49.4M1072.5 27.6V32.4M1077.5 12.6V47.4M1082.5 28.2V31.8M1087.5 15.9V44.1M1092.5 12.7V47.3M1097.5 12.2V47.8M1102.5 10.9V49.1M1107.5 18.1V41.9M1112.5 20.9V39.1M1117.5 17.7V42.3M1122.5 28.2V31.8M1127.5 20.8V39.2M1132.5 21.2V38.8M1137.5 22.0V38.0M1142.5 18.6V41.4M1147.5 17.3V42.7M1152.5 15.4V44.6M1157.5 16.1V43.9M1162.5 21.7V38.3M1167.5 17.9V42.1M1172.5 12.5V47.5M1177.5 14.4V45.6M1182.5 13.6V46.4M1187.5 21.0V39.0M1192.5 13.0V47.0M1197.5 15.6V44.4" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" vector-effect="non-scaling-stroke"/></symbol>
+  <symbol id="set" viewBox="0 0 160 90" preserveAspectRatio="xMidYMid slice">
+    <rect width="160" height="90" fill="url(#g-wall)"/>
+    <circle cx="132" cy="18" r="46" fill="url(#g-lamp)"/>
+    <circle cx="18" cy="30" r="40" fill="url(#g-cool)"/>
+    <rect x="8" y="8" width="26" height="44" rx="2" fill="#fff" opacity=".05"/>
+    <rect x="96" y="20" width="2" height="48" fill="#000" opacity=".25"/>
+    <path d="M14 90 C16 66 28 58 42 57 C56 58 68 66 70 90Z" fill="var(--sil,#0c0a11)"/>
+    <ellipse cx="42" cy="44" rx="8.5" ry="10.5" fill="var(--sil,#0c0a11)"/>
+    <path d="M90 90 C92 64 104 56 117 55 C130 56 142 64 144 90Z" fill="var(--sil,#0c0a11)"/>
+    <ellipse cx="117" cy="41" rx="9" ry="11" fill="var(--sil,#0c0a11)"/>
+    <path d="M123.5 33 A9 11 0 0 1 125.6 47" fill="none" stroke="var(--rim,#ffb35c)" stroke-width=".9" opacity=".9"/>
+    <path d="M60 48 L66 60 M100 47 L95 60" stroke="#000" stroke-width="1.6" opacity=".7"/>
+    <rect x="57" y="44" width="5" height="8" rx="2.5" fill="#1d1a24" transform="rotate(-25 59 48)"/>
+    <rect x="100" y="43" width="5" height="8" rx="2.5" fill="#1d1a24" transform="rotate(25 102 47)"/>
+    <rect y="72" width="160" height="18" fill="#0a0810" opacity=".85"/>
+  </symbol>
+  <symbol id="close" viewBox="0 0 90 160" preserveAspectRatio="xMidYMid slice">
+    <rect width="90" height="160" fill="url(#g-wall)"/>
+    <circle cx="74" cy="34" r="62" fill="url(#g-lamp)"/>
+    <circle cx="6" cy="70" r="46" fill="url(#g-cool)"/>
+    <rect x="8" y="0" width="20" height="104" fill="#fff" opacity=".04"/>
+    <path d="M-6 160 C-3 120 18 106 45 104 C72 106 93 120 96 160Z" fill="var(--sil,#0c0a11)"/>
+    <rect x="37" y="80" width="16" height="30" rx="7" fill="var(--sil,#0c0a11)"/>
+    <ellipse cx="45" cy="66" rx="17" ry="21" fill="var(--sil,#0c0a11)"/>
+    <path d="M57.5 51 A17 21 0 0 1 61.5 79" fill="none" stroke="var(--rim,#ffb35c)" stroke-width="1.3" opacity=".9"/>
+    <path d="M92 104 L70 120" stroke="#000" stroke-width="3" opacity=".7"/>
+    <rect x="62" y="114" width="9" height="15" rx="4.5" fill="#1d1a24" transform="rotate(52 66 121)"/>
+  </symbol>
+</svg>
+
+<header class="top">
+  <a class="wordmark" href="#main" aria-label="fortheclip, home"><svg class="wm-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="7" fill="var(--mk-bg)"/><rect x="10" y="3.5" width="12" height="25" rx="2.6" fill="var(--mk-fg)"/><rect x="12.4" y="19.2" width="7.2" height="3.2" rx="1.1" fill="var(--mk-bg)"/></svg><span class="wm-word">fortheclip</span></a>
+  <nav aria-label="Main">
+    <a class="nav-link" href="#cut">How it cuts</a>
+    <a class="nav-link" href="#editor">The editor</a>
+    <a class="nav-link" href="#home">Privacy</a>
+    <a class="nav-cta" href="#get">Get the alpha</a>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- HERO ============================================================ -->
+<section class="hero grain" aria-labelledby="hero-title" data-drive="cover:0.5:1">
+  <div class="hero-inner">
+  <div class="hero-copy">
+    <h1 id="hero-title"><span class="h1-pain"><span>Your best minute</span> <span>is buried in</span> <span>hour two.</span></span> <span class="h1-pay">fortheclip finds it.</span></h1>
+    <p class="hero-sub">It transcribes the recording, samples frames, and suggests moments that stand on their own. Shape each one into a captioned vertical clip on your Mac. You choose what's worth keeping. Nothing posts itself.</p>
+    <div class="hero-actions">
+      <a class="btn btn-ink" href="#get">Get the Mac alpha</a>
+      <a class="btn btn-line" href="#cut">See how it cuts</a>
+    </div>
+    <p class="hero-meta">Private alpha for invited testers. Apple silicon, macOS 26.2 or later.</p>
+  </div>
+  <figure class="hero-panel" aria-hidden="true">
+    <div class="hp-bar"><span class="hp-file">interview.mp4</span><span class="hp-len">1:58:20</span><span class="hp-tag">Transcript</span></div>
+    <div class="hero-wall">
+      <div class="wall-in">
+      <p><b>1:09:41</b> which is why I stopped reading the reviews entirely.</p>
+      <p><i>HOST</i> Fair. Let's go back to the start of the company.</p>
+      <p><i>GUEST</i> Sure. It was three of us and a borrowed office.</p>
+      <p>We had a whiteboard and, um, a lot of opinions.</p>
+      <p><i>HOST</i> And a product?</p>
+      <p><i>GUEST</i> Not yet. We had a list of features. That's different.</p>
+      <p><b>1:11:52</b> <i>HOST</i> So how did the first launch go?</p>
+      <p><i>GUEST</i> Honestly? Badly. We'd spent eight months on it.</p>
+      <p>Eight months polishing things nobody had asked for.</p>
+      <p><i>HOST</i> Was there a moment you knew?</p>
+      <p class="wall-moment"><b>1:12:40</b> <span>So, um, the first version was, you know, terrible. We shipped it anyway.</span></p>
+      <p>And that was the best decision we made all year.</p>
+      <p><i>HOST</i> Why?</p>
+      <p><i>GUEST</i> Because terrible and real beats perfect and imaginary.</p>
+      <p>People told us exactly what was broken in week one.</p>
+      <p>You can't get that from a roadmap. You just can't.</p>
+      <p><b>1:13:30</b> <i>HOST</i> Did the team agree with you at the time?</p>
+      <p><i>GUEST</i> Ha. No. Two of them thought I'd lost it.</p>
+      <p>And, look, maybe I had a little. But the numbers came.</p>
+      <p><i>HOST</i> Let's talk about hiring, because you said</p>
+    </div>
+  </div>
+
+    <div class="ruler hero-ruler">
+    <svg class="ruler-wave"><use href="#wave"/></svg>
+    <span class="ruler-mark" style="--x:61.4%"><b>1:12:40</b></span>
+    <span class="ruler-t ruler-t0">0:00:00</span><span class="ruler-t ruler-t1">1:58:20</span>
+  </div>
+    <figcaption class="hp-note">Example: an invented two-hour interview.</figcaption>
+  </figure>
+  </div>
+
+</section>
+
+<!-- THE CUT (signature, scroll-driven) ================================= -->
+<section class="cut" id="cut" aria-labelledby="cut-title" data-drive="contain">
+  <div class="cut-pin">
+    <div class="cut-copy">
+      <h2 id="cut-title">From buried to ready.</h2>
+      <p class="sr-only">The illustration beside these steps shows the recording being played and its transcript appearing beside it, the transcript scrolling past, one passage being highlighted and scored, a landscape interview frame being cropped to vertical around the guest, captions appearing word by word with a hook line above, and finally four vertical clips lined up above the recording's waveform.</p>
+      <ol class="steps">
+        <li class="step" style="--s:0"><h3>It watches and listens.</h3><p>Drop in the recording. Speech is transcribed and timed on your Mac, and a few sampled frames show the model what was on screen. Review the transcript and suggested clips for accuracy.</p></li>
+        <li class="step" style="--s:1"><h3>It finds what stands on its own.</h3><p>The model you connect reads the transcript and suggests moments that make sense without the hour around them. Each comes ranked, with its reasons.</p></li>
+        <li class="step" style="--s:2"><h3>It turns wide into tall.</h3><p>Each clip is reframed to 9:16, and can follow the speaker's face as they lean, turn and gesture.</p></li>
+        <li class="step" style="--s:3"><h3>It tightens every second.</h3><p>Captions timed word by word. Fillers and long pauses cut. A hook line on screen from the first frame, so the first second earns the next one.</p></li>
+        <li class="step" style="--s:4"><h3>Then it does it again.</h3><p>One recording becomes a stack of clips, ranked for review. You keep the good ones and export them. Posting stays your call.</p></li>
+      </ol>
+      <div class="cut-rail" aria-hidden="true"><i></i></div>
+    </div>
+
+    <div class="cut-stage" aria-hidden="true">
+      <div class="scene">
+        <!-- transcript, made from the recording -->
+        <span class="sc-tx-tag">Transcript, made on your Mac</span>
+        <div class="sc-tx">
+          <div class="sc-tx-in">
+            <p><b>1:09:41</b> which is why I stopped reading the reviews.</p>
+            <p><i>HOST</i> Fair. Back to the start of the company.</p>
+            <p><i>GUEST</i> Three of us and a borrowed office.</p>
+            <p>A whiteboard and, um, a lot of opinions.</p>
+            <p><i>HOST</i> And a product?</p>
+            <p><i>GUEST</i> Not yet. We had a list of features.</p>
+            <p>That's different.</p>
+            <p><b>1:11:52</b> <i>HOST</i> How did the first launch go?</p>
+            <p><i>GUEST</i> Badly. We'd spent eight months on it.</p>
+            <p>Polishing things nobody had asked for.</p>
+            <p><i>HOST</i> Was there a moment you knew?</p>
+            <p class="mo"><b>1:12:40</b> <span class="hl"><span class="fl">So, um,</span> the first version was, <span class="fl">you know,</span></span></p>
+            <p class="mo"><span class="hl">terrible. We shipped it anyway.</span> <span class="chip score-hi">92</span></p>
+            <p class="mo-why"><span class="why">Complete thought</span> <span class="why">Strong first line</span></p>
+            <p>And that was the best decision we made.</p>
+            <p><i>HOST</i> Why?</p>
+            <p><i>GUEST</i> Terrible and real beats perfect.</p>
+            <p>People told us what was broken in week one.</p>
+            <p><b>1:13:30</b> <i>HOST</i> Did the team agree?</p>
+            <p><i>GUEST</i> Ha. No. Two of them thought I'd lost it.</p>
+          </div>
+        </div>
+
+        <!-- landscape source with crop -->
+        <div class="sc-src">
+          <svg class="art"><use href="#set"/></svg>
+          <!-- FOOTAGE SLOT (landscape). See docs/LANDING_FOR_THE_CLIP_2026-10-28.md. Example:
+          <img class="footage-media" src="assets/footage/source-16x9.webp" alt="" width="1600" height="900"> -->
+          <span class="sc-src-tag">interview.mp4 · 16:9</span>
+          <div class="sc-crop"><span>9:16</span></div>
+        </div>
+
+        <!-- clips -->
+        <div class="clip c0">
+          <svg class="art"><use href="#close"/></svg>
+          <!-- FOOTAGE SLOT (vertical). Example:
+          <img class="footage-media" src="assets/footage/clip-9x16.webp" alt="" width="900" height="1600"> -->
+          <span class="chip score-hi cl-score">92</span>
+          <span class="cl-hook">Ship the terrible version.</span>
+          <span class="cap g1"><span class="w" style="--i:0" data-w="THE">THE</span> <span class="w" style="--i:1" data-w="FIRST">FIRST</span> <span class="w" style="--i:2" data-w="VERSION">VERSION</span> <span class="w" style="--i:3" data-w="WAS">WAS</span> <span class="w last" style="--i:4" data-w="TERRIBLE.">TERRIBLE.</span></span>
+          <span class="cap g2"><span class="w" style="--i:0" data-w="WE">WE</span> <span class="w" style="--i:1" data-w="SHIPPED">SHIPPED</span> <span class="w" style="--i:2" data-w="IT">IT</span> <span class="w last" style="--i:3" data-w="ANYWAY.">ANYWAY.</span></span>
+          <span class="cl-time">1:12:40</span>
+        </div>
+        <div class="clip c1" style="--wall-a:#23304a;--wall-b:#141a28">
+          <svg class="art"><use href="#close"/></svg>
+          <span class="chip score-hi cl-score">86</span>
+          <span class="cap cap-pop">WE HAD A LIST, <em>NOT</em> A PRODUCT.</span>
+          <span class="cl-time">0:21:05</span>
+        </div>
+        <div class="clip c2" style="--wall-a:#3a2a2a;--wall-b:#1e1515">
+          <svg class="art"><use href="#close"/></svg>
+          <span class="chip score-mid cl-score">79</span>
+          <span class="cap cap-box">Stop reading <em>the reviews.</em></span>
+          <span class="cl-time">0:44:31</span>
+        </div>
+        <div class="clip c3" style="--wall-a:#2a3a30;--wall-b:#141e18">
+          <svg class="art"><use href="#close"/></svg>
+          <span class="chip score-mid cl-score">71</span>
+          <span class="cap cap-imp">TASTE</span>
+          <span class="cl-time">1:39:12</span>
+        </div>
+
+        <!-- waveform ruler -->
+        <div class="sc-wave">
+          <svg class="ruler-wave"><use href="#wave"/></svg>
+          <span class="br b1" style="--x:17.8%"></span>
+          <span class="br b2" style="--x:37.6%"></span>
+          <span class="br b0" style="--x:61.4%"></span>
+          <span class="br b3" style="--x:83.8%"></span>
+          <span class="playhead"><i></i></span>
+          <span class="ruler-t ruler-t0">0:00:00</span><span class="ruler-t ruler-t1">1:58:20</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CAPTION STYLES (compact, scroll-cycled) ============================ -->
+<section class="styles" aria-labelledby="styles-title" data-drive="contain">
+ <div class="styles-pin grain">
+  <div class="styles-copy">
+    <h2 id="styles-title">Same words. Eight ways to say them.</h2>
+    <p>Every clip starts with captions timed to each spoken word. Pick a template, tune it, or save your fonts, colours, hook style and logo as a brand kit and apply it to any clip.</p>
+    <p class="fine">Templates are drawn here in this page's typefaces. In the app they render in their own fonts.</p>
+  </div>
+  <div class="styles-frame" aria-hidden="true">
+    <div class="sf">
+      <svg class="art"><use href="#close"/></svg>
+      <span class="sty sty-bold" style="--i:0">WE SHIPPED <em>IT</em><br>ANYWAY.</span>
+      <span class="sty sty-boxed" style="--i:1">We shipped it <em>anyway.</em></span>
+      <span class="sty sty-color" style="--i:2">We shipped <em>it</em> anyway.</span>
+      <span class="sty sty-impact" style="--i:3">ANYWAY.</span>
+      <span class="sty sty-kara" style="--i:4"><em>WE SHIPPED</em> IT ANYWAY.</span>
+      <span class="sty sty-min" style="--i:5">we shipped it anyway.</span>
+      <span class="sty sty-phrase" style="--i:6"><span>We shipped it anyway.</span></span>
+      <span class="sty sty-pod" style="--i:7"><span>We shipped it <em>anyway.</em></span></span>
+    </div>
+  </div>
+  <ul class="styles-list">
+    <li style="--i:0">Bold pop</li>
+    <li style="--i:1">Boxed word</li>
+    <li style="--i:2">Color word</li>
+    <li style="--i:3">Impact one</li>
+    <li style="--i:4">Karaoke</li>
+    <li style="--i:5">Minimal lower</li>
+    <li style="--i:6">Phrase clean</li>
+    <li style="--i:7">Podcast box</li>
+  </ul>
+ </div>
+</section>
+
+<!-- THE INTERFACE ======================================================= -->
+<section class="iface" id="editor" aria-labelledby="iface-title" data-drive="cover:0.1:0.6">
+  <div class="iface-head">
+    <h2 id="iface-title">That was the story. This is the software.</h2>
+    <p>Every suggestion lands in an editor built for one job: getting a draft right before it leaves your Mac. Below is a drawing of it, simplified, not a screenshot.</p>
+  </div>
+
+  <div class="app" aria-hidden="true">
+    <div class="app-bar"><span class="dots"><i></i><i></i><i></i></span><span class="app-title">The first version was terrible</span><span class="app-save">Saved</span><span class="app-btn">Export</span></div>
+    <div class="app-body">
+      <div class="app-left">
+        <span class="app-label">Transcript</span>
+        <span class="seg">1:12:40 to 1:13:14</span>
+        <p class="para"><span class="tw rm fill">So,</span> <span class="tw rm fill">um,</span> the first version was, <span class="tw rm fill">you know,</span> <span class="tw emph">terrible.</span> We shipped it <span class="tw act">anyway.</span> And that was the best decision we made all year.</p>
+        <span class="seg">Not in this clip</span>
+        <p class="para dim">Why? Because terrible and real beats perfect and imaginary. People told us exactly what was broken in week one. You can't get that from a roadmap.</p>
+        <span class="pin" data-n="1"></span>
+        <span class="cuts"><span class="reason r-filler">Filler</span> 0:00.0 <span class="reason r-filler">Filler</span> 0:00.4 <span class="reason r-silence">Pause</span> 0:03.1</span>
+      </div>
+      <div class="app-center">
+        <div class="app-stage">
+          <svg class="art"><use href="#close"/></svg>
+          <span class="cl-hook">Ship the terrible version.</span>
+          <span class="app-cap">We shipped it <em>anyway.</em></span>
+        </div>
+        <span class="app-transport"><i class="tp-play"></i> 0:11 / 0:34</span>
+      </div>
+      <div class="app-right">
+        <div class="tabs"><span class="on">Captions</span><span>Layout</span><span>Hook</span><span>Brand</span><span>Cuts</span></div>
+        <span class="switch"><i></i> Show captions</span>
+        <div class="gal">
+          <span>Bold pop</span><span class="on">Boxed word</span><span>Color word</span><span>Impact one</span><span>Karaoke</span><span>Minimal lower</span><span>Phrase clean</span><span>Podcast box</span>
+        </div>
+        <span class="sl">Size <b style="--v:.45"></b></span>
+        <span class="sl">Words per line <b style="--v:.4"></b></span>
+        <span class="sel">Spoken word <b>Colour and box</b></span>
+        <span class="pin" data-n="3"></span>
+      </div>
+    </div>
+    <div class="app-tl"><span class="tl-seg" style="--l:0;--w:9"></span><span class="tl-cut" style="--l:9;--w:5"></span><span class="tl-seg" style="--l:14;--w:30"></span><span class="tl-cut" style="--l:44;--w:4"></span><span class="tl-seg" style="--l:48;--w:52"></span><span class="tl-ph" style="--l:33"></span></div>
+  </div>
+
+  <div class="app-row" aria-hidden="true">
+    <div class="app app-list">
+      <span class="app-label">Clips from this recording <span class="sortby">Highest score</span></span>
+      <div class="cards">
+        <div class="card"><div class="card-m"><span class="score s-hi">92</span><span class="dur">0:34</span></div><b>The first version was terrible</b><ul><li>Complete thought, no setup needed</li><li>Strong first line</li></ul></div>
+        <div class="card"><div class="card-m" style="--wall-a:#23304a"><span class="score s-hi">86</span><span class="dur">0:41</span></div><b>A list is not a product</b><ul><li>Clear contrast</li><li>Lands on its last line</li></ul></div>
+        <div class="card"><div class="card-m" style="--wall-a:#3a2a2a"><span class="score s-mid">79</span><span class="dur">0:27</span></div><b>Stop reading the reviews</b><ul><li>Opinionated</li><li>Slow start</li></ul></div>
+      </div>
+      <span class="pin" data-n="2"></span>
+    </div>
+    <div class="app app-export">
+      <span class="app-label">Export clip</span>
+      <span class="sel">Quality <b>Full HD 1080p</b></span>
+      <span class="files"><span>MP4, captions burned in</span><span>SRT</span></span>
+      <span class="prog"><i></i></span>
+      <span class="note">You can leave this open. Exports keep running on your computer.</span>
+      <span class="pin" data-n="4"></span>
+    </div>
+  </div>
+
+  <ol class="callouts">
+    <li><h3>Delete a word. The cut follows.</h3><p>Edit the clip by editing its transcript. Strike a word and the video, captions and timing move with it. Fillers and long pauses are already marked.</p></li>
+    <li><h3>Ranked, with reasons.</h3><p>Every suggestion carries a score out of 100 and a short why. Disagree freely; the order is advice, not a verdict.</p></li>
+    <li><h3>Captions, layout, hook, brand.</h3><p>Caption templates, face-following reframing, hook styles and brand kits sit in one panel. The preview matches the export.</p></li>
+    <li><h3>Export, then decide.</h3><p>An MP4 with burned-in captions and an SRT file, rendered on your Mac. Where it goes next is up to you.</p></li>
+  </ol>
+</section>
+
+<!-- STAYS HOME ========================================================= -->
+<section class="home" id="home" aria-labelledby="home-title" data-drive="cover:0.15:0.6">
+  <div class="home-copy">
+    <h2 id="home-title">The recording stays home.</h2>
+    <p>Export happens on your Mac. So does almost everything else. Your source files are never modified, and only the words, plus a few frames, ever leave.</p>
+  </div>
+  <div class="map">
+    <div class="mac">
+      <h3>On your Mac</h3>
+      <ul>
+        <li>Your source video, never modified</li>
+        <li>Transcription</li>
+        <li>Face tracking and reframing</li>
+        <li>Captions, cuts and rendering</li>
+        <li>Export to MP4 and SRT</li>
+      </ul>
+    </div>
+    <div class="wire" aria-hidden="true"><i></i><span class="packet">transcript text + a few frames</span></div>
+    <div class="cloud">
+      <h3>The model provider you choose</h3>
+      <p>Reads the transcript text and a few sampled frames to suggest and refine clips. You connect it with your own key, and you can inspect every call.</p>
+    </div>
+  </div>
+  <p class="home-foot"><strong>Nothing is posted automatically.</strong> Your clips go where you send them, when you send them.</p>
+</section>
+
+<!-- GET THE ALPHA ===================================================== -->
+<section class="get grain" id="get" aria-labelledby="get-title">
+  <div class="get-top">
+    <h2 id="get-title">Invited? Your build is ready.</h2>
+    <p class="get-lead">This is a private alpha, not a finished release. Start with a short video, and check your setup and every export.</p>
+    <a class="btn btn-sun" href="/downloads/0.1.2-build3/Clippie-close-testers-0.1.2-build3.zip">Download the complete Mac kit</a>
+    <p class="get-meta">813 MB. You need the tester username and password from the person who invited you.<br>The alpha still installs under its working name, Clippie.</p>
+  </div>
+
+  <div class="get-grid">
+    <dl class="facts">
+      <div><dt>Your Mac</dt><dd>Apple silicon and macOS 26.2 or later. Other devices have not been accepted for this test.</dd></div>
+      <div><dt>Installation</dt><dd>The app is unnotarized; Apple has not notarized it. macOS may block it, and managed Macs may not allow installation.</dd></div>
+      <div><dt>Space</dt><dd>Internet and about 2 GB for local model downloads, plus space for videos and recovery copies. Setup checks additional model space.</dd></div>
+      <div><dt>AI access</dt><dd>Your own Gemini AI Studio key and available quota are needed for cloud clip generation. Provider billing is separate. Selected transcript text and sampled frames may be sent to the provider.</dd></div>
+      <div><dt>This round</dt><dd>Local-file input through MP4 and SRT export is the test scope. URL ingestion and connected publishing are not accepted for this round.</dd></div>
+    </dl>
+
+    <div class="install">
+      <h3>Install in five steps</h3>
+      <ol>
+        <li><strong>Download and extract the ZIP.</strong> The complete kit includes the installer, instructions, third-party source material, notices and checksums. Keep the extracted folder intact.</li>
+        <li><strong>Install the app.</strong> Open the DMG and drag Clippie to Applications.</li>
+        <li><strong>Open it.</strong> If macOS blocks the unnotarized app and you trust the sender, follow <a href="https://support.apple.com/en-au/102445" rel="noreferrer">Apple's per-app Open Anyway instructions</a>. If macOS reports damage or malware, stop and contact the sender. Do not disable system security.</li>
+        <li><strong>Prepare your setup.</strong> In Settings, prepare the required local models, connect your provider, check access and apply a routing preset. Review any warnings.</li>
+        <li><strong>Make and check your clip.</strong> Import a short local video, generate within your allowance, review and edit, then export MP4 and SRT. Play the result outside the app and check speech, captions, framing and meaning.</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="release">
+    <div>
+      <h3>Release notes: 0.1.2, build 3</h3>
+      <p>Private alpha, 29 October 2026. Independent installation and editorial quality remain tester checks.</p>
+      <p>Updates are manual. Fully quit the app before replacing it. Keep the previous installer and a compatible pre-upgrade recovery copy. Projects, models and credentials live outside the app. Automatic cleanup and project deletion are unavailable in this build.</p>
+    </div>
+    <details open>
+      <summary>Verify the download</summary>
+      <p>ZIP SHA-256:</p>
+      <code>8357489dc3c6c59bca46a19a92e238137c584397a35bd005ef8edb98b4670424</code>
+      <a href="/downloads/0.1.2-build3/Clippie-close-testers-0.1.2-build3.zip.sha256">Download the checksum file</a>
+    </details>
+  </div>
+
+  <footer class="foot">
+    <a class="wordmark wordmark-sm" href="#main" aria-label="fortheclip, back to top"><svg class="wm-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="7" fill="var(--mk-bg)"/><rect x="10" y="3.5" width="12" height="25" rx="2.6" fill="var(--mk-fg)"/><rect x="12.4" y="19.2" width="7.2" height="3.2" rx="1.1" fill="var(--mk-bg)"/></svg><span class="wm-word">fortheclip</span></a>
+    <p>Need help? Contact the person who invited you. Share your Mac model, macOS version, browser, steps and the exact error. Never send API keys or passwords.</p>
+    <p>0.1.2 build 3<br>Private Mac alpha</p>
+  </footer>
+</section>
+
+</main>
+</body>
+</html>

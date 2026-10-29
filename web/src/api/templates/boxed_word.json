@@ -1,0 +1,44 @@
+{
+  "id": "boxed_word",
+  "name": "Boxed word",
+  "font": {
+    "family": "Inter",
+    "file": "Inter-Bold.ttf",
+    "size": 68
+  },
+  "case": "none",
+  "grouping": {
+    "max_words": 4,
+    "max_chars": 26,
+    "max_lines": 2,
+    "break_on_pause": 0.4
+  },
+  "position": {
+    "y": 0.72,
+    "max_width": 0.86
+  },
+  "colors": {
+    "text": "#FFFFFF",
+    "active": "#10140C",
+    "emphasis": "#FFB020",
+    "stroke": "#000000",
+    "box": null,
+    "active_box": "#D8F66F"
+  },
+  "stroke_width": 0,
+  "shadow": {
+    "dx": 0,
+    "dy": 4,
+    "blur": 10,
+    "color": "#000000B3"
+  },
+  "active_word": {
+    "style": "color_box",
+    "scale": 1.0
+  },
+  "animation": {
+    "in": "pop",
+    "duration_ms": 100
+  },
+  "line_height": 1.3
+}

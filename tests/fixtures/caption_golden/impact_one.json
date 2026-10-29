@@ -1,0 +1,3401 @@
+{
+ "format": "clippie.caption_golden/1",
+ "template": {
+  "id": "impact_one",
+  "name": "Impact one",
+  "font": {
+   "family": "Anton",
+   "file": "Anton-Regular.ttf",
+   "size": 150,
+   "metrics": {
+    "ascent": 1.18,
+    "descent": 0.33
+   }
+  },
+  "case": "upper",
+  "grouping": {
+   "max_words": 1,
+   "max_chars": 16,
+   "max_lines": 1,
+   "break_on_pause": 0.3
+  },
+  "position": {
+   "y": 0.58,
+   "max_width": 0.9
+  },
+  "colors": {
+   "text": "#FFFFFF",
+   "active": "#FFE600",
+   "emphasis": "#3CF2FF",
+   "stroke": "#000000",
+   "box": null,
+   "active_box": null
+  },
+  "stroke_width": 14.0,
+  "shadow": {
+   "dx": 0,
+   "dy": 10,
+   "blur": 0,
+   "color": "#000000AA"
+  },
+  "active_word": {
+   "style": "scale",
+   "scale": 1.15
+  },
+  "animation": {
+   "in": "pop",
+   "duration_ms": 110
+  },
+  "line_height": 1.0
+ },
+ "boundaries": [
+  0.0,
+  7.38
+ ],
+ "words": [
+  {
+   "key": "src:0",
+   "text": "So",
+   "start": 0.4,
+   "end": 0.64,
+   "source_id": "src",
+   "word_id": 0,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:1",
+   "text": "honestly",
+   "start": 0.7,
+   "end": 0.97,
+   "source_id": "src",
+   "word_id": 1,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:2",
+   "text": "the",
+   "start": 1.03,
+   "end": 1.3,
+   "source_id": "src",
+   "word_id": 2,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:3",
+   "text": "biggest",
+   "start": 1.36,
+   "end": 1.6,
+   "source_id": "src",
+   "word_id": 3,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:4",
+   "text": "mistake",
+   "start": 1.66,
+   "end": 1.9,
+   "source_id": "src",
+   "word_id": 4,
+   "emphasis": true,
+   "hidden": false
+  },
+  {
+   "key": "src:5",
+   "text": "people",
+   "start": 1.96,
+   "end": 2.17,
+   "source_id": "src",
+   "word_id": 5,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:6",
+   "text": "make",
+   "start": 2.23,
+   "end": 2.53,
+   "source_id": "src",
+   "word_id": 6,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:7",
+   "text": "with",
+   "start": 2.59,
+   "end": 2.89,
+   "source_id": "src",
+   "word_id": 7,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:8",
+   "text": "AI",
+   "start": 2.95,
+   "end": 3.19,
+   "source_id": "src",
+   "word_id": 8,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:9",
+   "text": "tutors",
+   "start": 3.25,
+   "end": 3.46,
+   "source_id": "src",
+   "word_id": 9,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:10",
+   "text": "is",
+   "start": 3.52,
+   "end": 3.76,
+   "source_id": "src",
+   "word_id": 10,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:11",
+   "text": "trusting",
+   "start": 3.82,
+   "end": 4.09,
+   "source_id": "src",
+   "word_id": 11,
+   "emphasis": false,
+   "hidden": true
+  },
+  {
+   "key": "src:12",
+   "text": "them",
+   "start": 4.15,
+   "end": 4.45,
+   "source_id": "src",
+   "word_id": 12,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:13",
+   "text": "blindly.",
+   "start": 4.51,
+   "end": 4.78,
+   "source_id": "src",
+   "word_id": 13,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:14",
+   "text": "Wait",
+   "start": 5.4,
+   "end": 5.7,
+   "source_id": "src",
+   "word_id": 14,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:15",
+   "text": "that",
+   "start": 5.76,
+   "end": 6.06,
+   "source_id": "src",
+   "word_id": 15,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:16",
+   "text": "is",
+   "start": 6.12,
+   "end": 6.36,
+   "source_id": "src",
+   "word_id": 16,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:17",
+   "text": "not",
+   "start": 6.42,
+   "end": 6.69,
+   "source_id": "src",
+   "word_id": 17,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:18",
+   "text": "what",
+   "start": 6.75,
+   "end": 7.05,
+   "source_id": "src",
+   "word_id": 18,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:19",
+   "text": "I",
+   "start": 7.11,
+   "end": 7.32,
+   "source_id": "src",
+   "word_id": 19,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:20",
+   "text": "expected",
+   "start": 7.38,
+   "end": 7.65,
+   "source_id": "src",
+   "word_id": 20,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:21",
+   "text": "at",
+   "start": 7.71,
+   "end": 7.95,
+   "source_id": "src",
+   "word_id": 21,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:22",
+   "text": "all",
+   "start": 8.01,
+   "end": 8.28,
+   "source_id": "src",
+   "word_id": 22,
+   "emphasis": true,
+   "hidden": false
+  },
+  {
+   "key": "src:23",
+   "text": "but",
+   "start": 8.34,
+   "end": 8.61,
+   "source_id": "src",
+   "word_id": 23,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:24",
+   "text": "here",
+   "start": 8.67,
+   "end": 8.97,
+   "source_id": "src",
+   "word_id": 24,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:25",
+   "text": "is",
+   "start": 9.03,
+   "end": 9.27,
+   "source_id": "src",
+   "word_id": 25,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:26",
+   "text": "the",
+   "start": 9.33,
+   "end": 9.6,
+   "source_id": "src",
+   "word_id": 26,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:27",
+   "text": "surprising",
+   "start": 9.66,
+   "end": 9.84,
+   "source_id": "src",
+   "word_id": 27,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:28",
+   "text": "part",
+   "start": 9.9,
+   "end": 10.2,
+   "source_id": "src",
+   "word_id": 28,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:29",
+   "text": "international",
+   "start": 10.26,
+   "end": 10.53,
+   "source_id": "src",
+   "word_id": 29,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:30",
+   "text": "collaboration",
+   "start": 10.59,
+   "end": 10.86,
+   "source_id": "src",
+   "word_id": 30,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:31",
+   "text": "changes",
+   "start": 10.92,
+   "end": 11.16,
+   "source_id": "src",
+   "word_id": 31,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:32",
+   "text": "everything",
+   "start": 11.22,
+   "end": 11.4,
+   "source_id": "src",
+   "word_id": 32,
+   "emphasis": false,
+   "hidden": false
+  }
+ ],
+ "measure": {
+  "engine": "Pillow BASIC layout getlength(text) at float size px, per word; space = getlength(' ')",
+  "font_file": "Anton-Regular.ttf",
+  "space_widths": {
+   "150.0": 35.0,
+   "100.0": 23.0
+  }
+ },
+ "runs": [
+  {
+   "canvas": {
+    "width": 1080,
+    "height": 1920
+   },
+   "pages": [
+    {
+     "index": 0,
+     "start": 0.4,
+     "visible_end": 0.7,
+     "font_size": 150.0,
+     "keys": [
+      "src:0"
+     ],
+     "lines": [
+      "SO"
+     ]
+    },
+    {
+     "index": 1,
+     "start": 0.7,
+     "visible_end": 1.03,
+     "font_size": 150.0,
+     "keys": [
+      "src:1"
+     ],
+     "lines": [
+      "HONESTLY"
+     ]
+    },
+    {
+     "index": 2,
+     "start": 1.03,
+     "visible_end": 1.36,
+     "font_size": 150.0,
+     "keys": [
+      "src:2"
+     ],
+     "lines": [
+      "THE"
+     ]
+    },
+    {
+     "index": 3,
+     "start": 1.36,
+     "visible_end": 1.66,
+     "font_size": 150.0,
+     "keys": [
+      "src:3"
+     ],
+     "lines": [
+      "BIGGEST"
+     ]
+    },
+    {
+     "index": 4,
+     "start": 1.66,
+     "visible_end": 1.96,
+     "font_size": 150.0,
+     "keys": [
+      "src:4"
+     ],
+     "lines": [
+      "MISTAKE"
+     ]
+    },
+    {
+     "index": 5,
+     "start": 1.96,
+     "visible_end": 2.23,
+     "font_size": 150.0,
+     "keys": [
+      "src:5"
+     ],
+     "lines": [
+      "PEOPLE"
+     ]
+    },
+    {
+     "index": 6,
+     "start": 2.23,
+     "visible_end": 2.59,
+     "font_size": 150.0,
+     "keys": [
+      "src:6"
+     ],
+     "lines": [
+      "MAKE"
+     ]
+    },
+    {
+     "index": 7,
+     "start": 2.59,
+     "visible_end": 2.95,
+     "font_size": 150.0,
+     "keys": [
+      "src:7"
+     ],
+     "lines": [
+      "WITH"
+     ]
+    },
+    {
+     "index": 8,
+     "start": 2.95,
+     "visible_end": 3.25,
+     "font_size": 150.0,
+     "keys": [
+      "src:8"
+     ],
+     "lines": [
+      "AI"
+     ]
+    },
+    {
+     "index": 9,
+     "start": 3.25,
+     "visible_end": 3.52,
+     "font_size": 150.0,
+     "keys": [
+      "src:9"
+     ],
+     "lines": [
+      "TUTORS"
+     ]
+    },
+    {
+     "index": 10,
+     "start": 3.52,
+     "visible_end": 4.15,
+     "font_size": 150.0,
+     "keys": [
+      "src:10"
+     ],
+     "lines": [
+      "IS"
+     ]
+    },
+    {
+     "index": 11,
+     "start": 4.15,
+     "visible_end": 4.51,
+     "font_size": 150.0,
+     "keys": [
+      "src:12"
+     ],
+     "lines": [
+      "THEM"
+     ]
+    },
+    {
+     "index": 12,
+     "start": 4.51,
+     "visible_end": 5.38,
+     "font_size": 150.0,
+     "keys": [
+      "src:13"
+     ],
+     "lines": [
+      "BLINDLY."
+     ]
+    },
+    {
+     "index": 13,
+     "start": 5.4,
+     "visible_end": 5.76,
+     "font_size": 150.0,
+     "keys": [
+      "src:14"
+     ],
+     "lines": [
+      "WAIT"
+     ]
+    },
+    {
+     "index": 14,
+     "start": 5.76,
+     "visible_end": 6.12,
+     "font_size": 150.0,
+     "keys": [
+      "src:15"
+     ],
+     "lines": [
+      "THAT"
+     ]
+    },
+    {
+     "index": 15,
+     "start": 6.12,
+     "visible_end": 6.42,
+     "font_size": 150.0,
+     "keys": [
+      "src:16"
+     ],
+     "lines": [
+      "IS"
+     ]
+    },
+    {
+     "index": 16,
+     "start": 6.42,
+     "visible_end": 6.75,
+     "font_size": 150.0,
+     "keys": [
+      "src:17"
+     ],
+     "lines": [
+      "NOT"
+     ]
+    },
+    {
+     "index": 17,
+     "start": 6.75,
+     "visible_end": 7.11,
+     "font_size": 150.0,
+     "keys": [
+      "src:18"
+     ],
+     "lines": [
+      "WHAT"
+     ]
+    },
+    {
+     "index": 18,
+     "start": 7.11,
+     "visible_end": 7.38,
+     "font_size": 150.0,
+     "keys": [
+      "src:19"
+     ],
+     "lines": [
+      "I"
+     ]
+    },
+    {
+     "index": 19,
+     "start": 7.38,
+     "visible_end": 7.71,
+     "font_size": 150.0,
+     "keys": [
+      "src:20"
+     ],
+     "lines": [
+      "EXPECTED"
+     ]
+    },
+    {
+     "index": 20,
+     "start": 7.71,
+     "visible_end": 8.01,
+     "font_size": 150.0,
+     "keys": [
+      "src:21"
+     ],
+     "lines": [
+      "AT"
+     ]
+    },
+    {
+     "index": 21,
+     "start": 8.01,
+     "visible_end": 8.34,
+     "font_size": 150.0,
+     "keys": [
+      "src:22"
+     ],
+     "lines": [
+      "ALL"
+     ]
+    },
+    {
+     "index": 22,
+     "start": 8.34,
+     "visible_end": 8.67,
+     "font_size": 150.0,
+     "keys": [
+      "src:23"
+     ],
+     "lines": [
+      "BUT"
+     ]
+    },
+    {
+     "index": 23,
+     "start": 8.67,
+     "visible_end": 9.03,
+     "font_size": 150.0,
+     "keys": [
+      "src:24"
+     ],
+     "lines": [
+      "HERE"
+     ]
+    },
+    {
+     "index": 24,
+     "start": 9.03,
+     "visible_end": 9.33,
+     "font_size": 150.0,
+     "keys": [
+      "src:25"
+     ],
+     "lines": [
+      "IS"
+     ]
+    },
+    {
+     "index": 25,
+     "start": 9.33,
+     "visible_end": 9.66,
+     "font_size": 150.0,
+     "keys": [
+      "src:26"
+     ],
+     "lines": [
+      "THE"
+     ]
+    },
+    {
+     "index": 26,
+     "start": 9.66,
+     "visible_end": 9.9,
+     "font_size": 150.0,
+     "keys": [
+      "src:27"
+     ],
+     "lines": [
+      "SURPRISING"
+     ]
+    },
+    {
+     "index": 27,
+     "start": 9.9,
+     "visible_end": 10.26,
+     "font_size": 150.0,
+     "keys": [
+      "src:28"
+     ],
+     "lines": [
+      "PART"
+     ]
+    },
+    {
+     "index": 28,
+     "start": 10.26,
+     "visible_end": 10.59,
+     "font_size": 150.0,
+     "keys": [
+      "src:29"
+     ],
+     "lines": [
+      "INTERNATIONAL"
+     ]
+    },
+    {
+     "index": 29,
+     "start": 10.59,
+     "visible_end": 10.92,
+     "font_size": 150.0,
+     "keys": [
+      "src:30"
+     ],
+     "lines": [
+      "COLLABORATION"
+     ]
+    },
+    {
+     "index": 30,
+     "start": 10.92,
+     "visible_end": 11.22,
+     "font_size": 150.0,
+     "keys": [
+      "src:31"
+     ],
+     "lines": [
+      "CHANGES"
+     ]
+    },
+    {
+     "index": 31,
+     "start": 11.22,
+     "visible_end": 12.0,
+     "font_size": 150.0,
+     "keys": [
+      "src:32"
+     ],
+     "lines": [
+      "EVERYTHING"
+     ]
+    }
+   ],
+   "cases": [
+    {
+     "t": 0.1,
+     "layout": {
+      "t": 0.1,
+      "template_id": "impact_one",
+      "page": null
+     }
+    },
+    {
+     "t": 0.41,
+     "layout": {
+      "t": 0.41,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "SO",
+         "x": 469.0,
+         "y": 1038.6,
+         "w": 142.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 469.0,
+           "w": 142.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 469.0,
+        "y": 1038.6,
+        "w": 142.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 0.64,
+       "visible_end": 0.7,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.47,
+     "layout": {
+      "t": 0.47,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "SO",
+         "x": 469.0,
+         "y": 1038.6,
+         "w": 142.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 469.0,
+           "w": 142.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 469.0,
+        "y": 1038.6,
+        "w": 142.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 0.64,
+       "visible_end": 0.7,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.69,
+     "layout": {
+      "t": 0.69,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "SO",
+         "x": 469.0,
+         "y": 1038.6,
+         "w": 142.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 469.0,
+           "w": 142.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 469.0,
+        "y": 1038.6,
+        "w": 142.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 0.64,
+       "visible_end": 0.7,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.71,
+     "layout": {
+      "t": 0.71,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "HONESTLY",
+         "x": 270.0,
+         "y": 1038.6,
+         "w": 540.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 270.0,
+           "w": 540.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 270.0,
+        "y": 1038.6,
+        "w": 540.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        }
+       ],
+       "index": 1,
+       "start": 0.7,
+       "last_end": 0.97,
+       "visible_end": 1.03,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.77,
+     "layout": {
+      "t": 0.77,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "HONESTLY",
+         "x": 270.0,
+         "y": 1038.6,
+         "w": 540.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 270.0,
+           "w": 540.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 270.0,
+        "y": 1038.6,
+        "w": 540.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        }
+       ],
+       "index": 1,
+       "start": 0.7,
+       "last_end": 0.97,
+       "visible_end": 1.03,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.02,
+     "layout": {
+      "t": 1.02,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "HONESTLY",
+         "x": 270.0,
+         "y": 1038.6,
+         "w": 540.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 270.0,
+           "w": 540.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 270.0,
+        "y": 1038.6,
+        "w": 540.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        }
+       ],
+       "index": 1,
+       "start": 0.7,
+       "last_end": 0.97,
+       "visible_end": 1.03,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.04,
+     "layout": {
+      "t": 1.04,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "THE",
+         "x": 442.0,
+         "y": 1038.6,
+         "w": 196.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:2",
+           "text": "THE",
+           "x": 442.0,
+           "w": 196.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 442.0,
+        "y": 1038.6,
+        "w": 196.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 2,
+       "start": 1.03,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.1,
+     "layout": {
+      "t": 1.1,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "THE",
+         "x": 442.0,
+         "y": 1038.6,
+         "w": 196.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:2",
+           "text": "THE",
+           "x": 442.0,
+           "w": 196.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 442.0,
+        "y": 1038.6,
+        "w": 196.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 2,
+       "start": 1.03,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.35,
+     "layout": {
+      "t": 1.35,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "THE",
+         "x": 442.0,
+         "y": 1038.6,
+         "w": 196.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:2",
+           "text": "THE",
+           "x": 442.0,
+           "w": 196.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 442.0,
+        "y": 1038.6,
+        "w": 196.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 2,
+       "start": 1.03,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.37,
+     "layout": {
+      "t": 1.37,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "BIGGEST",
+         "x": 319.0,
+         "y": 1038.6,
+         "w": 442.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 319.0,
+           "w": 442.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 319.0,
+        "y": 1038.6,
+        "w": 442.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        }
+       ],
+       "index": 3,
+       "start": 1.36,
+       "last_end": 1.6,
+       "visible_end": 1.66,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.43,
+     "layout": {
+      "t": 1.43,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "BIGGEST",
+         "x": 319.0,
+         "y": 1038.6,
+         "w": 442.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 319.0,
+           "w": 442.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 319.0,
+        "y": 1038.6,
+        "w": 442.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        }
+       ],
+       "index": 3,
+       "start": 1.36,
+       "last_end": 1.6,
+       "visible_end": 1.66,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.65,
+     "layout": {
+      "t": 1.65,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "BIGGEST",
+         "x": 319.0,
+         "y": 1038.6,
+         "w": 442.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 319.0,
+           "w": 442.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 319.0,
+        "y": 1038.6,
+        "w": 442.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        }
+       ],
+       "index": 3,
+       "start": 1.36,
+       "last_end": 1.6,
+       "visible_end": 1.66,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.67,
+     "layout": {
+      "t": 1.67,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "MISTAKE",
+         "x": 300.0,
+         "y": 1038.6,
+         "w": 480.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 300.0,
+           "w": 480.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 300.0,
+        "y": 1038.6,
+        "w": 480.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 4,
+       "start": 1.66,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.73,
+     "layout": {
+      "t": 1.73,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "MISTAKE",
+         "x": 300.0,
+         "y": 1038.6,
+         "w": 480.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 300.0,
+           "w": 480.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 300.0,
+        "y": 1038.6,
+        "w": 480.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 4,
+       "start": 1.66,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.95,
+     "layout": {
+      "t": 1.95,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "MISTAKE",
+         "x": 300.0,
+         "y": 1038.6,
+         "w": 480.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 300.0,
+           "w": 480.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 300.0,
+        "y": 1038.6,
+        "w": 480.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 4,
+       "start": 1.66,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.97,
+     "layout": {
+      "t": 1.97,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "PEOPLE",
+         "x": 340.5,
+         "y": 1038.6,
+         "w": 399.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 340.5,
+           "w": 399.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 340.5,
+        "y": 1038.6,
+        "w": 399.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 5,
+       "start": 1.96,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.03,
+     "layout": {
+      "t": 2.03,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "PEOPLE",
+         "x": 340.5,
+         "y": 1038.6,
+         "w": 399.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 340.5,
+           "w": 399.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 340.5,
+        "y": 1038.6,
+        "w": 399.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 5,
+       "start": 1.96,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.22,
+     "layout": {
+      "t": 2.22,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "PEOPLE",
+         "x": 340.5,
+         "y": 1038.6,
+         "w": 399.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 340.5,
+           "w": 399.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 340.5,
+        "y": 1038.6,
+        "w": 399.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 5,
+       "start": 1.96,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.24,
+     "layout": {
+      "t": 2.24,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "MAKE",
+         "x": 381.0,
+         "y": 1038.6,
+         "w": 318.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 381.0,
+           "w": 318.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 381.0,
+        "y": 1038.6,
+        "w": 318.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        }
+       ],
+       "index": 6,
+       "start": 2.23,
+       "last_end": 2.53,
+       "visible_end": 2.59,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.3,
+     "layout": {
+      "t": 2.3,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "MAKE",
+         "x": 381.0,
+         "y": 1038.6,
+         "w": 318.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 381.0,
+           "w": 318.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 381.0,
+        "y": 1038.6,
+        "w": 318.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        }
+       ],
+       "index": 6,
+       "start": 2.23,
+       "last_end": 2.53,
+       "visible_end": 2.59,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.58,
+     "layout": {
+      "t": 2.58,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 150.0,
+       "line_height_px": 150.0,
+       "lines": [
+        {
+         "text": "MAKE",
+         "x": 381.0,
+         "y": 1038.6,
+         "w": 318.0,
+         "baseline": 1177.14,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 381.0,
+           "w": 318.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 381.0,
+        "y": 1038.6,
+        "w": 318.0,
+        "h": 150.0
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        }
+       ],
+       "index": 6,
+       "start": 2.23,
+       "last_end": 2.53,
+       "visible_end": 2.59,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 12.05,
+     "layout": {
+      "t": 12.05,
+      "template_id": "impact_one",
+      "page": null
+     }
+    }
+   ]
+  },
+  {
+   "canvas": {
+    "width": 720,
+    "height": 1280
+   },
+   "pages": [
+    {
+     "index": 0,
+     "start": 0.4,
+     "visible_end": 0.7,
+     "font_size": 100.0,
+     "keys": [
+      "src:0"
+     ],
+     "lines": [
+      "SO"
+     ]
+    },
+    {
+     "index": 1,
+     "start": 0.7,
+     "visible_end": 1.03,
+     "font_size": 100.0,
+     "keys": [
+      "src:1"
+     ],
+     "lines": [
+      "HONESTLY"
+     ]
+    },
+    {
+     "index": 2,
+     "start": 1.03,
+     "visible_end": 1.36,
+     "font_size": 100.0,
+     "keys": [
+      "src:2"
+     ],
+     "lines": [
+      "THE"
+     ]
+    },
+    {
+     "index": 3,
+     "start": 1.36,
+     "visible_end": 1.66,
+     "font_size": 100.0,
+     "keys": [
+      "src:3"
+     ],
+     "lines": [
+      "BIGGEST"
+     ]
+    },
+    {
+     "index": 4,
+     "start": 1.66,
+     "visible_end": 1.96,
+     "font_size": 100.0,
+     "keys": [
+      "src:4"
+     ],
+     "lines": [
+      "MISTAKE"
+     ]
+    },
+    {
+     "index": 5,
+     "start": 1.96,
+     "visible_end": 2.23,
+     "font_size": 100.0,
+     "keys": [
+      "src:5"
+     ],
+     "lines": [
+      "PEOPLE"
+     ]
+    },
+    {
+     "index": 6,
+     "start": 2.23,
+     "visible_end": 2.59,
+     "font_size": 100.0,
+     "keys": [
+      "src:6"
+     ],
+     "lines": [
+      "MAKE"
+     ]
+    },
+    {
+     "index": 7,
+     "start": 2.59,
+     "visible_end": 2.95,
+     "font_size": 100.0,
+     "keys": [
+      "src:7"
+     ],
+     "lines": [
+      "WITH"
+     ]
+    },
+    {
+     "index": 8,
+     "start": 2.95,
+     "visible_end": 3.25,
+     "font_size": 100.0,
+     "keys": [
+      "src:8"
+     ],
+     "lines": [
+      "AI"
+     ]
+    },
+    {
+     "index": 9,
+     "start": 3.25,
+     "visible_end": 3.52,
+     "font_size": 100.0,
+     "keys": [
+      "src:9"
+     ],
+     "lines": [
+      "TUTORS"
+     ]
+    },
+    {
+     "index": 10,
+     "start": 3.52,
+     "visible_end": 4.15,
+     "font_size": 100.0,
+     "keys": [
+      "src:10"
+     ],
+     "lines": [
+      "IS"
+     ]
+    },
+    {
+     "index": 11,
+     "start": 4.15,
+     "visible_end": 4.51,
+     "font_size": 100.0,
+     "keys": [
+      "src:12"
+     ],
+     "lines": [
+      "THEM"
+     ]
+    },
+    {
+     "index": 12,
+     "start": 4.51,
+     "visible_end": 5.38,
+     "font_size": 100.0,
+     "keys": [
+      "src:13"
+     ],
+     "lines": [
+      "BLINDLY."
+     ]
+    },
+    {
+     "index": 13,
+     "start": 5.4,
+     "visible_end": 5.76,
+     "font_size": 100.0,
+     "keys": [
+      "src:14"
+     ],
+     "lines": [
+      "WAIT"
+     ]
+    },
+    {
+     "index": 14,
+     "start": 5.76,
+     "visible_end": 6.12,
+     "font_size": 100.0,
+     "keys": [
+      "src:15"
+     ],
+     "lines": [
+      "THAT"
+     ]
+    },
+    {
+     "index": 15,
+     "start": 6.12,
+     "visible_end": 6.42,
+     "font_size": 100.0,
+     "keys": [
+      "src:16"
+     ],
+     "lines": [
+      "IS"
+     ]
+    },
+    {
+     "index": 16,
+     "start": 6.42,
+     "visible_end": 6.75,
+     "font_size": 100.0,
+     "keys": [
+      "src:17"
+     ],
+     "lines": [
+      "NOT"
+     ]
+    },
+    {
+     "index": 17,
+     "start": 6.75,
+     "visible_end": 7.11,
+     "font_size": 100.0,
+     "keys": [
+      "src:18"
+     ],
+     "lines": [
+      "WHAT"
+     ]
+    },
+    {
+     "index": 18,
+     "start": 7.11,
+     "visible_end": 7.38,
+     "font_size": 100.0,
+     "keys": [
+      "src:19"
+     ],
+     "lines": [
+      "I"
+     ]
+    },
+    {
+     "index": 19,
+     "start": 7.38,
+     "visible_end": 7.71,
+     "font_size": 100.0,
+     "keys": [
+      "src:20"
+     ],
+     "lines": [
+      "EXPECTED"
+     ]
+    },
+    {
+     "index": 20,
+     "start": 7.71,
+     "visible_end": 8.01,
+     "font_size": 100.0,
+     "keys": [
+      "src:21"
+     ],
+     "lines": [
+      "AT"
+     ]
+    },
+    {
+     "index": 21,
+     "start": 8.01,
+     "visible_end": 8.34,
+     "font_size": 100.0,
+     "keys": [
+      "src:22"
+     ],
+     "lines": [
+      "ALL"
+     ]
+    },
+    {
+     "index": 22,
+     "start": 8.34,
+     "visible_end": 8.67,
+     "font_size": 100.0,
+     "keys": [
+      "src:23"
+     ],
+     "lines": [
+      "BUT"
+     ]
+    },
+    {
+     "index": 23,
+     "start": 8.67,
+     "visible_end": 9.03,
+     "font_size": 100.0,
+     "keys": [
+      "src:24"
+     ],
+     "lines": [
+      "HERE"
+     ]
+    },
+    {
+     "index": 24,
+     "start": 9.03,
+     "visible_end": 9.33,
+     "font_size": 100.0,
+     "keys": [
+      "src:25"
+     ],
+     "lines": [
+      "IS"
+     ]
+    },
+    {
+     "index": 25,
+     "start": 9.33,
+     "visible_end": 9.66,
+     "font_size": 100.0,
+     "keys": [
+      "src:26"
+     ],
+     "lines": [
+      "THE"
+     ]
+    },
+    {
+     "index": 26,
+     "start": 9.66,
+     "visible_end": 9.9,
+     "font_size": 100.0,
+     "keys": [
+      "src:27"
+     ],
+     "lines": [
+      "SURPRISING"
+     ]
+    },
+    {
+     "index": 27,
+     "start": 9.9,
+     "visible_end": 10.26,
+     "font_size": 100.0,
+     "keys": [
+      "src:28"
+     ],
+     "lines": [
+      "PART"
+     ]
+    },
+    {
+     "index": 28,
+     "start": 10.26,
+     "visible_end": 10.59,
+     "font_size": 100.0,
+     "keys": [
+      "src:29"
+     ],
+     "lines": [
+      "INTERNATIONAL"
+     ]
+    },
+    {
+     "index": 29,
+     "start": 10.59,
+     "visible_end": 10.92,
+     "font_size": 100.0,
+     "keys": [
+      "src:30"
+     ],
+     "lines": [
+      "COLLABORATION"
+     ]
+    },
+    {
+     "index": 30,
+     "start": 10.92,
+     "visible_end": 11.22,
+     "font_size": 100.0,
+     "keys": [
+      "src:31"
+     ],
+     "lines": [
+      "CHANGES"
+     ]
+    },
+    {
+     "index": 31,
+     "start": 11.22,
+     "visible_end": 12.0,
+     "font_size": 100.0,
+     "keys": [
+      "src:32"
+     ],
+     "lines": [
+      "EVERYTHING"
+     ]
+    }
+   ],
+   "cases": [
+    {
+     "t": 0.1,
+     "layout": {
+      "t": 0.1,
+      "template_id": "impact_one",
+      "page": null
+     }
+    },
+    {
+     "t": 0.41,
+     "layout": {
+      "t": 0.41,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "SO",
+         "x": 312.5,
+         "y": 692.4,
+         "w": 95.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 312.5,
+           "w": 95.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 312.5,
+        "y": 692.4,
+        "w": 95.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 0.64,
+       "visible_end": 0.7,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.47,
+     "layout": {
+      "t": 0.47,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "SO",
+         "x": 312.5,
+         "y": 692.4,
+         "w": 95.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 312.5,
+           "w": 95.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 312.5,
+        "y": 692.4,
+        "w": 95.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 0.64,
+       "visible_end": 0.7,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.69,
+     "layout": {
+      "t": 0.69,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "SO",
+         "x": 312.5,
+         "y": 692.4,
+         "w": 95.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 312.5,
+           "w": 95.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 312.5,
+        "y": 692.4,
+        "w": 95.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 0.64,
+       "visible_end": 0.7,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.71,
+     "layout": {
+      "t": 0.71,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "HONESTLY",
+         "x": 179.5,
+         "y": 692.4,
+         "w": 361.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 179.5,
+           "w": 361.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 179.5,
+        "y": 692.4,
+        "w": 361.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        }
+       ],
+       "index": 1,
+       "start": 0.7,
+       "last_end": 0.97,
+       "visible_end": 1.03,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.77,
+     "layout": {
+      "t": 0.77,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "HONESTLY",
+         "x": 179.5,
+         "y": 692.4,
+         "w": 361.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 179.5,
+           "w": 361.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 179.5,
+        "y": 692.4,
+        "w": 361.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        }
+       ],
+       "index": 1,
+       "start": 0.7,
+       "last_end": 0.97,
+       "visible_end": 1.03,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.02,
+     "layout": {
+      "t": 1.02,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "HONESTLY",
+         "x": 179.5,
+         "y": 692.4,
+         "w": 361.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 179.5,
+           "w": 361.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 179.5,
+        "y": 692.4,
+        "w": 361.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        }
+       ],
+       "index": 1,
+       "start": 0.7,
+       "last_end": 0.97,
+       "visible_end": 1.03,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.04,
+     "layout": {
+      "t": 1.04,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "THE",
+         "x": 294.5,
+         "y": 692.4,
+         "w": 131.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:2",
+           "text": "THE",
+           "x": 294.5,
+           "w": 131.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 294.5,
+        "y": 692.4,
+        "w": 131.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 2,
+       "start": 1.03,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.1,
+     "layout": {
+      "t": 1.1,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "THE",
+         "x": 294.5,
+         "y": 692.4,
+         "w": 131.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:2",
+           "text": "THE",
+           "x": 294.5,
+           "w": 131.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 294.5,
+        "y": 692.4,
+        "w": 131.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 2,
+       "start": 1.03,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.35,
+     "layout": {
+      "t": 1.35,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "THE",
+         "x": 294.5,
+         "y": 692.4,
+         "w": 131.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:2",
+           "text": "THE",
+           "x": 294.5,
+           "w": 131.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 294.5,
+        "y": 692.4,
+        "w": 131.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 2,
+       "start": 1.03,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.37,
+     "layout": {
+      "t": 1.37,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "BIGGEST",
+         "x": 213.0,
+         "y": 692.4,
+         "w": 294.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 213.0,
+           "w": 294.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 213.0,
+        "y": 692.4,
+        "w": 294.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        }
+       ],
+       "index": 3,
+       "start": 1.36,
+       "last_end": 1.6,
+       "visible_end": 1.66,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.43,
+     "layout": {
+      "t": 1.43,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "BIGGEST",
+         "x": 213.0,
+         "y": 692.4,
+         "w": 294.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 213.0,
+           "w": 294.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 213.0,
+        "y": 692.4,
+        "w": 294.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        }
+       ],
+       "index": 3,
+       "start": 1.36,
+       "last_end": 1.6,
+       "visible_end": 1.66,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.65,
+     "layout": {
+      "t": 1.65,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "BIGGEST",
+         "x": 213.0,
+         "y": 692.4,
+         "w": 294.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 213.0,
+           "w": 294.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 213.0,
+        "y": 692.4,
+        "w": 294.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        }
+       ],
+       "index": 3,
+       "start": 1.36,
+       "last_end": 1.6,
+       "visible_end": 1.66,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.67,
+     "layout": {
+      "t": 1.67,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "MISTAKE",
+         "x": 199.5,
+         "y": 692.4,
+         "w": 321.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 199.5,
+           "w": 321.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 199.5,
+        "y": 692.4,
+        "w": 321.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 4,
+       "start": 1.66,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.73,
+     "layout": {
+      "t": 1.73,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "MISTAKE",
+         "x": 199.5,
+         "y": 692.4,
+         "w": 321.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 199.5,
+           "w": 321.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 199.5,
+        "y": 692.4,
+        "w": 321.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 4,
+       "start": 1.66,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.95,
+     "layout": {
+      "t": 1.95,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "MISTAKE",
+         "x": 199.5,
+         "y": 692.4,
+         "w": 321.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 199.5,
+           "w": 321.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 199.5,
+        "y": 692.4,
+        "w": 321.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 4,
+       "start": 1.66,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.97,
+     "layout": {
+      "t": 1.97,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "PEOPLE",
+         "x": 227.5,
+         "y": 692.4,
+         "w": 265.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 227.5,
+           "w": 265.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 227.5,
+        "y": 692.4,
+        "w": 265.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 5,
+       "start": 1.96,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.03,
+     "layout": {
+      "t": 2.03,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "PEOPLE",
+         "x": 227.5,
+         "y": 692.4,
+         "w": 265.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 227.5,
+           "w": 265.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 227.5,
+        "y": 692.4,
+        "w": 265.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 5,
+       "start": 1.96,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.22,
+     "layout": {
+      "t": 2.22,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "PEOPLE",
+         "x": 227.5,
+         "y": 692.4,
+         "w": 265.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 227.5,
+           "w": 265.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 227.5,
+        "y": 692.4,
+        "w": 265.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        }
+       ],
+       "index": 5,
+       "start": 1.96,
+       "last_end": 2.17,
+       "visible_end": 2.23,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.24,
+     "layout": {
+      "t": 2.24,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "MAKE",
+         "x": 254.0,
+         "y": 692.4,
+         "w": 212.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 254.0,
+           "w": 212.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 254.0,
+        "y": 692.4,
+        "w": 212.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        }
+       ],
+       "index": 6,
+       "start": 2.23,
+       "last_end": 2.53,
+       "visible_end": 2.59,
+       "active": 0,
+       "progress": 0.09,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.3,
+     "layout": {
+      "t": 2.3,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "MAKE",
+         "x": 254.0,
+         "y": 692.4,
+         "w": 212.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 254.0,
+           "w": 212.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 254.0,
+        "y": 692.4,
+        "w": 212.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        }
+       ],
+       "index": 6,
+       "start": 2.23,
+       "last_end": 2.53,
+       "visible_end": 2.59,
+       "active": 0,
+       "progress": 0.64,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.58,
+     "layout": {
+      "t": 2.58,
+      "template_id": "impact_one",
+      "page": {
+       "font_size": 100.0,
+       "line_height_px": 100.0,
+       "lines": [
+        {
+         "text": "MAKE",
+         "x": 254.0,
+         "y": 692.4,
+         "w": 212.0,
+         "baseline": 784.76,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 254.0,
+           "w": 212.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.15
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 254.0,
+        "y": 692.4,
+        "w": 212.0,
+        "h": 100.0
+       },
+       "words": [
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        }
+       ],
+       "index": 6,
+       "start": 2.23,
+       "last_end": 2.53,
+       "visible_end": 2.59,
+       "active": 0,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 12.05,
+     "layout": {
+      "t": 12.05,
+      "template_id": "impact_one",
+      "page": null
+     }
+    }
+   ]
+  }
+ ]
+}

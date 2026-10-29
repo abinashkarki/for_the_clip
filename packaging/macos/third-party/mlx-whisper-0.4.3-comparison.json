@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "wheel_url": "https://files.pythonhosted.org/packages/22/b7/a35232812a2ccfffcb7614ba96a91338551a660a0e9815cee668bf5743f0/mlx_whisper-0.4.3-py3-none-any.whl",
+  "wheel_sha256": "6b82b6597a994643a3e5496c7bc229a672e5ca308458455bfe276e76ae024489",
+  "repository_revision": "f143957a0696a6c85894002c852750dfe5b5693f",
+  "repository_archive_sha256": "2e3da403295db9d1145f2463bfffb4eb0cfb04e1cc54934a847ffd7e40e5e331",
+  "comparison": [
+    {
+      "wheel_path": "mlx_whisper/__init__.py",
+      "wheel_sha256": "0af994ff2b9b365f031f1691a992ca45e118c5dbc3a830f264906c0adf4f3a27",
+      "repository_path": "whisper/mlx_whisper/__init__.py",
+      "repository_sha256": "0af994ff2b9b365f031f1691a992ca45e118c5dbc3a830f264906c0adf4f3a27",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/_version.py",
+      "wheel_sha256": "693c8b5935c7e4a2a48176a195dd990c2fcb2630bfc0766830a1d8e87d1559e9",
+      "repository_path": "whisper/mlx_whisper/_version.py",
+      "repository_sha256": "3958a22c5e9c6a8a40343be001ed7de4b55954d3c197152d2405a9a8ec7c1dba",
+      "matches": false
+    },
+    {
+      "wheel_path": "mlx_whisper/audio.py",
+      "wheel_sha256": "1be84770852520df7c980376e133155b9a0b127ed59f28a297df0a96987b12eb",
+      "repository_path": "whisper/mlx_whisper/audio.py",
+      "repository_sha256": "1be84770852520df7c980376e133155b9a0b127ed59f28a297df0a96987b12eb",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/cli.py",
+      "wheel_sha256": "758c0e3cf168d65f99c25da76417b480d61de6420d99c39e6547f165ac5ca910",
+      "repository_path": "whisper/mlx_whisper/cli.py",
+      "repository_sha256": "758c0e3cf168d65f99c25da76417b480d61de6420d99c39e6547f165ac5ca910",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/decoding.py",
+      "wheel_sha256": "fae5828b2d80760e6dbcd5a51d7704769dca67cad5d559085d0a08d40964e616",
+      "repository_path": "whisper/mlx_whisper/decoding.py",
+      "repository_sha256": "fae5828b2d80760e6dbcd5a51d7704769dca67cad5d559085d0a08d40964e616",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/load_models.py",
+      "wheel_sha256": "564920c08e93bce34288aa988e701066c3af669c6794d141680094a98dca2f2c",
+      "repository_path": "whisper/mlx_whisper/load_models.py",
+      "repository_sha256": "564920c08e93bce34288aa988e701066c3af669c6794d141680094a98dca2f2c",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/requirements.txt",
+      "wheel_sha256": "4a02a34b1b24d90502c15a4745b009aa967593eda3734412cd275c9163d03a01",
+      "repository_path": "whisper/mlx_whisper/requirements.txt",
+      "repository_sha256": "4a02a34b1b24d90502c15a4745b009aa967593eda3734412cd275c9163d03a01",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/timing.py",
+      "wheel_sha256": "2736c2bf19f2ebbaa521dae9deb3748c6b5d5f319af729f4078dc2b0769822cd",
+      "repository_path": "whisper/mlx_whisper/timing.py",
+      "repository_sha256": "2736c2bf19f2ebbaa521dae9deb3748c6b5d5f319af729f4078dc2b0769822cd",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/tokenizer.py",
+      "wheel_sha256": "e3e99ba7da8ec897b083f5b65d37711a39d014242902072eb06ad4ea7799a22a",
+      "repository_path": "whisper/mlx_whisper/tokenizer.py",
+      "repository_sha256": "e3e99ba7da8ec897b083f5b65d37711a39d014242902072eb06ad4ea7799a22a",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/torch_whisper.py",
+      "wheel_sha256": "2760075fb0e00012df469ff489d219c8092e2ec5fa7af815f8c838de1e53293b",
+      "repository_path": "whisper/mlx_whisper/torch_whisper.py",
+      "repository_sha256": "2760075fb0e00012df469ff489d219c8092e2ec5fa7af815f8c838de1e53293b",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/transcribe.py",
+      "wheel_sha256": "21f015e0d56c5e6194d07d86d772730940fff52d8f06d55838ae92ebccc24fbb",
+      "repository_path": "whisper/mlx_whisper/transcribe.py",
+      "repository_sha256": "21f015e0d56c5e6194d07d86d772730940fff52d8f06d55838ae92ebccc24fbb",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/version.py",
+      "wheel_sha256": "2d4b4944dfe119f169bee65904958d775b5aa5b8d8baa2cb550b547ac031cab3",
+      "repository_path": null,
+      "repository_sha256": null,
+      "matches": false
+    },
+    {
+      "wheel_path": "mlx_whisper/whisper.py",
+      "wheel_sha256": "1ccfd1ff754ef6c0bfda3436dfa09e00e0d2e4295c5d75e151570e5eca626154",
+      "repository_path": "whisper/mlx_whisper/whisper.py",
+      "repository_sha256": "1ccfd1ff754ef6c0bfda3436dfa09e00e0d2e4295c5d75e151570e5eca626154",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/writers.py",
+      "wheel_sha256": "34bd3c9b4b0f2dce1e62feacba4188f100b7cdc1f85c44a8222b0cac4f92d00f",
+      "repository_path": "whisper/mlx_whisper/writers.py",
+      "repository_sha256": "34bd3c9b4b0f2dce1e62feacba4188f100b7cdc1f85c44a8222b0cac4f92d00f",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/assets/gpt2.tiktoken",
+      "wheel_sha256": "306cd27f03c1a714eca7108e03d66b7dc042abe8c258b44c199a7ed9838dd930",
+      "repository_path": "whisper/mlx_whisper/assets/gpt2.tiktoken",
+      "repository_sha256": "306cd27f03c1a714eca7108e03d66b7dc042abe8c258b44c199a7ed9838dd930",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/assets/mel_filters.npz",
+      "wheel_sha256": "7450ae70723a5ef9d341e3cee628c7cb0177f36ce42c44b7ed2bf3325f0f6d4c",
+      "repository_path": "whisper/mlx_whisper/assets/mel_filters.npz",
+      "repository_sha256": "7450ae70723a5ef9d341e3cee628c7cb0177f36ce42c44b7ed2bf3325f0f6d4c",
+      "matches": true
+    },
+    {
+      "wheel_path": "mlx_whisper/assets/multilingual.tiktoken",
+      "wheel_sha256": "b34b360dbb493e781e479794586d661700670d65564001f23024971d1f2fa126",
+      "repository_path": "whisper/mlx_whisper/assets/multilingual.tiktoken",
+      "repository_sha256": "b34b360dbb493e781e479794586d661700670d65564001f23024971d1f2fa126",
+      "matches": true
+    }
+  ],
+  "qualification": "All non-version package code and assets match. _version.py differs (wheel 0.4.3 vs repository 0.4.2), version.py is absent from repository. This is a strong technical association, not proof of the exact release commit."
+}

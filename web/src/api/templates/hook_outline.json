@@ -1,0 +1,33 @@
+{
+  "id": "hook_outline",
+  "name": "Hook outline",
+  "font": {
+    "family": "Montserrat",
+    "file": "Montserrat-ExtraBold.ttf"
+  },
+  "size": 74,
+  "case": "upper",
+  "colors": {
+    "text": "#FFFFFF",
+    "box": null,
+    "stroke": "#000000"
+  },
+  "stroke_width": 12,
+  "shadow": {
+    "dx": 0,
+    "dy": 8,
+    "blur": 0,
+    "color": "#00000099"
+  },
+  "position": {
+    "y": 0.17
+  },
+  "max_width": 0.88,
+  "padding": 0,
+  "radius": 0,
+  "line_height": 1.06,
+  "animation": {
+    "in": "pop",
+    "duration_ms": 160
+  }
+}

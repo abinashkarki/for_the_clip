@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "supplements": [
+    {
+      "name": "tokenizers",
+      "version": "0.23.3",
+      "metadata_sha256": "87032ea29ec14be956ce0f15d164a8f436d6f1adbe19b261d6c179d9184f5cba",
+      "file": "tokenizers-0.23.3-LICENSE",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "source_archive": "https://files.pythonhosted.org/packages/e0/7c/2cabb2174e772636683008f2c5621949b645da7d303c596589e84516a184/tokenizers-0.23.3.tar.gz",
+      "source_archive_sha256": "cded33237c77caeef62944d32aa9a7ef42bdce2b3497e18d137e072a8c4be438",
+      "source_path": "tokenizers-0.23.3/tokenizers/LICENSE",
+      "proof": "PyPI versioned sdist PKG-INFO is byte-identical to bundled METADATA; archive and extracted file SHA256 verified."
+    },
+    {
+      "name": "mlx-whisper",
+      "version": "0.4.3",
+      "metadata_sha256": "edcbca2caa837b3ae8da60f0b521d67d7145a12aa5e20e4cb9930736989a5517",
+      "file": "mlx-whisper-candidate-LICENSE",
+      "sha256": "ccfab7ccb2ea306f71531c8ca77bb55507606cd90768b1e32b8b52ab5b48cf01",
+      "source_url": "https://raw.githubusercontent.com/ml-explore/mlx-examples/f143957a0696a6c85894002c852750dfe5b5693f/LICENSE",
+      "comparison_file": "mlx-whisper-0.4.3-comparison.json",
+      "comparison_sha256": "48a807608e238e92b97780d340c13a183b2b343a83af229a3f220f03a592b813",
+      "proof": "All non-version package code and assets match. _version.py differs (wheel 0.4.3 vs repository 0.4.2), version.py is absent from repository. This is a strong technical association, not proof of the exact release commit.",
+      "association_strength": "technical association, exact release commit not proven"
+    },
+    {
+      "name": "tokenizers",
+      "version": "0.23.3",
+      "metadata_sha256": "87032ea29ec14be956ce0f15d164a8f436d6f1adbe19b261d6c179d9184f5cba",
+      "file": "tokenizers-0.23.3-rust-notices.txt",
+      "sha256": "8067f1c24cce301523b8a50cad062b7331c922bc243b4f90bad1d278ac7e55a5",
+      "comparison_file": "tokenizers-0.23.3-crate-evidence.json",
+      "comparison_sha256": "a25a5f7db3c0384e60af5b718c0d5312f9dabf7ec2e351f3f5e0998e5397642e",
+      "proof": "151 registry crate archives verified against source sdist Cargo.lock checksums. All have notice or authors text, including defmt parser upstream license after matching packaged source. Cargo lock use by the published wheel remains unresolved.",
+      "association_strength": "conservative source lock; exact published wheel dependency closure not established"
+    }
+  ],
+  "candidates_not_matched": []
+}

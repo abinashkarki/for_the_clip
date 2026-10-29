@@ -1,0 +1,303 @@
+{
+  "schema_version": 1,
+  "scope": "Production npm lock entries and installed local root notice files; frontend only. Entries are conservative and may include types or tree-shaken dependencies. Native/runtime and other resource compliance is not established.",
+  "redistribution_review_complete": false,
+  "package_lock_sha256": "af8337af5a51bfb9a885496389e5fce6c095025ffd9d976a9a322f814b388611",
+  "packages": [
+    {
+      "name": "@fontsource-variable/hanken-grotesk",
+      "version": "5.3.0",
+      "location": "node_modules/@fontsource-variable/hanken-grotesk",
+      "installed_package_json_sha256": "90c3c912ab9d13c77ed1d9854e586937d9e63209b799094b04ab58e2647b120f",
+      "license": "OFL-1.1",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fontsource/font-files.git",
+        "directory": "fonts/variable/hanken-grotesk"
+      },
+      "homepage": "https://fontsource.org/fonts/hanken-grotesk",
+      "resolved": "https://registry.npmjs.org/@fontsource-variable/hanken-grotesk/-/hanken-grotesk-5.3.0.tgz",
+      "integrity": "sha512-DOd0FqL+3cH2dfNy0JtSq9tUfxBz5mLmHMjTU0DOr3E9Zo6wxuatCl53DIPNrSPgCsnuKyM739BTIG5glCLirw==",
+      "notices": [
+        {
+          "path": "node_modules/@fontsource-variable/hanken-grotesk/LICENSE",
+          "sha256": "f45f60ca871850c58d8dc9c973bd6fcad40c137e9d037172b961e8ca68c87ef7",
+          "bytes": 4530
+        }
+      ]
+    },
+    {
+      "name": "@types/prop-types",
+      "version": "15.7.15",
+      "location": "node_modules/@types/prop-types",
+      "installed_package_json_sha256": "ec2aa770e306720d83d14e146d2fa59df6bd2a379a206f9a492e4d5f87e12179",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/prop-types"
+      },
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/prop-types",
+      "resolved": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.15.tgz",
+      "integrity": "sha512-F6bEyamV9jKGAFBEmlQnesRPGOQqS2+Uwi0Em15xenOxHaf2hv6L8YCVn3rPdPJOiJfPiCnLIRyvwVaqMY3MIw==",
+      "notices": [
+        {
+          "path": "node_modules/@types/prop-types/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "name": "@types/react",
+      "version": "18.3.31",
+      "location": "node_modules/@types/react",
+      "installed_package_json_sha256": "7b5d39d90592ab340d44fecbf8d03afc0a0a197f3217259c3bb9ac881ff67a06",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/react"
+      },
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react",
+      "resolved": "https://registry.npmjs.org/@types/react/-/react-18.3.31.tgz",
+      "integrity": "sha512-vfEqpXTvwT91yhmwdfouStN2hSKwTvyRs8qpLfADyrq/kxDw0hZM7Wk9Ug1FELj8hIby+S/+kQCSRFF32nv2Qw==",
+      "notices": [
+        {
+          "path": "node_modules/@types/react/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "name": "csstype",
+      "version": "3.2.3",
+      "location": "node_modules/csstype",
+      "installed_package_json_sha256": "c818b74a9bc1556488b7ec2a65399224738f6619228f9a6491c5c02ca91f849e",
+      "license": "MIT",
+      "repository": "https://github.com/frenic/csstype",
+      "homepage": null,
+      "resolved": "https://registry.npmjs.org/csstype/-/csstype-3.2.3.tgz",
+      "integrity": "sha512-z1HGKcYy2xA8AGQfwrn0PAy+PB7X/GSj3UVJW9qKyn43xWa+gl5nXmU4qqLMRzWVLFC8KusUX8T/0kCiOYpAIQ==",
+      "notices": [
+        {
+          "path": "node_modules/csstype/LICENSE",
+          "sha256": "11d55bd4541c75ee7879547ac49089c489163dae49551389713c3d026cab383e",
+          "bytes": 1062
+        }
+      ]
+    },
+    {
+      "name": "js-tokens",
+      "version": "4.0.0",
+      "location": "node_modules/js-tokens",
+      "installed_package_json_sha256": "47345931827b3e26db9fe690abb81f856a0d040cbca8af1e69711a64cd58ce0d",
+      "license": "MIT",
+      "repository": "lydell/js-tokens",
+      "homepage": null,
+      "resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz",
+      "integrity": "sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==",
+      "notices": [
+        {
+          "path": "node_modules/js-tokens/LICENSE",
+          "sha256": "2213d91c606205c71eb051a199478cdc2adde945893404d7f1421436dd6d5cc1",
+          "bytes": 1103
+        }
+      ]
+    },
+    {
+      "name": "loose-envify",
+      "version": "1.4.0",
+      "location": "node_modules/loose-envify",
+      "installed_package_json_sha256": "8c2e27dae366396ced36fe0f7c6d35d71a1440fd8e82df5f2005a5297888a0d4",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/zertosh/loose-envify.git"
+      },
+      "homepage": "https://github.com/zertosh/loose-envify",
+      "resolved": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz",
+      "integrity": "sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==",
+      "notices": [
+        {
+          "path": "node_modules/loose-envify/LICENSE",
+          "sha256": "4eb7543b08d955a6d23fcc224601d43ff566e775be918805e26210d7f6eb4893",
+          "bytes": 1100
+        }
+      ]
+    },
+    {
+      "name": "react",
+      "version": "18.3.1",
+      "location": "node_modules/react",
+      "installed_package_json_sha256": "d4e68a5c96babb20cad1daafea8b78822eae45b341552cf5418d06a5304fa64c",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/react"
+      },
+      "homepage": "https://reactjs.org/",
+      "resolved": "https://registry.npmjs.org/react/-/react-18.3.1.tgz",
+      "integrity": "sha512-wS+hAgJShR0KhEvPJArfuPVN1+Hz1t0Y6n5jLrGQbkb4urgPE/0Rve+1kMB1v/oWgHgm4WIcV+i7F2pTVj+2iQ==",
+      "notices": [
+        {
+          "path": "node_modules/react/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "bytes": 1086
+        }
+      ]
+    },
+    {
+      "name": "react-dom",
+      "version": "18.3.1",
+      "location": "node_modules/react-dom",
+      "installed_package_json_sha256": "d2f29e31bd48b833e48cd7bbf41f192e8ee4ff8da249fdbe10d4ac4114b8b12e",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/react-dom"
+      },
+      "homepage": "https://reactjs.org/",
+      "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-18.3.1.tgz",
+      "integrity": "sha512-5m4nQKp+rZRb09LNH59GM4BxTh9251/ylbKIbpe7TpGxfJ+9kv6BLkLBXIjjspbgbnIBNqlI23tRnTWT0snUIw==",
+      "notices": [
+        {
+          "path": "node_modules/react-dom/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "bytes": 1086
+        }
+      ]
+    },
+    {
+      "name": "scheduler",
+      "version": "0.23.2",
+      "location": "node_modules/scheduler",
+      "installed_package_json_sha256": "0893643a24576d727174e639586b8833a53f2a7b4a2199a719b9cfcebe9bae88",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/scheduler"
+      },
+      "homepage": "https://reactjs.org/",
+      "resolved": "https://registry.npmjs.org/scheduler/-/scheduler-0.23.2.tgz",
+      "integrity": "sha512-UOShsPwz7NrMUqhR6t0hWjFduvOzbtv7toDH1/hIrfRNIDBnnBWd0CwJTGvTpngVlmwGCdP9/Zl/tVrDqcuYzQ==",
+      "notices": [
+        {
+          "path": "node_modules/scheduler/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "bytes": 1086
+        }
+      ]
+    },
+    {
+      "name": "use-sync-external-store",
+      "version": "1.2.2",
+      "location": "node_modules/use-sync-external-store",
+      "installed_package_json_sha256": "9a7fc3dea336deb2dc576263c243acb2c8fd3890d5f35dd877a5d957771c0079",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/use-sync-external-store"
+      },
+      "homepage": null,
+      "resolved": "https://registry.npmjs.org/use-sync-external-store/-/use-sync-external-store-1.2.2.tgz",
+      "integrity": "sha512-PElTlVMwpblvbNqQ82d2n6RjStvdSoNe9FG28kNfz3WiXilJm4DdNkEzRhCZuIDwY8U08WVihhGR5iRqAwfDiw==",
+      "notices": [
+        {
+          "path": "node_modules/use-sync-external-store/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "bytes": 1086
+        }
+      ]
+    },
+    {
+      "name": "zustand",
+      "version": "4.5.5",
+      "location": "node_modules/zustand",
+      "installed_package_json_sha256": "ed78391a542cd57f094c9b6863e89dd663fa06334a6ed7d96c912519c428104d",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/zustand.git"
+      },
+      "homepage": "https://github.com/pmndrs/zustand",
+      "resolved": "https://registry.npmjs.org/zustand/-/zustand-4.5.5.tgz",
+      "integrity": "sha512-+0PALYNJNgK6hldkgDq2vLrw5f6g/jCInz52n9RTpropGgeAf/ioFUCdtsjCqu4gNhW9D01rUQBROoRjdzyn2Q==",
+      "notices": [
+        {
+          "path": "node_modules/zustand/LICENSE",
+          "sha256": "c1e6e266563517467b1bf874817d23e426f3149252bd7d42758cd697514b8417",
+          "bytes": 1070
+        }
+      ]
+    }
+  ],
+  "notice_text_sha256": "fcee3fd6d1a20ccfaa98742d3dea83868c001e71f1c2c0d7ce71aa70b9c06e22",
+  "hanken_grotesk": {
+    "package": "@fontsource-variable/hanken-grotesk",
+    "version": "5.3.0",
+    "entry_css": "node_modules/@fontsource-variable/hanken-grotesk/index.css",
+    "entry_css_sha256": "d450d5dacc8088361bdab96394844a50606ad645af769cbfd1758c2cccd97400",
+    "license_files": [
+      {
+        "path": "node_modules/@fontsource-variable/hanken-grotesk/LICENSE",
+        "sha256": "f45f60ca871850c58d8dc9c973bd6fcad40c137e9d037172b961e8ca68c87ef7",
+        "bytes": 4530
+      }
+    ],
+    "source_fonts": [
+      {
+        "path": "node_modules/@fontsource-variable/hanken-grotesk/files/hanken-grotesk-cyrillic-ext-wght-normal.woff2",
+        "sha256": "7ba47c78279dc529afe577dc2476bc8fd3c0e32f78efa26dca9f9382d49a157d",
+        "bytes": 1668
+      },
+      {
+        "path": "node_modules/@fontsource-variable/hanken-grotesk/files/hanken-grotesk-vietnamese-wght-normal.woff2",
+        "sha256": "992b5d147edde9d637ce22e7bb9cc9e6909c05410226b36a2e581ada9877eb4a",
+        "bytes": 9320
+      },
+      {
+        "path": "node_modules/@fontsource-variable/hanken-grotesk/files/hanken-grotesk-latin-ext-wght-normal.woff2",
+        "sha256": "768af2923e0ab1549f1dfba0a5c8ea749c4c01f01d8e77ffaf7fcd12f57a0a24",
+        "bytes": 19588
+      },
+      {
+        "path": "node_modules/@fontsource-variable/hanken-grotesk/files/hanken-grotesk-latin-wght-normal.woff2",
+        "sha256": "e9201eddf1d41d0b62253295d869ce3cf65768f7102b797f02c7f8c876b4a9d5",
+        "bytes": 34704
+      }
+    ],
+    "emitted_assets_verified": true,
+    "emitted_assets": [
+      {
+        "path": "assets/hanken-grotesk-latin-ext-wght-normal-Dg-wlmqe.woff2",
+        "sha256": "768af2923e0ab1549f1dfba0a5c8ea749c4c01f01d8e77ffaf7fcd12f57a0a24",
+        "source_path": "node_modules/@fontsource-variable/hanken-grotesk/files/hanken-grotesk-latin-ext-wght-normal.woff2",
+        "delivery": "file"
+      },
+      {
+        "path": "assets/hanken-grotesk-latin-wght-normal-CaVRRdDk.woff2",
+        "sha256": "e9201eddf1d41d0b62253295d869ce3cf65768f7102b797f02c7f8c876b4a9d5",
+        "source_path": "node_modules/@fontsource-variable/hanken-grotesk/files/hanken-grotesk-latin-wght-normal.woff2",
+        "delivery": "file"
+      },
+      {
+        "path": "assets/hanken-grotesk-vietnamese-wght-normal-CHiFlh_0.woff2",
+        "sha256": "992b5d147edde9d637ce22e7bb9cc9e6909c05410226b36a2e581ada9877eb4a",
+        "source_path": "node_modules/@fontsource-variable/hanken-grotesk/files/hanken-grotesk-vietnamese-wght-normal.woff2",
+        "delivery": "file"
+      },
+      {
+        "path": "assets/index-C46flrtM.css",
+        "sha256": "7ba47c78279dc529afe577dc2476bc8fd3c0e32f78efa26dca9f9382d49a157d",
+        "source_path": "node_modules/@fontsource-variable/hanken-grotesk/files/hanken-grotesk-cyrillic-ext-wght-normal.woff2",
+        "delivery": "inline-base64-woff2"
+      }
+    ]
+  }
+}

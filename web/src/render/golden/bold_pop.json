@@ -1,0 +1,5229 @@
+{
+ "format": "clippie.caption_golden/1",
+ "template": {
+  "id": "bold_pop",
+  "name": "Bold pop",
+  "font": {
+   "family": "Montserrat",
+   "file": "Montserrat-ExtraBold.ttf",
+   "size": 84,
+   "metrics": {
+    "ascent": 0.97,
+    "descent": 0.25
+   }
+  },
+  "case": "upper",
+  "grouping": {
+   "max_words": 3,
+   "max_chars": 18,
+   "max_lines": 2,
+   "break_on_pause": 0.35
+  },
+  "position": {
+   "y": 0.7,
+   "max_width": 0.86
+  },
+  "colors": {
+   "text": "#FFFFFF",
+   "active": "#FFE600",
+   "emphasis": "#3CF2FF",
+   "stroke": "#000000",
+   "box": null,
+   "active_box": null
+  },
+  "stroke_width": 11.0,
+  "shadow": {
+   "dx": 0,
+   "dy": 8,
+   "blur": 0,
+   "color": "#00000099"
+  },
+  "active_word": {
+   "style": "color",
+   "scale": 1.0
+  },
+  "animation": {
+   "in": "pop",
+   "duration_ms": 120
+  },
+  "line_height": 1.04
+ },
+ "boundaries": [
+  0.0,
+  7.38
+ ],
+ "words": [
+  {
+   "key": "src:0",
+   "text": "So",
+   "start": 0.4,
+   "end": 0.64,
+   "source_id": "src",
+   "word_id": 0,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:1",
+   "text": "honestly",
+   "start": 0.7,
+   "end": 0.97,
+   "source_id": "src",
+   "word_id": 1,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:2",
+   "text": "the",
+   "start": 1.03,
+   "end": 1.3,
+   "source_id": "src",
+   "word_id": 2,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:3",
+   "text": "biggest",
+   "start": 1.36,
+   "end": 1.6,
+   "source_id": "src",
+   "word_id": 3,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:4",
+   "text": "mistake",
+   "start": 1.66,
+   "end": 1.9,
+   "source_id": "src",
+   "word_id": 4,
+   "emphasis": true,
+   "hidden": false
+  },
+  {
+   "key": "src:5",
+   "text": "people",
+   "start": 1.96,
+   "end": 2.17,
+   "source_id": "src",
+   "word_id": 5,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:6",
+   "text": "make",
+   "start": 2.23,
+   "end": 2.53,
+   "source_id": "src",
+   "word_id": 6,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:7",
+   "text": "with",
+   "start": 2.59,
+   "end": 2.89,
+   "source_id": "src",
+   "word_id": 7,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:8",
+   "text": "AI",
+   "start": 2.95,
+   "end": 3.19,
+   "source_id": "src",
+   "word_id": 8,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:9",
+   "text": "tutors",
+   "start": 3.25,
+   "end": 3.46,
+   "source_id": "src",
+   "word_id": 9,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:10",
+   "text": "is",
+   "start": 3.52,
+   "end": 3.76,
+   "source_id": "src",
+   "word_id": 10,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:11",
+   "text": "trusting",
+   "start": 3.82,
+   "end": 4.09,
+   "source_id": "src",
+   "word_id": 11,
+   "emphasis": false,
+   "hidden": true
+  },
+  {
+   "key": "src:12",
+   "text": "them",
+   "start": 4.15,
+   "end": 4.45,
+   "source_id": "src",
+   "word_id": 12,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:13",
+   "text": "blindly.",
+   "start": 4.51,
+   "end": 4.78,
+   "source_id": "src",
+   "word_id": 13,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:14",
+   "text": "Wait",
+   "start": 5.4,
+   "end": 5.7,
+   "source_id": "src",
+   "word_id": 14,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:15",
+   "text": "that",
+   "start": 5.76,
+   "end": 6.06,
+   "source_id": "src",
+   "word_id": 15,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:16",
+   "text": "is",
+   "start": 6.12,
+   "end": 6.36,
+   "source_id": "src",
+   "word_id": 16,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:17",
+   "text": "not",
+   "start": 6.42,
+   "end": 6.69,
+   "source_id": "src",
+   "word_id": 17,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:18",
+   "text": "what",
+   "start": 6.75,
+   "end": 7.05,
+   "source_id": "src",
+   "word_id": 18,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:19",
+   "text": "I",
+   "start": 7.11,
+   "end": 7.32,
+   "source_id": "src",
+   "word_id": 19,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:20",
+   "text": "expected",
+   "start": 7.38,
+   "end": 7.65,
+   "source_id": "src",
+   "word_id": 20,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:21",
+   "text": "at",
+   "start": 7.71,
+   "end": 7.95,
+   "source_id": "src",
+   "word_id": 21,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:22",
+   "text": "all",
+   "start": 8.01,
+   "end": 8.28,
+   "source_id": "src",
+   "word_id": 22,
+   "emphasis": true,
+   "hidden": false
+  },
+  {
+   "key": "src:23",
+   "text": "but",
+   "start": 8.34,
+   "end": 8.61,
+   "source_id": "src",
+   "word_id": 23,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:24",
+   "text": "here",
+   "start": 8.67,
+   "end": 8.97,
+   "source_id": "src",
+   "word_id": 24,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:25",
+   "text": "is",
+   "start": 9.03,
+   "end": 9.27,
+   "source_id": "src",
+   "word_id": 25,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:26",
+   "text": "the",
+   "start": 9.33,
+   "end": 9.6,
+   "source_id": "src",
+   "word_id": 26,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:27",
+   "text": "surprising",
+   "start": 9.66,
+   "end": 9.84,
+   "source_id": "src",
+   "word_id": 27,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:28",
+   "text": "part",
+   "start": 9.9,
+   "end": 10.2,
+   "source_id": "src",
+   "word_id": 28,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:29",
+   "text": "international",
+   "start": 10.26,
+   "end": 10.53,
+   "source_id": "src",
+   "word_id": 29,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:30",
+   "text": "collaboration",
+   "start": 10.59,
+   "end": 10.86,
+   "source_id": "src",
+   "word_id": 30,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:31",
+   "text": "changes",
+   "start": 10.92,
+   "end": 11.16,
+   "source_id": "src",
+   "word_id": 31,
+   "emphasis": false,
+   "hidden": false
+  },
+  {
+   "key": "src:32",
+   "text": "everything",
+   "start": 11.22,
+   "end": 11.4,
+   "source_id": "src",
+   "word_id": 32,
+   "emphasis": false,
+   "hidden": false
+  }
+ ],
+ "measure": {
+  "engine": "Pillow BASIC layout getlength(text) at float size px, per word; space = getlength(' ')",
+  "font_file": "Montserrat-ExtraBold.ttf",
+  "space_widths": {
+   "84.0": 24.0,
+   "56.0": 16.0
+  }
+ },
+ "runs": [
+  {
+   "canvas": {
+    "width": 1080,
+    "height": 1920
+   },
+   "pages": [
+    {
+     "index": 0,
+     "start": 0.4,
+     "visible_end": 1.36,
+     "font_size": 84.0,
+     "keys": [
+      "src:0",
+      "src:1",
+      "src:2"
+     ],
+     "lines": [
+      "SO HONESTLY THE"
+     ]
+    },
+    {
+     "index": 1,
+     "start": 1.36,
+     "visible_end": 1.96,
+     "font_size": 84.0,
+     "keys": [
+      "src:3",
+      "src:4"
+     ],
+     "lines": [
+      "BIGGEST MISTAKE"
+     ]
+    },
+    {
+     "index": 2,
+     "start": 1.96,
+     "visible_end": 2.95,
+     "font_size": 84.0,
+     "keys": [
+      "src:5",
+      "src:6",
+      "src:7"
+     ],
+     "lines": [
+      "PEOPLE MAKE",
+      "WITH"
+     ]
+    },
+    {
+     "index": 3,
+     "start": 2.95,
+     "visible_end": 4.15,
+     "font_size": 84.0,
+     "keys": [
+      "src:8",
+      "src:9",
+      "src:10"
+     ],
+     "lines": [
+      "AI TUTORS IS"
+     ]
+    },
+    {
+     "index": 4,
+     "start": 4.15,
+     "visible_end": 5.38,
+     "font_size": 84.0,
+     "keys": [
+      "src:12",
+      "src:13"
+     ],
+     "lines": [
+      "THEM BLINDLY."
+     ]
+    },
+    {
+     "index": 5,
+     "start": 5.4,
+     "visible_end": 6.42,
+     "font_size": 84.0,
+     "keys": [
+      "src:14",
+      "src:15",
+      "src:16"
+     ],
+     "lines": [
+      "WAIT THAT IS"
+     ]
+    },
+    {
+     "index": 6,
+     "start": 6.42,
+     "visible_end": 7.38,
+     "font_size": 84.0,
+     "keys": [
+      "src:17",
+      "src:18",
+      "src:19"
+     ],
+     "lines": [
+      "NOT WHAT I"
+     ]
+    },
+    {
+     "index": 7,
+     "start": 7.38,
+     "visible_end": 8.34,
+     "font_size": 84.0,
+     "keys": [
+      "src:20",
+      "src:21",
+      "src:22"
+     ],
+     "lines": [
+      "EXPECTED AT ALL"
+     ]
+    },
+    {
+     "index": 8,
+     "start": 8.34,
+     "visible_end": 9.33,
+     "font_size": 84.0,
+     "keys": [
+      "src:23",
+      "src:24",
+      "src:25"
+     ],
+     "lines": [
+      "BUT HERE IS"
+     ]
+    },
+    {
+     "index": 9,
+     "start": 9.33,
+     "visible_end": 10.26,
+     "font_size": 84.0,
+     "keys": [
+      "src:26",
+      "src:27",
+      "src:28"
+     ],
+     "lines": [
+      "THE SURPRISING",
+      "PART"
+     ]
+    },
+    {
+     "index": 10,
+     "start": 10.26,
+     "visible_end": 10.59,
+     "font_size": 84.0,
+     "keys": [
+      "src:29"
+     ],
+     "lines": [
+      "INTERNATIONAL"
+     ]
+    },
+    {
+     "index": 11,
+     "start": 10.59,
+     "visible_end": 10.92,
+     "font_size": 84.0,
+     "keys": [
+      "src:30"
+     ],
+     "lines": [
+      "COLLABORATION"
+     ]
+    },
+    {
+     "index": 12,
+     "start": 10.92,
+     "visible_end": 12.0,
+     "font_size": 84.0,
+     "keys": [
+      "src:31",
+      "src:32"
+     ],
+     "lines": [
+      "CHANGES",
+      "EVERYTHING"
+     ]
+    }
+   ],
+   "cases": [
+    {
+     "t": 0.1,
+     "layout": {
+      "t": 0.1,
+      "template_id": "bold_pop",
+      "page": null
+     }
+    },
+    {
+     "t": 0.41,
+     "layout": {
+      "t": 0.41,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "SO HONESTLY THE",
+         "x": 117.42,
+         "y": 1300.32,
+         "w": 845.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 117.42,
+           "w": 125.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 274.5,
+           "w": 479.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "THE",
+           "x": 785.58,
+           "w": 177.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 117.42,
+        "y": 1300.32,
+        "w": 845.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.47,
+     "layout": {
+      "t": 0.47,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "SO HONESTLY THE",
+         "x": 117.42,
+         "y": 1300.32,
+         "w": 845.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 117.42,
+           "w": 125.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 274.5,
+           "w": 479.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "THE",
+           "x": 785.58,
+           "w": 177.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 117.42,
+        "y": 1300.32,
+        "w": 845.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.04,
+     "layout": {
+      "t": 1.04,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "SO HONESTLY THE",
+         "x": 117.42,
+         "y": 1300.32,
+         "w": 845.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 117.42,
+           "w": 125.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 274.5,
+           "w": 479.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "THE",
+           "x": 785.58,
+           "w": 177.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 117.42,
+        "y": 1300.32,
+        "w": 845.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.35,
+     "layout": {
+      "t": 1.35,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "SO HONESTLY THE",
+         "x": 117.42,
+         "y": 1300.32,
+         "w": 845.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 117.42,
+           "w": 125.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 274.5,
+           "w": 479.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "THE",
+           "x": 785.58,
+           "w": 177.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 117.42,
+        "y": 1300.32,
+        "w": 845.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.37,
+     "layout": {
+      "t": 1.37,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "BIGGEST MISTAKE",
+         "x": 130.96,
+         "y": 1300.32,
+         "w": 818.08,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 130.96,
+           "w": 386.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 549.04,
+           "w": 400.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 130.96,
+        "y": 1300.32,
+        "w": 818.08,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 1,
+       "start": 1.36,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.43,
+     "layout": {
+      "t": 1.43,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "BIGGEST MISTAKE",
+         "x": 130.96,
+         "y": 1300.32,
+         "w": 818.08,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 130.96,
+           "w": 386.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 549.04,
+           "w": 400.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 130.96,
+        "y": 1300.32,
+        "w": 818.08,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 1,
+       "start": 1.36,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.67,
+     "layout": {
+      "t": 1.67,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "BIGGEST MISTAKE",
+         "x": 130.96,
+         "y": 1300.32,
+         "w": 818.08,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 130.96,
+           "w": 386.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 549.04,
+           "w": 400.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 130.96,
+        "y": 1300.32,
+        "w": 818.08,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 1,
+       "start": 1.36,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 1,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.95,
+     "layout": {
+      "t": 1.95,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "BIGGEST MISTAKE",
+         "x": 130.96,
+         "y": 1300.32,
+         "w": 818.08,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 130.96,
+           "w": 386.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 549.04,
+           "w": 400.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 130.96,
+        "y": 1300.32,
+        "w": 818.08,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 1,
+       "start": 1.36,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 1,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.97,
+     "layout": {
+      "t": 1.97,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "PEOPLE MAKE",
+         "x": 212.46,
+         "y": 1256.64,
+         "w": 655.08,
+         "baseline": 1330.43,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 212.46,
+           "w": 358.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 602.54,
+           "w": 265.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        },
+        {
+         "text": "WITH",
+         "x": 416.0,
+         "y": 1344.0,
+         "w": 248.0,
+         "baseline": 1417.79,
+         "words": [
+          {
+           "index": 2,
+           "key": "src:7",
+           "text": "WITH",
+           "x": 416.0,
+           "w": 248.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 212.46,
+        "y": 1256.64,
+        "w": 655.08,
+        "h": 174.72
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        },
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        }
+       ],
+       "index": 2,
+       "start": 1.96,
+       "last_end": 2.89,
+       "visible_end": 2.95,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.03,
+     "layout": {
+      "t": 2.03,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "PEOPLE MAKE",
+         "x": 212.46,
+         "y": 1256.64,
+         "w": 655.08,
+         "baseline": 1330.43,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 212.46,
+           "w": 358.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 602.54,
+           "w": 265.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        },
+        {
+         "text": "WITH",
+         "x": 416.0,
+         "y": 1344.0,
+         "w": 248.0,
+         "baseline": 1417.79,
+         "words": [
+          {
+           "index": 2,
+           "key": "src:7",
+           "text": "WITH",
+           "x": 416.0,
+           "w": 248.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 212.46,
+        "y": 1256.64,
+        "w": 655.08,
+        "h": 174.72
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        },
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        }
+       ],
+       "index": 2,
+       "start": 1.96,
+       "last_end": 2.89,
+       "visible_end": 2.95,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.6,
+     "layout": {
+      "t": 2.6,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "PEOPLE MAKE",
+         "x": 212.46,
+         "y": 1256.64,
+         "w": 655.08,
+         "baseline": 1330.43,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 212.46,
+           "w": 358.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 602.54,
+           "w": 265.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        },
+        {
+         "text": "WITH",
+         "x": 416.0,
+         "y": 1344.0,
+         "w": 248.0,
+         "baseline": 1417.79,
+         "words": [
+          {
+           "index": 2,
+           "key": "src:7",
+           "text": "WITH",
+           "x": 416.0,
+           "w": 248.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 212.46,
+        "y": 1256.64,
+        "w": 655.08,
+        "h": 174.72
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        },
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        }
+       ],
+       "index": 2,
+       "start": 1.96,
+       "last_end": 2.89,
+       "visible_end": 2.95,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.94,
+     "layout": {
+      "t": 2.94,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "PEOPLE MAKE",
+         "x": 212.46,
+         "y": 1256.64,
+         "w": 655.08,
+         "baseline": 1330.43,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 212.46,
+           "w": 358.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 602.54,
+           "w": 265.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        },
+        {
+         "text": "WITH",
+         "x": 416.0,
+         "y": 1344.0,
+         "w": 248.0,
+         "baseline": 1417.79,
+         "words": [
+          {
+           "index": 2,
+           "key": "src:7",
+           "text": "WITH",
+           "x": 416.0,
+           "w": 248.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 212.46,
+        "y": 1256.64,
+        "w": 655.08,
+        "h": 174.72
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        },
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        }
+       ],
+       "index": 2,
+       "start": 1.96,
+       "last_end": 2.89,
+       "visible_end": 2.95,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.96,
+     "layout": {
+      "t": 2.96,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "AI TUTORS IS",
+         "x": 240.42,
+         "y": 1300.32,
+         "w": 599.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:8",
+           "text": "AI",
+           "x": 240.42,
+           "w": 94.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:9",
+           "text": "TUTORS",
+           "x": 366.5,
+           "w": 359.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:10",
+           "text": "IS",
+           "x": 757.58,
+           "w": 82.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 240.42,
+        "y": 1300.32,
+        "w": 599.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        }
+       ],
+       "index": 3,
+       "start": 2.95,
+       "last_end": 3.76,
+       "visible_end": 4.15,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 3.02,
+     "layout": {
+      "t": 3.02,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "AI TUTORS IS",
+         "x": 240.42,
+         "y": 1300.32,
+         "w": 599.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:8",
+           "text": "AI",
+           "x": 240.42,
+           "w": 94.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:9",
+           "text": "TUTORS",
+           "x": 366.5,
+           "w": 359.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:10",
+           "text": "IS",
+           "x": 757.58,
+           "w": 82.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 240.42,
+        "y": 1300.32,
+        "w": 599.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        }
+       ],
+       "index": 3,
+       "start": 2.95,
+       "last_end": 3.76,
+       "visible_end": 4.15,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 3.53,
+     "layout": {
+      "t": 3.53,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "AI TUTORS IS",
+         "x": 240.42,
+         "y": 1300.32,
+         "w": 599.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:8",
+           "text": "AI",
+           "x": 240.42,
+           "w": 94.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:9",
+           "text": "TUTORS",
+           "x": 366.5,
+           "w": 359.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:10",
+           "text": "IS",
+           "x": 757.58,
+           "w": 82.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 240.42,
+        "y": 1300.32,
+        "w": 599.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        }
+       ],
+       "index": 3,
+       "start": 2.95,
+       "last_end": 3.76,
+       "visible_end": 4.15,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 4.14,
+     "layout": {
+      "t": 4.14,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "AI TUTORS IS",
+         "x": 240.42,
+         "y": 1300.32,
+         "w": 599.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:8",
+           "text": "AI",
+           "x": 240.42,
+           "w": 94.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:9",
+           "text": "TUTORS",
+           "x": 366.5,
+           "w": 359.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:10",
+           "text": "IS",
+           "x": 757.58,
+           "w": 82.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 240.42,
+        "y": 1300.32,
+        "w": 599.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        }
+       ],
+       "index": 3,
+       "start": 2.95,
+       "last_end": 3.76,
+       "visible_end": 4.15,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 4.16,
+     "layout": {
+      "t": 4.16,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "THEM BLINDLY.",
+         "x": 188.46,
+         "y": 1300.32,
+         "w": 703.08,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:12",
+           "text": "THEM",
+           "x": 188.46,
+           "w": 257.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:13",
+           "text": "BLINDLY.",
+           "x": 477.54,
+           "w": 414.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 188.46,
+        "y": 1300.32,
+        "w": 703.08,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        },
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 4,
+       "start": 4.15,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 4.22,
+     "layout": {
+      "t": 4.22,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "THEM BLINDLY.",
+         "x": 188.46,
+         "y": 1300.32,
+         "w": 703.08,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:12",
+           "text": "THEM",
+           "x": 188.46,
+           "w": 257.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:13",
+           "text": "BLINDLY.",
+           "x": 477.54,
+           "w": 414.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 188.46,
+        "y": 1300.32,
+        "w": 703.08,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        },
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 4,
+       "start": 4.15,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 4.52,
+     "layout": {
+      "t": 4.52,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "THEM BLINDLY.",
+         "x": 188.46,
+         "y": 1300.32,
+         "w": 703.08,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:12",
+           "text": "THEM",
+           "x": 188.46,
+           "w": 257.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:13",
+           "text": "BLINDLY.",
+           "x": 477.54,
+           "w": 414.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 188.46,
+        "y": 1300.32,
+        "w": 703.08,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        },
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 4,
+       "start": 4.15,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": 1,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 5.37,
+     "layout": {
+      "t": 5.37,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "THEM BLINDLY.",
+         "x": 188.46,
+         "y": 1300.32,
+         "w": 703.08,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:12",
+           "text": "THEM",
+           "x": 188.46,
+           "w": 257.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:13",
+           "text": "BLINDLY.",
+           "x": 477.54,
+           "w": 414.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 188.46,
+        "y": 1300.32,
+        "w": 703.08,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        },
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 4,
+       "start": 4.15,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": 1,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 5.41,
+     "layout": {
+      "t": 5.41,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "WAIT THAT IS",
+         "x": 223.92,
+         "y": 1300.32,
+         "w": 632.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "WAIT",
+           "x": 223.92,
+           "w": 246.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "THAT",
+           "x": 502.0,
+           "w": 240.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "IS",
+           "x": 774.08,
+           "w": 82.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 223.92,
+        "y": 1300.32,
+        "w": 632.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        }
+       ],
+       "index": 5,
+       "start": 5.4,
+       "last_end": 6.36,
+       "visible_end": 6.42,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 5.47,
+     "layout": {
+      "t": 5.47,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "WAIT THAT IS",
+         "x": 223.92,
+         "y": 1300.32,
+         "w": 632.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "WAIT",
+           "x": 223.92,
+           "w": 246.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "THAT",
+           "x": 502.0,
+           "w": 240.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "IS",
+           "x": 774.08,
+           "w": 82.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 223.92,
+        "y": 1300.32,
+        "w": 632.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        }
+       ],
+       "index": 5,
+       "start": 5.4,
+       "last_end": 6.36,
+       "visible_end": 6.42,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 6.13,
+     "layout": {
+      "t": 6.13,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "WAIT THAT IS",
+         "x": 223.92,
+         "y": 1300.32,
+         "w": 632.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "WAIT",
+           "x": 223.92,
+           "w": 246.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "THAT",
+           "x": 502.0,
+           "w": 240.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "IS",
+           "x": 774.08,
+           "w": 82.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 223.92,
+        "y": 1300.32,
+        "w": 632.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        }
+       ],
+       "index": 5,
+       "start": 5.4,
+       "last_end": 6.36,
+       "visible_end": 6.42,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 6.41,
+     "layout": {
+      "t": 6.41,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "WAIT THAT IS",
+         "x": 223.92,
+         "y": 1300.32,
+         "w": 632.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "WAIT",
+           "x": 223.92,
+           "w": 246.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "THAT",
+           "x": 502.0,
+           "w": 240.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "IS",
+           "x": 774.08,
+           "w": 82.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 223.92,
+        "y": 1300.32,
+        "w": 632.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        }
+       ],
+       "index": 5,
+       "start": 5.4,
+       "last_end": 6.36,
+       "visible_end": 6.42,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 6.43,
+     "layout": {
+      "t": 6.43,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "NOT WHAT I",
+         "x": 254.92,
+         "y": 1300.32,
+         "w": 570.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:17",
+           "text": "NOT",
+           "x": 254.92,
+           "w": 192.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:18",
+           "text": "WHAT",
+           "x": 479.0,
+           "w": 286.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:19",
+           "text": "I",
+           "x": 797.08,
+           "w": 28.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 254.92,
+        "y": 1300.32,
+        "w": 570.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 6,
+       "start": 6.42,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 6.49,
+     "layout": {
+      "t": 6.49,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "NOT WHAT I",
+         "x": 254.92,
+         "y": 1300.32,
+         "w": 570.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:17",
+           "text": "NOT",
+           "x": 254.92,
+           "w": 192.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:18",
+           "text": "WHAT",
+           "x": 479.0,
+           "w": 286.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:19",
+           "text": "I",
+           "x": 797.08,
+           "w": 28.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 254.92,
+        "y": 1300.32,
+        "w": 570.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 6,
+       "start": 6.42,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 7.12,
+     "layout": {
+      "t": 7.12,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "NOT WHAT I",
+         "x": 254.92,
+         "y": 1300.32,
+         "w": 570.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:17",
+           "text": "NOT",
+           "x": 254.92,
+           "w": 192.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:18",
+           "text": "WHAT",
+           "x": 479.0,
+           "w": 286.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:19",
+           "text": "I",
+           "x": 797.08,
+           "w": 28.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 254.92,
+        "y": 1300.32,
+        "w": 570.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 6,
+       "start": 6.42,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 7.37,
+     "layout": {
+      "t": 7.37,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 84.0,
+       "line_height_px": 87.36,
+       "lines": [
+        {
+         "text": "NOT WHAT I",
+         "x": 254.92,
+         "y": 1300.32,
+         "w": 570.16,
+         "baseline": 1374.11,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:17",
+           "text": "NOT",
+           "x": 254.92,
+           "w": 192.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:18",
+           "text": "WHAT",
+           "x": 479.0,
+           "w": 286.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:19",
+           "text": "I",
+           "x": 797.08,
+           "w": 28.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 254.92,
+        "y": 1300.32,
+        "w": 570.16,
+        "h": 87.36
+       },
+       "words": [
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 6,
+       "start": 6.42,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 12.05,
+     "layout": {
+      "t": 12.05,
+      "template_id": "bold_pop",
+      "page": null
+     }
+    }
+   ]
+  },
+  {
+   "canvas": {
+    "width": 720,
+    "height": 1280
+   },
+   "pages": [
+    {
+     "index": 0,
+     "start": 0.4,
+     "visible_end": 1.36,
+     "font_size": 56.0,
+     "keys": [
+      "src:0",
+      "src:1",
+      "src:2"
+     ],
+     "lines": [
+      "SO HONESTLY THE"
+     ]
+    },
+    {
+     "index": 1,
+     "start": 1.36,
+     "visible_end": 1.96,
+     "font_size": 56.0,
+     "keys": [
+      "src:3",
+      "src:4"
+     ],
+     "lines": [
+      "BIGGEST MISTAKE"
+     ]
+    },
+    {
+     "index": 2,
+     "start": 1.96,
+     "visible_end": 2.95,
+     "font_size": 56.0,
+     "keys": [
+      "src:5",
+      "src:6",
+      "src:7"
+     ],
+     "lines": [
+      "PEOPLE MAKE",
+      "WITH"
+     ]
+    },
+    {
+     "index": 3,
+     "start": 2.95,
+     "visible_end": 4.15,
+     "font_size": 56.0,
+     "keys": [
+      "src:8",
+      "src:9",
+      "src:10"
+     ],
+     "lines": [
+      "AI TUTORS IS"
+     ]
+    },
+    {
+     "index": 4,
+     "start": 4.15,
+     "visible_end": 5.38,
+     "font_size": 56.0,
+     "keys": [
+      "src:12",
+      "src:13"
+     ],
+     "lines": [
+      "THEM BLINDLY."
+     ]
+    },
+    {
+     "index": 5,
+     "start": 5.4,
+     "visible_end": 6.42,
+     "font_size": 56.0,
+     "keys": [
+      "src:14",
+      "src:15",
+      "src:16"
+     ],
+     "lines": [
+      "WAIT THAT IS"
+     ]
+    },
+    {
+     "index": 6,
+     "start": 6.42,
+     "visible_end": 7.38,
+     "font_size": 56.0,
+     "keys": [
+      "src:17",
+      "src:18",
+      "src:19"
+     ],
+     "lines": [
+      "NOT WHAT I"
+     ]
+    },
+    {
+     "index": 7,
+     "start": 7.38,
+     "visible_end": 8.34,
+     "font_size": 56.0,
+     "keys": [
+      "src:20",
+      "src:21",
+      "src:22"
+     ],
+     "lines": [
+      "EXPECTED AT ALL"
+     ]
+    },
+    {
+     "index": 8,
+     "start": 8.34,
+     "visible_end": 9.33,
+     "font_size": 56.0,
+     "keys": [
+      "src:23",
+      "src:24",
+      "src:25"
+     ],
+     "lines": [
+      "BUT HERE IS"
+     ]
+    },
+    {
+     "index": 9,
+     "start": 9.33,
+     "visible_end": 10.26,
+     "font_size": 56.0,
+     "keys": [
+      "src:26",
+      "src:27",
+      "src:28"
+     ],
+     "lines": [
+      "THE SURPRISING",
+      "PART"
+     ]
+    },
+    {
+     "index": 10,
+     "start": 10.26,
+     "visible_end": 10.59,
+     "font_size": 56.0,
+     "keys": [
+      "src:29"
+     ],
+     "lines": [
+      "INTERNATIONAL"
+     ]
+    },
+    {
+     "index": 11,
+     "start": 10.59,
+     "visible_end": 10.92,
+     "font_size": 56.0,
+     "keys": [
+      "src:30"
+     ],
+     "lines": [
+      "COLLABORATION"
+     ]
+    },
+    {
+     "index": 12,
+     "start": 10.92,
+     "visible_end": 12.0,
+     "font_size": 56.0,
+     "keys": [
+      "src:31",
+      "src:32"
+     ],
+     "lines": [
+      "CHANGES",
+      "EVERYTHING"
+     ]
+    }
+   ],
+   "cases": [
+    {
+     "t": 0.1,
+     "layout": {
+      "t": 0.1,
+      "template_id": "bold_pop",
+      "page": null
+     }
+    },
+    {
+     "t": 0.41,
+     "layout": {
+      "t": 0.41,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "SO HONESTLY THE",
+         "x": 77.61,
+         "y": 866.88,
+         "w": 564.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 77.61,
+           "w": 83.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 182.0,
+           "w": 320.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "THE",
+           "x": 523.39,
+           "w": 119.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 77.61,
+        "y": 866.88,
+        "w": 564.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 0.47,
+     "layout": {
+      "t": 0.47,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "SO HONESTLY THE",
+         "x": 77.61,
+         "y": 866.88,
+         "w": 564.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 77.61,
+           "w": 83.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 182.0,
+           "w": 320.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "THE",
+           "x": 523.39,
+           "w": 119.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 77.61,
+        "y": 866.88,
+        "w": 564.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.04,
+     "layout": {
+      "t": 1.04,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "SO HONESTLY THE",
+         "x": 77.61,
+         "y": 866.88,
+         "w": 564.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 77.61,
+           "w": 83.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 182.0,
+           "w": 320.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "THE",
+           "x": 523.39,
+           "w": 119.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 77.61,
+        "y": 866.88,
+        "w": 564.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.35,
+     "layout": {
+      "t": 1.35,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "SO HONESTLY THE",
+         "x": 77.61,
+         "y": 866.88,
+         "w": 564.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:0",
+           "text": "SO",
+           "x": 77.61,
+           "w": 83.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:1",
+           "text": "HONESTLY",
+           "x": 182.0,
+           "w": 320.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:2",
+           "text": "THE",
+           "x": 523.39,
+           "w": 119.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 77.61,
+        "y": 866.88,
+        "w": 564.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:0",
+         "start": 0.4,
+         "end": 0.64
+        },
+        {
+         "key": "src:1",
+         "start": 0.7,
+         "end": 0.97
+        },
+        {
+         "key": "src:2",
+         "start": 1.03,
+         "end": 1.3
+        }
+       ],
+       "index": 0,
+       "start": 0.4,
+       "last_end": 1.3,
+       "visible_end": 1.36,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.37,
+     "layout": {
+      "t": 1.37,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "BIGGEST MISTAKE",
+         "x": 86.31,
+         "y": 866.88,
+         "w": 547.39,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 86.31,
+           "w": 258.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 365.69,
+           "w": 268.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 86.31,
+        "y": 866.88,
+        "w": 547.39,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 1,
+       "start": 1.36,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.43,
+     "layout": {
+      "t": 1.43,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "BIGGEST MISTAKE",
+         "x": 86.31,
+         "y": 866.88,
+         "w": 547.39,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 86.31,
+           "w": 258.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 365.69,
+           "w": 268.0,
+           "emphasis": true,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 86.31,
+        "y": 866.88,
+        "w": 547.39,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 1,
+       "start": 1.36,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.67,
+     "layout": {
+      "t": 1.67,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "BIGGEST MISTAKE",
+         "x": 86.31,
+         "y": 866.88,
+         "w": 547.39,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 86.31,
+           "w": 258.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 365.69,
+           "w": 268.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 86.31,
+        "y": 866.88,
+        "w": 547.39,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 1,
+       "start": 1.36,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 1,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.95,
+     "layout": {
+      "t": 1.95,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "BIGGEST MISTAKE",
+         "x": 86.31,
+         "y": 866.88,
+         "w": 547.39,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:3",
+           "text": "BIGGEST",
+           "x": 86.31,
+           "w": 258.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:4",
+           "text": "MISTAKE",
+           "x": 365.69,
+           "w": 268.0,
+           "emphasis": true,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 86.31,
+        "y": 866.88,
+        "w": 547.39,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:3",
+         "start": 1.36,
+         "end": 1.6
+        },
+        {
+         "key": "src:4",
+         "start": 1.66,
+         "end": 1.9
+        }
+       ],
+       "index": 1,
+       "start": 1.36,
+       "last_end": 1.9,
+       "visible_end": 1.96,
+       "active": 1,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 1.97,
+     "layout": {
+      "t": 1.97,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "PEOPLE MAKE",
+         "x": 141.31,
+         "y": 837.76,
+         "w": 437.39,
+         "baseline": 886.96,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 141.31,
+           "w": 239.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 401.69,
+           "w": 177.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        },
+        {
+         "text": "WITH",
+         "x": 277.0,
+         "y": 896.0,
+         "w": 166.0,
+         "baseline": 945.2,
+         "words": [
+          {
+           "index": 2,
+           "key": "src:7",
+           "text": "WITH",
+           "x": 277.0,
+           "w": 166.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 141.31,
+        "y": 837.76,
+        "w": 437.39,
+        "h": 116.48
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        },
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        }
+       ],
+       "index": 2,
+       "start": 1.96,
+       "last_end": 2.89,
+       "visible_end": 2.95,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.03,
+     "layout": {
+      "t": 2.03,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "PEOPLE MAKE",
+         "x": 141.31,
+         "y": 837.76,
+         "w": 437.39,
+         "baseline": 886.96,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 141.31,
+           "w": 239.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 401.69,
+           "w": 177.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        },
+        {
+         "text": "WITH",
+         "x": 277.0,
+         "y": 896.0,
+         "w": 166.0,
+         "baseline": 945.2,
+         "words": [
+          {
+           "index": 2,
+           "key": "src:7",
+           "text": "WITH",
+           "x": 277.0,
+           "w": 166.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 141.31,
+        "y": 837.76,
+        "w": 437.39,
+        "h": 116.48
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        },
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        }
+       ],
+       "index": 2,
+       "start": 1.96,
+       "last_end": 2.89,
+       "visible_end": 2.95,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.6,
+     "layout": {
+      "t": 2.6,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "PEOPLE MAKE",
+         "x": 141.31,
+         "y": 837.76,
+         "w": 437.39,
+         "baseline": 886.96,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 141.31,
+           "w": 239.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 401.69,
+           "w": 177.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        },
+        {
+         "text": "WITH",
+         "x": 277.0,
+         "y": 896.0,
+         "w": 166.0,
+         "baseline": 945.2,
+         "words": [
+          {
+           "index": 2,
+           "key": "src:7",
+           "text": "WITH",
+           "x": 277.0,
+           "w": 166.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 141.31,
+        "y": 837.76,
+        "w": 437.39,
+        "h": 116.48
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        },
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        }
+       ],
+       "index": 2,
+       "start": 1.96,
+       "last_end": 2.89,
+       "visible_end": 2.95,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.94,
+     "layout": {
+      "t": 2.94,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "PEOPLE MAKE",
+         "x": 141.31,
+         "y": 837.76,
+         "w": 437.39,
+         "baseline": 886.96,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:5",
+           "text": "PEOPLE",
+           "x": 141.31,
+           "w": 239.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:6",
+           "text": "MAKE",
+           "x": 401.69,
+           "w": 177.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        },
+        {
+         "text": "WITH",
+         "x": 277.0,
+         "y": 896.0,
+         "w": 166.0,
+         "baseline": 945.2,
+         "words": [
+          {
+           "index": 2,
+           "key": "src:7",
+           "text": "WITH",
+           "x": 277.0,
+           "w": 166.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 141.31,
+        "y": 837.76,
+        "w": 437.39,
+        "h": 116.48
+       },
+       "words": [
+        {
+         "key": "src:5",
+         "start": 1.96,
+         "end": 2.17
+        },
+        {
+         "key": "src:6",
+         "start": 2.23,
+         "end": 2.53
+        },
+        {
+         "key": "src:7",
+         "start": 2.59,
+         "end": 2.89
+        }
+       ],
+       "index": 2,
+       "start": 1.96,
+       "last_end": 2.89,
+       "visible_end": 2.95,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 2.96,
+     "layout": {
+      "t": 2.96,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "AI TUTORS IS",
+         "x": 159.61,
+         "y": 866.88,
+         "w": 400.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:8",
+           "text": "AI",
+           "x": 159.61,
+           "w": 63.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:9",
+           "text": "TUTORS",
+           "x": 244.0,
+           "w": 240.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:10",
+           "text": "IS",
+           "x": 505.39,
+           "w": 55.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 159.61,
+        "y": 866.88,
+        "w": 400.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        }
+       ],
+       "index": 3,
+       "start": 2.95,
+       "last_end": 3.76,
+       "visible_end": 4.15,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 3.02,
+     "layout": {
+      "t": 3.02,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "AI TUTORS IS",
+         "x": 159.61,
+         "y": 866.88,
+         "w": 400.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:8",
+           "text": "AI",
+           "x": 159.61,
+           "w": 63.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:9",
+           "text": "TUTORS",
+           "x": 244.0,
+           "w": 240.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:10",
+           "text": "IS",
+           "x": 505.39,
+           "w": 55.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 159.61,
+        "y": 866.88,
+        "w": 400.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        }
+       ],
+       "index": 3,
+       "start": 2.95,
+       "last_end": 3.76,
+       "visible_end": 4.15,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 3.53,
+     "layout": {
+      "t": 3.53,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "AI TUTORS IS",
+         "x": 159.61,
+         "y": 866.88,
+         "w": 400.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:8",
+           "text": "AI",
+           "x": 159.61,
+           "w": 63.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:9",
+           "text": "TUTORS",
+           "x": 244.0,
+           "w": 240.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:10",
+           "text": "IS",
+           "x": 505.39,
+           "w": 55.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 159.61,
+        "y": 866.88,
+        "w": 400.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        }
+       ],
+       "index": 3,
+       "start": 2.95,
+       "last_end": 3.76,
+       "visible_end": 4.15,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 4.14,
+     "layout": {
+      "t": 4.14,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "AI TUTORS IS",
+         "x": 159.61,
+         "y": 866.88,
+         "w": 400.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:8",
+           "text": "AI",
+           "x": 159.61,
+           "w": 63.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:9",
+           "text": "TUTORS",
+           "x": 244.0,
+           "w": 240.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:10",
+           "text": "IS",
+           "x": 505.39,
+           "w": 55.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 159.61,
+        "y": 866.88,
+        "w": 400.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:8",
+         "start": 2.95,
+         "end": 3.19
+        },
+        {
+         "key": "src:9",
+         "start": 3.25,
+         "end": 3.46
+        },
+        {
+         "key": "src:10",
+         "start": 3.52,
+         "end": 3.76
+        }
+       ],
+       "index": 3,
+       "start": 2.95,
+       "last_end": 3.76,
+       "visible_end": 4.15,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 4.16,
+     "layout": {
+      "t": 4.16,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "THEM BLINDLY.",
+         "x": 125.31,
+         "y": 866.88,
+         "w": 469.39,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:12",
+           "text": "THEM",
+           "x": 125.31,
+           "w": 172.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:13",
+           "text": "BLINDLY.",
+           "x": 318.69,
+           "w": 276.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 125.31,
+        "y": 866.88,
+        "w": 469.39,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        },
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 4,
+       "start": 4.15,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 4.22,
+     "layout": {
+      "t": 4.22,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "THEM BLINDLY.",
+         "x": 125.31,
+         "y": 866.88,
+         "w": 469.39,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:12",
+           "text": "THEM",
+           "x": 125.31,
+           "w": 172.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:13",
+           "text": "BLINDLY.",
+           "x": 318.69,
+           "w": 276.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 125.31,
+        "y": 866.88,
+        "w": 469.39,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        },
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 4,
+       "start": 4.15,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 4.52,
+     "layout": {
+      "t": 4.52,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "THEM BLINDLY.",
+         "x": 125.31,
+         "y": 866.88,
+         "w": 469.39,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:12",
+           "text": "THEM",
+           "x": 125.31,
+           "w": 172.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:13",
+           "text": "BLINDLY.",
+           "x": 318.69,
+           "w": 276.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 125.31,
+        "y": 866.88,
+        "w": 469.39,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        },
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 4,
+       "start": 4.15,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": 1,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 5.37,
+     "layout": {
+      "t": 5.37,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "THEM BLINDLY.",
+         "x": 125.31,
+         "y": 866.88,
+         "w": 469.39,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:12",
+           "text": "THEM",
+           "x": 125.31,
+           "w": 172.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:13",
+           "text": "BLINDLY.",
+           "x": 318.69,
+           "w": 276.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 125.31,
+        "y": 866.88,
+        "w": 469.39,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:12",
+         "start": 4.15,
+         "end": 4.45
+        },
+        {
+         "key": "src:13",
+         "start": 4.51,
+         "end": 4.78
+        }
+       ],
+       "index": 4,
+       "start": 4.15,
+       "last_end": 4.78,
+       "visible_end": 5.38,
+       "active": 1,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 5.41,
+     "layout": {
+      "t": 5.41,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "WAIT THAT IS",
+         "x": 148.11,
+         "y": 866.88,
+         "w": 423.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "WAIT",
+           "x": 148.11,
+           "w": 165.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "THAT",
+           "x": 334.5,
+           "w": 161.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "IS",
+           "x": 516.89,
+           "w": 55.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 148.11,
+        "y": 866.88,
+        "w": 423.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        }
+       ],
+       "index": 5,
+       "start": 5.4,
+       "last_end": 6.36,
+       "visible_end": 6.42,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 5.47,
+     "layout": {
+      "t": 5.47,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "WAIT THAT IS",
+         "x": 148.11,
+         "y": 866.88,
+         "w": 423.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "WAIT",
+           "x": 148.11,
+           "w": 165.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "THAT",
+           "x": 334.5,
+           "w": 161.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "IS",
+           "x": 516.89,
+           "w": 55.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 148.11,
+        "y": 866.88,
+        "w": 423.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        }
+       ],
+       "index": 5,
+       "start": 5.4,
+       "last_end": 6.36,
+       "visible_end": 6.42,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 6.13,
+     "layout": {
+      "t": 6.13,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "WAIT THAT IS",
+         "x": 148.11,
+         "y": 866.88,
+         "w": 423.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "WAIT",
+           "x": 148.11,
+           "w": 165.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "THAT",
+           "x": 334.5,
+           "w": 161.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "IS",
+           "x": 516.89,
+           "w": 55.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 148.11,
+        "y": 866.88,
+        "w": 423.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        }
+       ],
+       "index": 5,
+       "start": 5.4,
+       "last_end": 6.36,
+       "visible_end": 6.42,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 6.41,
+     "layout": {
+      "t": 6.41,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "WAIT THAT IS",
+         "x": 148.11,
+         "y": 866.88,
+         "w": 423.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:14",
+           "text": "WAIT",
+           "x": 148.11,
+           "w": 165.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:15",
+           "text": "THAT",
+           "x": 334.5,
+           "w": 161.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:16",
+           "text": "IS",
+           "x": 516.89,
+           "w": 55.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 148.11,
+        "y": 866.88,
+        "w": 423.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:14",
+         "start": 5.4,
+         "end": 5.7
+        },
+        {
+         "key": "src:15",
+         "start": 5.76,
+         "end": 6.06
+        },
+        {
+         "key": "src:16",
+         "start": 6.12,
+         "end": 6.36
+        }
+       ],
+       "index": 5,
+       "start": 5.4,
+       "last_end": 6.36,
+       "visible_end": 6.42,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 6.43,
+     "layout": {
+      "t": 6.43,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "NOT WHAT I",
+         "x": 169.61,
+         "y": 866.88,
+         "w": 380.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:17",
+           "text": "NOT",
+           "x": 169.61,
+           "w": 128.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:18",
+           "text": "WHAT",
+           "x": 319.0,
+           "w": 191.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:19",
+           "text": "I",
+           "x": 531.39,
+           "w": 19.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 169.61,
+        "y": 866.88,
+        "w": 380.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 6,
+       "start": 6.42,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": 0,
+       "progress": 0.08,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 6.49,
+     "layout": {
+      "t": 6.49,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "NOT WHAT I",
+         "x": 169.61,
+         "y": 866.88,
+         "w": 380.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:17",
+           "text": "NOT",
+           "x": 169.61,
+           "w": 128.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:18",
+           "text": "WHAT",
+           "x": 319.0,
+           "w": 191.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:19",
+           "text": "I",
+           "x": 531.39,
+           "w": 19.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 169.61,
+        "y": 866.88,
+        "w": 380.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 6,
+       "start": 6.42,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": 0,
+       "progress": 0.58,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 7.12,
+     "layout": {
+      "t": 7.12,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "NOT WHAT I",
+         "x": 169.61,
+         "y": 866.88,
+         "w": 380.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:17",
+           "text": "NOT",
+           "x": 169.61,
+           "w": 128.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:18",
+           "text": "WHAT",
+           "x": 319.0,
+           "w": 191.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:19",
+           "text": "I",
+           "x": 531.39,
+           "w": 19.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 169.61,
+        "y": 866.88,
+        "w": 380.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 6,
+       "start": 6.42,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 7.37,
+     "layout": {
+      "t": 7.37,
+      "template_id": "bold_pop",
+      "page": {
+       "font_size": 56.0,
+       "line_height_px": 58.24,
+       "lines": [
+        {
+         "text": "NOT WHAT I",
+         "x": 169.61,
+         "y": 866.88,
+         "w": 380.77,
+         "baseline": 916.08,
+         "words": [
+          {
+           "index": 0,
+           "key": "src:17",
+           "text": "NOT",
+           "x": 169.61,
+           "w": 128.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 1,
+           "key": "src:18",
+           "text": "WHAT",
+           "x": 319.0,
+           "w": 191.0,
+           "emphasis": false,
+           "active": false,
+           "scale": 1.0
+          },
+          {
+           "index": 2,
+           "key": "src:19",
+           "text": "I",
+           "x": 531.39,
+           "w": 19.0,
+           "emphasis": false,
+           "active": true,
+           "scale": 1.0
+          }
+         ]
+        }
+       ],
+       "block": {
+        "x": 169.61,
+        "y": 866.88,
+        "w": 380.77,
+        "h": 58.24
+       },
+       "words": [
+        {
+         "key": "src:17",
+         "start": 6.42,
+         "end": 6.69
+        },
+        {
+         "key": "src:18",
+         "start": 6.75,
+         "end": 7.05
+        },
+        {
+         "key": "src:19",
+         "start": 7.11,
+         "end": 7.32
+        }
+       ],
+       "index": 6,
+       "start": 6.42,
+       "last_end": 7.32,
+       "visible_end": 7.38,
+       "active": 2,
+       "progress": 1.0,
+       "animation": "pop"
+      }
+     }
+    },
+    {
+     "t": 12.05,
+     "layout": {
+      "t": 12.05,
+      "template_id": "bold_pop",
+      "page": null
+     }
+    }
+   ]
+  }
+ ]
+}
